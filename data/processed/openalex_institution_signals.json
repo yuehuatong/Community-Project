@@ -1,0 +1,1100 @@
+{
+  "Massachusetts Institute of Technology (MIT)": {
+    "searchName": "Massachusetts Institute of Technology",
+    "searchUrl": "https://api.openalex.org/institutions?search=Massachusetts%20Institute%20of%20Technology&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I63966007",
+      "displayName": "Massachusetts Institute of Technology",
+      "countryCode": "US",
+      "type": "education",
+      "ror": "https://ror.org/042nb2s44",
+      "worksCount": 346615,
+      "citedByCount": 64442259,
+      "hIndex": 2256,
+      "twoYearMeanCitedness": 6.968495176930176,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "Massachusetts Institute of Technology (MIT)",
+      "sustainabilityWorks": 30,
+      "top25Citations": 703,
+      "topWork1": "The costs and benefits of biochar production and use: A systematic review",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I63966007,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "Imperial College London": {
+    "searchName": "Imperial College London",
+    "searchUrl": "https://api.openalex.org/institutions?search=Imperial%20College%20London&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I47508984",
+      "displayName": "Imperial College London",
+      "countryCode": "GB",
+      "type": "education",
+      "ror": "https://ror.org/041kmwe10",
+      "worksCount": 385643,
+      "citedByCount": 41878275,
+      "hIndex": 1547,
+      "twoYearMeanCitedness": 6.463639294431907,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "Imperial College London",
+      "sustainabilityWorks": 54,
+      "top25Citations": 1581,
+      "topWork1": "Global Pricing of Carbon‐Transition Risk",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I47508984,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "Stanford University": {
+    "searchName": "Stanford University",
+    "searchUrl": "https://api.openalex.org/institutions?search=Stanford%20University&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I97018004",
+      "displayName": "Stanford University",
+      "countryCode": "US",
+      "type": "education",
+      "ror": "https://ror.org/00f54p054",
+      "worksCount": 526453,
+      "citedByCount": 87021226,
+      "hIndex": 2481,
+      "twoYearMeanCitedness": 6.333391334609361,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "Stanford University",
+      "sustainabilityWorks": 39,
+      "top25Citations": 1027,
+      "topWork1": "Executive Compensation Tied to ESG Performance: International Evidence",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I97018004,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "University of Oxford": {
+    "searchName": "University of Oxford",
+    "searchUrl": "https://api.openalex.org/institutions?search=University%20of%20Oxford&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I40120149",
+      "displayName": "University of Oxford",
+      "countryCode": "GB",
+      "type": "education",
+      "ror": "https://ror.org/052gg0110",
+      "worksCount": 591654,
+      "citedByCount": 63064705,
+      "hIndex": 2069,
+      "twoYearMeanCitedness": 4.644657991249698,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "University of Oxford",
+      "sustainabilityWorks": 109,
+      "top25Citations": 1940,
+      "topWork1": "Six Human-Centered Artificial Intelligence Grand Challenges",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I40120149,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "Harvard University": {
+    "searchName": "Harvard University",
+    "searchUrl": "https://api.openalex.org/institutions?search=Harvard%20University&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I136199984",
+      "displayName": "Harvard University",
+      "countryCode": "US",
+      "type": "education",
+      "ror": "https://ror.org/03vek6s52",
+      "worksCount": 702504,
+      "citedByCount": 143429782,
+      "hIndex": 2765,
+      "twoYearMeanCitedness": 7.18317940039834,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "Harvard University",
+      "sustainabilityWorks": 22,
+      "top25Citations": 323,
+      "topWork1": "The Lancet One Health Commission: harnessing our interconnectedness for equitable, sustainable, and healthy socioecological systems",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I136199984,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "University of Cambridge": {
+    "searchName": "University of Cambridge",
+    "searchUrl": "https://api.openalex.org/institutions?search=University%20of%20Cambridge&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I241749",
+      "displayName": "University of Cambridge",
+      "countryCode": "GB",
+      "type": "education",
+      "ror": "https://ror.org/013meh722",
+      "worksCount": 445734,
+      "citedByCount": 53461283,
+      "hIndex": 1817,
+      "twoYearMeanCitedness": 6.133810595553489,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "University of Cambridge",
+      "sustainabilityWorks": 109,
+      "top25Citations": 1482,
+      "topWork1": "The role of high-socioeconomic-status people in locking in or rapidly reducing energy-driven greenhouse gas emissions",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I241749,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "California Institute of Technology (Caltech)": {
+    "searchName": "California Institute of Technology",
+    "searchUrl": "https://api.openalex.org/institutions?search=California%20Institute%20of%20Technology&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I122411786",
+      "displayName": "California Institute of Technology",
+      "countryCode": "US",
+      "type": "education",
+      "ror": "https://ror.org/05dxps055",
+      "worksCount": 243784,
+      "citedByCount": 36706637,
+      "hIndex": 1855,
+      "twoYearMeanCitedness": 7.995983113726494,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "California Institute of Technology (Caltech)",
+      "sustainabilityWorks": 0,
+      "top25Citations": 0,
+      "topWork1": "",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I122411786,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "ETH Zurich": {
+    "searchName": "ETH Zurich",
+    "searchUrl": "https://api.openalex.org/institutions?search=ETH%20Zurich&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I35440088",
+      "displayName": "ETH Zurich",
+      "countryCode": "CH",
+      "type": "education",
+      "ror": "https://ror.org/05a28rw58",
+      "worksCount": 246008,
+      "citedByCount": 26830576,
+      "hIndex": 1168,
+      "twoYearMeanCitedness": 3.6155687052305474,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "ETH Zurich",
+      "sustainabilityWorks": 51,
+      "top25Citations": 655,
+      "topWork1": "Sustainable finance literacy and the determinants of sustainable investing",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I35440088,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "UCL": {
+    "searchName": "University College London",
+    "searchUrl": "https://api.openalex.org/institutions?search=University%20College%20London&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I45129253",
+      "displayName": "University College London",
+      "countryCode": "GB",
+      "type": "education",
+      "ror": "https://ror.org/02jx3x895",
+      "worksCount": 580396,
+      "citedByCount": 65453383,
+      "hIndex": 2064,
+      "twoYearMeanCitedness": 5.167632725132431,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "University College London",
+      "sustainabilityWorks": 106,
+      "top25Citations": 1348,
+      "topWork1": "Financing sustainable entrepreneurship: ESG measurement, valuation, and performance",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I45129253,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "National University of Singapore (NUS)": {
+    "searchName": "National University of Singapore",
+    "searchUrl": "https://api.openalex.org/institutions?search=National%20University%20of%20Singapore&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I165932596",
+      "displayName": "National University of Singapore",
+      "countryCode": "SG",
+      "type": "education",
+      "ror": "https://ror.org/01tgyzw49",
+      "worksCount": 278475,
+      "citedByCount": 24881481,
+      "hIndex": 1088,
+      "twoYearMeanCitedness": 6.439343123635642,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "National University of Singapore (NUS)",
+      "sustainabilityWorks": 62,
+      "top25Citations": 807,
+      "topWork1": "Moving beyond “the” business case: How to make corporate sustainability work",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I165932596,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "The University of Hong Kong": {
+    "searchName": "University of Hong Kong",
+    "searchUrl": "https://api.openalex.org/institutions?search=University%20of%20Hong%20Kong&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I889458895",
+      "displayName": "University of Hong Kong",
+      "countryCode": "HK",
+      "type": "education",
+      "ror": "https://ror.org/02zhqgq86",
+      "worksCount": 229578,
+      "citedByCount": 21959153,
+      "hIndex": 1165,
+      "twoYearMeanCitedness": 4.980769061124392,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "The University of Hong Kong",
+      "sustainabilityWorks": 72,
+      "top25Citations": 520,
+      "topWork1": "Wide-bandgap semiconductors and power electronics as pathways to carbon neutrality",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I889458895,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "Nanyang Technological University, Singapore (NTU Singapore)": {
+    "error": "Error: 429 Too Many Requests for https://api.openalex.org/institutions?search=Nanyang%20Technological%20University%2C%20Singapore&per-page=5&mailto=busa649%40example.com"
+  },
+  "Peking University": {
+    "searchName": "Peking University",
+    "searchUrl": "https://api.openalex.org/institutions?search=Peking%20University&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I20231570",
+      "displayName": "Peking University",
+      "countryCode": "CN",
+      "type": "education",
+      "ror": "https://ror.org/02v51f717",
+      "worksCount": 392633,
+      "citedByCount": 31849348,
+      "hIndex": 1121,
+      "twoYearMeanCitedness": 5.068202388769588,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "Peking University",
+      "sustainabilityWorks": 41,
+      "top25Citations": 563,
+      "topWork1": "The impact of climate change on corporate ESG performance: The role of resource misallocation in enterprises",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I20231570,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "Tsinghua University": {
+    "searchName": "Tsinghua University",
+    "searchUrl": "https://api.openalex.org/institutions?search=Tsinghua%20University&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I99065089",
+      "displayName": "Tsinghua University",
+      "countryCode": "CN",
+      "type": "education",
+      "ror": "https://ror.org/03cve4549",
+      "worksCount": 375158,
+      "citedByCount": 32944339,
+      "hIndex": 1178,
+      "twoYearMeanCitedness": 6.657407824044493,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "Tsinghua University",
+      "sustainabilityWorks": 45,
+      "top25Citations": 239,
+      "topWork1": "Research landscape of energy transition and green finance: A bibliometric analysis",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I99065089,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "University of Pennsylvania": {
+    "searchName": "University of Pennsylvania",
+    "searchUrl": "https://api.openalex.org/institutions?search=University%20of%20Pennsylvania&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I79576946",
+      "displayName": "University of Pennsylvania",
+      "countryCode": "US",
+      "type": "education",
+      "ror": "https://ror.org/00b30xv10",
+      "worksCount": 379850,
+      "citedByCount": 54682279,
+      "hIndex": 1742,
+      "twoYearMeanCitedness": 6.025950926632887,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "University of Pennsylvania",
+      "sustainabilityWorks": 25,
+      "top25Citations": 2081,
+      "topWork1": "Mandatory CSR and sustainability reporting: economic analysis and literature review",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I79576946,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "Cornell University": {
+    "searchName": "Cornell University",
+    "searchUrl": "https://api.openalex.org/institutions?search=Cornell%20University&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I205783295",
+      "displayName": "Cornell University",
+      "countryCode": "US",
+      "type": "education",
+      "ror": "https://ror.org/05bnh6r87",
+      "worksCount": 471050,
+      "citedByCount": 56395233,
+      "hIndex": 1850,
+      "twoYearMeanCitedness": 4.9625856132686685,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "Cornell University",
+      "sustainabilityWorks": 30,
+      "top25Citations": 223,
+      "topWork1": "Global land deals: what has been done, what has changed, and what's next?",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I205783295,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "Yale University": {
+    "searchName": "Yale University",
+    "searchUrl": "https://api.openalex.org/institutions?search=Yale%20University&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I32971472",
+      "displayName": "Yale University",
+      "countryCode": "US",
+      "type": "education",
+      "ror": "https://ror.org/03v76x132",
+      "worksCount": 409744,
+      "citedByCount": 51715752,
+      "hIndex": 1798,
+      "twoYearMeanCitedness": 2.5387118027945017,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "Yale University",
+      "sustainabilityWorks": 31,
+      "top25Citations": 522,
+      "topWork1": "Biodiversity Risk",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I32971472,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "The Chinese University of Hong Kong (CUHK)": {
+    "searchName": "Chinese University of Hong Kong",
+    "searchUrl": "https://api.openalex.org/institutions?search=Chinese%20University%20of%20Hong%20Kong&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I177725633",
+      "displayName": "Chinese University of Hong Kong",
+      "countryCode": "HK",
+      "type": "education",
+      "ror": "https://ror.org/00t33hh48",
+      "worksCount": 197176,
+      "citedByCount": 17587116,
+      "hIndex": 1105,
+      "twoYearMeanCitedness": 3.2499516764552823,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "The Chinese University of Hong Kong (CUHK)",
+      "sustainabilityWorks": 36,
+      "top25Citations": 1463,
+      "topWork1": "Firm‐Level Climate Change Exposure",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I177725633,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "Johns Hopkins University": {
+    "searchName": "Johns Hopkins University",
+    "searchUrl": "https://api.openalex.org/institutions?search=Johns%20Hopkins%20University&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I145311948",
+      "displayName": "Johns Hopkins University",
+      "countryCode": "US",
+      "type": "education",
+      "ror": "https://ror.org/00za53h95",
+      "worksCount": 496690,
+      "citedByCount": 76454712,
+      "hIndex": 2254,
+      "twoYearMeanCitedness": 4.129738234097382,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "Johns Hopkins University",
+      "sustainabilityWorks": 23,
+      "top25Citations": 706,
+      "topWork1": "Six Human-Centered Artificial Intelligence Grand Challenges",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I145311948,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "University of California, Berkeley (UCB)": {
+    "searchName": "University of California, Berkeley",
+    "searchUrl": "https://api.openalex.org/institutions?search=University%20of%20California%2C%20Berkeley&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I95457486",
+      "displayName": "University of California, Berkeley",
+      "countryCode": "US",
+      "type": "education",
+      "ror": "https://ror.org/01an7q238",
+      "worksCount": 448559,
+      "citedByCount": 56042691,
+      "hIndex": 1869,
+      "twoYearMeanCitedness": 3.857250755287009,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "University of California, Berkeley (UCB)",
+      "sustainabilityWorks": 42,
+      "top25Citations": 744,
+      "topWork1": "Outsider Oversight: Designing a Third Party Audit Ecosystem for AI Governance",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I95457486,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "EPFL – École polytechnique fédérale de Lausanne": {
+    "searchName": "École Polytechnique Fédérale de Lausanne",
+    "searchUrl": "https://api.openalex.org/institutions?search=%C3%89cole%20Polytechnique%20F%C3%A9d%C3%A9rale%20de%20Lausanne&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I5124864",
+      "displayName": "École Polytechnique Fédérale de Lausanne",
+      "countryCode": "CH",
+      "type": "education",
+      "ror": "https://ror.org/02s376052",
+      "worksCount": 164769,
+      "citedByCount": 19717132,
+      "hIndex": 1218,
+      "twoYearMeanCitedness": 4.951216477989657,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "Ecole Polytechnique Federale de Lausanne",
+      "sustainabilityWorks": 8,
+      "top25Citations": 111,
+      "topWork1": "Developments and applications of the OPTIMADE API for materials discovery, design, and data exchange",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I5124864,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "The University of Melbourne": {
+    "searchName": "University of Melbourne",
+    "searchUrl": "https://api.openalex.org/institutions?search=University%20of%20Melbourne&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I165779595",
+      "displayName": "The University of Melbourne",
+      "countryCode": "AU",
+      "type": "education",
+      "ror": "https://ror.org/01ej9dk98",
+      "worksCount": 343875,
+      "citedByCount": 30670306,
+      "hIndex": 1271,
+      "twoYearMeanCitedness": 4.02694927100434,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "The University of Melbourne",
+      "sustainabilityWorks": 73,
+      "top25Citations": 1537,
+      "topWork1": "Defining and conceptualising the commercial determinants of health",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I165779595,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "University of Chicago": {
+    "searchName": "University of Chicago",
+    "searchUrl": "https://api.openalex.org/institutions?search=University%20of%20Chicago&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I40347166",
+      "displayName": "University of Chicago",
+      "countryCode": "US",
+      "type": "education",
+      "ror": "https://ror.org/024mw5h28",
+      "worksCount": 307564,
+      "citedByCount": 34490962,
+      "hIndex": 1628,
+      "twoYearMeanCitedness": 4.243054757692042,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "University of Chicago",
+      "sustainabilityWorks": 18,
+      "top25Citations": 1782,
+      "topWork1": "Mandatory CSR and sustainability reporting: economic analysis and literature review",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I40347166,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "Technical University of Munich": {
+    "searchName": "Technical University of Munich",
+    "searchUrl": "https://api.openalex.org/institutions?search=Technical%20University%20of%20Munich&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I62916508",
+      "displayName": "Technical University of Munich",
+      "countryCode": "DE",
+      "type": "education",
+      "ror": "https://ror.org/02kkvpp62",
+      "worksCount": 226449,
+      "citedByCount": 18689260,
+      "hIndex": 1018,
+      "twoYearMeanCitedness": 3.875046800796106,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "Technical University of Munich",
+      "sustainabilityWorks": 50,
+      "top25Citations": 1913,
+      "topWork1": "Six Human-Centered Artificial Intelligence Grand Challenges",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I62916508,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "Fudan University": {
+    "searchName": "Fudan University",
+    "searchUrl": "https://api.openalex.org/institutions?search=Fudan%20University&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I24943067",
+      "displayName": "Fudan University",
+      "countryCode": "CN",
+      "type": "education",
+      "ror": "https://ror.org/013q1eq08",
+      "worksCount": 241548,
+      "citedByCount": 20114326,
+      "hIndex": 856,
+      "twoYearMeanCitedness": 5.130278271166371,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "Fudan University",
+      "sustainabilityWorks": 39,
+      "top25Citations": 638,
+      "topWork1": "Responsible Hedge Funds",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I24943067,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "Princeton University": {
+    "searchName": "Princeton University",
+    "searchUrl": "https://api.openalex.org/institutions?search=Princeton%20University&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I20089843",
+      "displayName": "Princeton University",
+      "countryCode": "US",
+      "type": "education",
+      "ror": "https://ror.org/00hx57361",
+      "worksCount": 211011,
+      "citedByCount": 26915776,
+      "hIndex": 1544,
+      "twoYearMeanCitedness": 7.048268213221193,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "Princeton University",
+      "sustainabilityWorks": 18,
+      "top25Citations": 187,
+      "topWork1": "Know, Know Where, KnowWhereGraph: A densely connected, cross‐domain knowledge graph and geo‐enrichment service stack for applications in environmental intelligence",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I20089843,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "McGill University": {
+    "searchName": "McGill University",
+    "searchUrl": "https://api.openalex.org/institutions?search=McGill%20University&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I5023651",
+      "displayName": "McGill University",
+      "countryCode": "CA",
+      "type": "education",
+      "ror": "https://ror.org/01pxwe438",
+      "worksCount": 294608,
+      "citedByCount": 27294553,
+      "hIndex": 1224,
+      "twoYearMeanCitedness": 3.8992698643353143,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "McGill University",
+      "sustainabilityWorks": 14,
+      "top25Citations": 96,
+      "topWork1": "Compound urban crises",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I5023651,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "University of Toronto": {
+    "searchName": "University of Toronto",
+    "searchUrl": "https://api.openalex.org/institutions?search=University%20of%20Toronto&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I185261750",
+      "displayName": "University of Toronto",
+      "countryCode": "CA",
+      "type": "education",
+      "ror": "https://ror.org/03dbr7087",
+      "worksCount": 552359,
+      "citedByCount": 58386031,
+      "hIndex": 1778,
+      "twoYearMeanCitedness": 4.350722480126825,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "University of Toronto",
+      "sustainabilityWorks": 42,
+      "top25Citations": 840,
+      "topWork1": "Scientific evidence on the political impact of the Sustainable Development Goals",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I185261750,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "Université PSL": {
+    "searchName": "Paris Sciences et Lettres University",
+    "searchUrl": "https://api.openalex.org/institutions?search=Paris%20Sciences%20et%20Lettres%20University&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I2746051580",
+      "displayName": "Université Paris Sciences et Lettres",
+      "countryCode": "FR",
+      "type": "education",
+      "ror": "https://ror.org/013cjyk83",
+      "worksCount": 45619,
+      "citedByCount": 4790808,
+      "hIndex": 706,
+      "twoYearMeanCitedness": 5.493890190826916,
+      "matchScore": 0.8888888888888888,
+      "matchType": "Contains",
+      "matchAlias": "Paris Sciences et Lettres",
+      "sustainabilityWorks": 2,
+      "top25Citations": 21,
+      "topWork1": "Mainstreaming biodiversity targets into sectoral policies and plans: A review from a Biodiversity Policy Integration perspective",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I2746051580,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "The University of Edinburgh": {
+    "searchName": "University of Edinburgh",
+    "searchUrl": "https://api.openalex.org/institutions?search=University%20of%20Edinburgh&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I98677209",
+      "displayName": "University of Edinburgh",
+      "countryCode": "GB",
+      "type": "education",
+      "ror": "https://ror.org/01nrxwf90",
+      "worksCount": 280507,
+      "citedByCount": 26021030,
+      "hIndex": 1330,
+      "twoYearMeanCitedness": 4.0102119587992675,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "The University of Edinburgh",
+      "sustainabilityWorks": 70,
+      "top25Citations": 1039,
+      "topWork1": "Commercial determinants of health: future directions",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I98677209,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "Shanghai Jiao Tong University": {
+    "searchName": "Shanghai Jiao Tong University",
+    "searchUrl": "https://api.openalex.org/institutions?search=Shanghai%20Jiao%20Tong%20University&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I183067930",
+      "displayName": "Shanghai Jiao Tong University",
+      "countryCode": "CN",
+      "type": "education",
+      "ror": "https://ror.org/0220qvk04",
+      "worksCount": 365719,
+      "citedByCount": 27998716,
+      "hIndex": 877,
+      "twoYearMeanCitedness": 5.670789907476338,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "Shanghai Jiao Tong University",
+      "sustainabilityWorks": 32,
+      "top25Citations": 170,
+      "topWork1": "Impact of Environmental Regulation on Export Technological Complexity of High-Tech Industries in Chinese Manufacturing",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I183067930,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "King's College London": {
+    "searchName": "King's College London",
+    "searchUrl": "https://api.openalex.org/institutions?search=King's%20College%20London&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I183935753",
+      "displayName": "King's College London",
+      "countryCode": "GB",
+      "type": "education",
+      "ror": "https://ror.org/0220mzb33",
+      "worksCount": 259164,
+      "citedByCount": 22712425,
+      "hIndex": 1240,
+      "twoYearMeanCitedness": 3.7733075732461003,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "King's College London",
+      "sustainabilityWorks": 61,
+      "top25Citations": 567,
+      "topWork1": "From passive owners to planet savers? Asset managers, carbon majors and the limits of sustainable finance",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I183935753,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "The University of Tokyo": {
+    "searchName": "University of Tokyo",
+    "searchUrl": "https://api.openalex.org/institutions?search=University%20of%20Tokyo&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I74801974",
+      "displayName": "The University of Tokyo",
+      "countryCode": "JP",
+      "type": "education",
+      "ror": "https://ror.org/057zh3y96",
+      "worksCount": 506475,
+      "citedByCount": 46577660,
+      "hIndex": 1388,
+      "twoYearMeanCitedness": 4.006685575364668,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "The University of Tokyo",
+      "sustainabilityWorks": 26,
+      "top25Citations": 138,
+      "topWork1": "Transnational Corporations, Biosphere Stewardship, and Sustainable Futures",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I74801974,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "Columbia University": {
+    "searchName": "Columbia University",
+    "searchUrl": "https://api.openalex.org/institutions?search=Columbia%20University&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I78577930",
+      "displayName": "Columbia University",
+      "countryCode": "US",
+      "type": "education",
+      "ror": "https://ror.org/00hj8s172",
+      "worksCount": 385821,
+      "citedByCount": 47254906,
+      "hIndex": 1722,
+      "twoYearMeanCitedness": 4.764624525608825,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "Columbia University",
+      "sustainabilityWorks": 42,
+      "top25Citations": 738,
+      "topWork1": "Do ESG funds make stakeholder-friendly investments?",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I78577930,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "Northwestern University": {
+    "searchName": "Northwestern University",
+    "searchUrl": "https://api.openalex.org/institutions?search=Northwestern%20University&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I111979921",
+      "displayName": "Northwestern University",
+      "countryCode": "US",
+      "type": "education",
+      "ror": "https://ror.org/000e0be47",
+      "worksCount": 260473,
+      "citedByCount": 35682724,
+      "hIndex": 1442,
+      "twoYearMeanCitedness": 5.587617350602377,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "Northwestern University",
+      "sustainabilityWorks": 10,
+      "top25Citations": 226,
+      "topWork1": "India’s pathway to net zero by 2070: status, challenges, and way forward",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I111979921,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "University of British Columbia": {
+    "searchName": "University of British Columbia",
+    "searchUrl": "https://api.openalex.org/institutions?search=University%20of%20British%20Columbia&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I141945490",
+      "displayName": "University of British Columbia",
+      "countryCode": "CA",
+      "type": "education",
+      "ror": "https://ror.org/03rmrcq20",
+      "worksCount": 373906,
+      "citedByCount": 32286272,
+      "hIndex": 1332,
+      "twoYearMeanCitedness": 3.128641638332952,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "University of British Columbia",
+      "sustainabilityWorks": 31,
+      "top25Citations": 358,
+      "topWork1": "The mining industry as a net beneficiary of a global tax on carbon emissions",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I141945490,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "Zhejiang University": {
+    "searchName": "Zhejiang University",
+    "searchUrl": "https://api.openalex.org/institutions?search=Zhejiang%20University&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I76130692",
+      "displayName": "Zhejiang University",
+      "countryCode": "CN",
+      "type": "education",
+      "ror": "https://ror.org/00a2xv884",
+      "worksCount": 369543,
+      "citedByCount": 29403032,
+      "hIndex": 938,
+      "twoYearMeanCitedness": 5.656310474276952,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "Zhejiang University",
+      "sustainabilityWorks": 54,
+      "top25Citations": 1398,
+      "topWork1": "Six Human-Centered Artificial Intelligence Grand Challenges",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I76130692,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "University of California, Los Angeles (UCLA)": {
+    "searchName": "University of California, Los Angeles",
+    "searchUrl": "https://api.openalex.org/institutions?search=University%20of%20California%2C%20Los%20Angeles&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I161318765",
+      "displayName": "University of California, Los Angeles",
+      "countryCode": "US",
+      "type": "education",
+      "ror": "https://ror.org/046rm7j60",
+      "worksCount": 414149,
+      "citedByCount": 51663588,
+      "hIndex": 1635,
+      "twoYearMeanCitedness": 4.189805846909172,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "University of California, Los Angeles (UCLA)",
+      "sustainabilityWorks": 12,
+      "top25Citations": 676,
+      "topWork1": "A Survey on AI-Driven Digital Twins in Industry 4.0: Smart Manufacturing and Advanced Robotics",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I161318765,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "The University of New South Wales (UNSW Sydney)": {
+    "searchName": "University of New South Wales",
+    "searchUrl": "https://api.openalex.org/institutions?search=University%20of%20New%20South%20Wales&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I31746571",
+      "displayName": "UNSW Sydney",
+      "countryCode": "AU",
+      "type": "education",
+      "ror": "https://ror.org/03r8z3t63",
+      "worksCount": 272409,
+      "citedByCount": 20005620,
+      "hIndex": 1040,
+      "twoYearMeanCitedness": 5.1272158260233915,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "UNSW Sydney",
+      "sustainabilityWorks": 68,
+      "top25Citations": 736,
+      "topWork1": "Beyond the Visible, the Material and the Performative: Shifting Perspectives on the Visual in <i>Organization Studies</i>",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I31746571,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "The University of Sydney": {
+    "searchName": "University of Sydney",
+    "searchUrl": "https://api.openalex.org/institutions?search=University%20of%20Sydney&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I129604602",
+      "displayName": "The University of Sydney",
+      "countryCode": "AU",
+      "type": "education",
+      "ror": "https://ror.org/0384j8v12",
+      "worksCount": 333253,
+      "citedByCount": 26821216,
+      "hIndex": 1274,
+      "twoYearMeanCitedness": 4.746167615638033,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "The University of Sydney",
+      "sustainabilityWorks": 76,
+      "top25Citations": 1465,
+      "topWork1": "Defining and conceptualising the commercial determinants of health",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I129604602,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "Australian National University (ANU)": {
+    "searchName": "Australian National University",
+    "searchUrl": "https://api.openalex.org/institutions?search=Australian%20National%20University&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I118347636",
+      "displayName": "Australian National University",
+      "countryCode": "AU",
+      "type": "education",
+      "ror": "https://ror.org/019wvm592",
+      "worksCount": 191907,
+      "citedByCount": 14525628,
+      "hIndex": 1065,
+      "twoYearMeanCitedness": 4.280657905345481,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "Australian National University (ANU)",
+      "sustainabilityWorks": 70,
+      "top25Citations": 1833,
+      "topWork1": "Defining and conceptualising the commercial determinants of health",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I118347636,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "Monash University": {
+    "searchName": "Monash University",
+    "searchUrl": "https://api.openalex.org/institutions?search=Monash%20University&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I56590836",
+      "displayName": "Monash University",
+      "countryCode": "AU",
+      "type": "education",
+      "ror": "https://ror.org/02bfwt286",
+      "worksCount": 282308,
+      "citedByCount": 21543080,
+      "hIndex": 1081,
+      "twoYearMeanCitedness": 4.473423980222497,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "Monash University",
+      "sustainabilityWorks": 75,
+      "top25Citations": 1487,
+      "topWork1": "Scientific evidence on the political impact of the Sustainable Development Goals",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I56590836,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "The Hong Kong University of Science and Technology": {
+    "searchName": "Hong Kong University of Science and Technology",
+    "searchUrl": "https://api.openalex.org/institutions?search=Hong%20Kong%20University%20of%20Science%20and%20Technology&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I200769079",
+      "displayName": "Hong Kong University of Science and Technology",
+      "countryCode": "HK",
+      "type": "education",
+      "ror": "https://ror.org/00q4vv597",
+      "worksCount": 94362,
+      "citedByCount": 8588047,
+      "hIndex": 746,
+      "twoYearMeanCitedness": 6.550208725170879,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "The Hong Kong University of Science and Technology",
+      "sustainabilityWorks": 20,
+      "top25Citations": 213,
+      "topWork1": "Machine learning-based digital district heating/cooling with renewable integrations and advanced low-carbon transition",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I200769079,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "Seoul National University": {
+    "searchName": "Seoul National University",
+    "searchUrl": "https://api.openalex.org/institutions?search=Seoul%20National%20University&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I139264467",
+      "displayName": "Seoul National University",
+      "countryCode": "KR",
+      "type": "education",
+      "ror": "https://ror.org/04h9pn542",
+      "worksCount": 243301,
+      "citedByCount": 21323684,
+      "hIndex": 969,
+      "twoYearMeanCitedness": 3.7476728138343693,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "Seoul National University",
+      "sustainabilityWorks": 11,
+      "top25Citations": 96,
+      "topWork1": "Digital Twin Application: Making a Virtual Pig House Toward Digital Livestock Farming",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I139264467,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "The University of Manchester": {
+    "searchName": "University of Manchester",
+    "searchUrl": "https://api.openalex.org/institutions?search=University%20of%20Manchester&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I28407311",
+      "displayName": "University of Manchester",
+      "countryCode": "GB",
+      "type": "education",
+      "ror": "https://ror.org/027m9bs27",
+      "worksCount": 313078,
+      "citedByCount": 28770991,
+      "hIndex": 1235,
+      "twoYearMeanCitedness": 3.7858611483341686,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "The University of Manchester",
+      "sustainabilityWorks": 72,
+      "top25Citations": 1057,
+      "topWork1": "World Investment Report 2022: International tax reforms and sustainable investment",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I28407311,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "The University of Queensland": {
+    "searchName": "University of Queensland",
+    "searchUrl": "https://api.openalex.org/institutions?search=University%20of%20Queensland&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I165143802",
+      "displayName": "The University of Queensland",
+      "countryCode": "AU",
+      "type": "education",
+      "ror": "https://ror.org/00rqy9422",
+      "worksCount": 276713,
+      "citedByCount": 27330488,
+      "hIndex": 1462,
+      "twoYearMeanCitedness": 4.5746819083272054,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "The University of Queensland",
+      "sustainabilityWorks": 81,
+      "top25Citations": 997,
+      "topWork1": "Tackling the mangrove restoration challenge",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I165143802,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "Yonsei University": {
+    "searchName": "Yonsei University",
+    "searchUrl": "https://api.openalex.org/institutions?search=Yonsei%20University&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I193775966",
+      "displayName": "Yonsei University",
+      "countryCode": "KR",
+      "type": "education",
+      "ror": "https://ror.org/01wjejq96",
+      "worksCount": 179649,
+      "citedByCount": 13375987,
+      "hIndex": 687,
+      "twoYearMeanCitedness": 3.9210259043069677,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "Yonsei University",
+      "sustainabilityWorks": 16,
+      "top25Citations": 144,
+      "topWork1": "Exploring Trends in Environmental, Social, and Governance Themes and Their Sentimental Value Over Time",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I193775966,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "Institut Polytechnique de Paris": {
+    "searchName": "Institut Polytechnique de Paris",
+    "searchUrl": "https://api.openalex.org/institutions?search=Institut%20Polytechnique%20de%20Paris&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I4210145102",
+      "displayName": "Institut Polytechnique de Paris",
+      "countryCode": "FR",
+      "type": "education",
+      "ror": "https://ror.org/042tfbd02",
+      "worksCount": 9467,
+      "citedByCount": 221516,
+      "hIndex": 171,
+      "twoYearMeanCitedness": 2.2773575390821987,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "Institut Polytechnique de Paris",
+      "sustainabilityWorks": 0,
+      "top25Citations": 0,
+      "topWork1": "",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I4210145102,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "Delft University of Technology": {
+    "searchName": "Delft University of Technology",
+    "searchUrl": "https://api.openalex.org/institutions?search=Delft%20University%20of%20Technology&per-page=5&mailto=busa649%40example.com",
+    "matched": {
+      "id": "https://openalex.org/I98358874",
+      "displayName": "Delft University of Technology",
+      "countryCode": "NL",
+      "type": "education",
+      "ror": "https://ror.org/02e2c7k09",
+      "worksCount": 174312,
+      "citedByCount": 10889146,
+      "hIndex": 788,
+      "twoYearMeanCitedness": 3.1971041957576967,
+      "matchScore": 1,
+      "matchType": "Exact",
+      "matchAlias": "Delft University of Technology",
+      "sustainabilityWorks": 40,
+      "top25Citations": 507,
+      "topWork1": "Modelling of Environmental Ageing of Polymers and Polymer Composites—Modular and Multiscale Methods",
+      "worksUrl": "https://api.openalex.org/works?filter=authorships.institutions.id:I98358874,from_publication_date:2021-07-12,to_publication_date:2026-07-12&search=sustainability%20climate%20environmental%20ESG%20sustainable%20development&sort=cited_by_count:desc&per-page=25&select=id,display_name,publication_year,cited_by_count&mailto=busa649%40example.com"
+    }
+  },
+  "The Hong Kong Polytechnic University": {
+    "error": "Error: 429 Too Many Requests for https://api.openalex.org/institutions?search=Hong%20Kong%20Polytechnic%20University&per-page=5&mailto=busa649%40example.com"
+  },
+  "University of Michigan-Ann Arbor": {
+    "error": "Error: 429 Too Many Requests for https://api.openalex.org/institutions?search=University%20of%20Michigan&per-page=5&mailto=busa649%40example.com"
+  },
+  "Carnegie Mellon University": {
+    "error": "Error: 429 Too Many Requests for https://api.openalex.org/institutions?search=Carnegie%20Mellon%20University&per-page=5&mailto=busa649%40example.com"
+  },
+  "University of Washington": {
+    "error": "Error: 429 Too Many Requests for https://api.openalex.org/institutions?search=University%20of%20Washington&per-page=5&mailto=busa649%40example.com"
+  },
+  "Duke University": {
+    "error": "Error: 429 Too Many Requests for https://api.openalex.org/institutions?search=Duke%20University&per-page=5&mailto=busa649%40example.com"
+  },
+  "New York University": {
+    "error": "Error: 429 Too Many Requests for https://api.openalex.org/institutions?search=New%20York%20University&per-page=5&mailto=busa649%40example.com"
+  },
+  "LMU Munich": {
+    "error": "Error: 429 Too Many Requests for https://api.openalex.org/institutions?search=Ludwig%20Maximilian%20University%20of%20Munich&per-page=5&mailto=busa649%40example.com"
+  },
+  "Georgia Institute of Technology": {
+    "error": "Error: 429 Too Many Requests for https://api.openalex.org/institutions?search=Georgia%20Institute%20of%20Technology&per-page=5&mailto=busa649%40example.com"
+  },
+  "University of Illinois at Urbana-Champaign": {
+    "error": "Error: 429 Too Many Requests for https://api.openalex.org/institutions?search=University%20of%20Illinois%20at%20Urbana-Champaign&per-page=5&mailto=busa649%40example.com"
+  },
+  "KU Leuven": {
+    "error": "Error: 429 Too Many Requests for https://api.openalex.org/institutions?search=KU%20Leuven&per-page=5&mailto=busa649%40example.com"
+  },
+  "University of California, San Diego": {
+    "error": "Error: 429 Too Many Requests for https://api.openalex.org/institutions?search=University%20of%20California%2C%20San%20Diego&per-page=5&mailto=busa649%40example.com"
+  },
+  "Universität Heidelberg": {
+    "error": "Error: 429 Too Many Requests for https://api.openalex.org/institutions?search=Heidelberg%20University&per-page=5&mailto=busa649%40example.com"
+  },
+  "University of Texas at Austin": {
+    "error": "Error: 429 Too Many Requests for https://api.openalex.org/institutions?search=University%20of%20Texas%20at%20Austin&per-page=5&mailto=busa649%40example.com"
+  }
+}

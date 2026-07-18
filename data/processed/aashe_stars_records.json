@@ -1,0 +1,3728 @@
+[
+  {
+    "name": "Agnes Scott College",
+    "location": "United States, GA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "March 31, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/agnes-scott-college-ga/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/agnes-scott-college-ga/report/2024-11-22/"
+  },
+  {
+    "name": "American University",
+    "location": "United States, DC",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Dec. 16, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/american-university-dc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/american-university-dc/report/2024-09-17/"
+  },
+  {
+    "name": "American University in Cairo",
+    "location": "Egypt, Cairo",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 9, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/american-university-in-cairo-cairo/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/american-university-in-cairo-cairo/report/2025-03-06/"
+  },
+  {
+    "name": "American University of Central Asia",
+    "location": "Kyrgyzstan",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "Nov. 20, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/american-university-of-central-asia/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/american-university-of-central-asia/report/2024-07-19/"
+  },
+  {
+    "name": "American University of Sharjah",
+    "location": "United Arab Emirates",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Sept. 17, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/american-university-of-sharjah/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/american-university-of-sharjah/report/2024-07-25/"
+  },
+  {
+    "name": "Amherst College",
+    "location": "United States, MA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Sept. 20, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/amherst-college-ma/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/amherst-college-ma/report/2024-08-19/"
+  },
+  {
+    "name": "Appalachian State University",
+    "location": "United States, NC",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Dec. 14, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/appalachian-state-university-nc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/appalachian-state-university-nc/report/2025-12-10/"
+  },
+  {
+    "name": "Arizona State University",
+    "location": "United States, AZ",
+    "rating": "Platinum",
+    "score": 100,
+    "validThrough": "May 2, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/arizona-state-university-az/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/arizona-state-university-az/report/2023-02-28/"
+  },
+  {
+    "name": "Austin College",
+    "location": "United States, TX",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 21, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/austin-college-tx/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/austin-college-tx/report/2026-03-03/"
+  },
+  {
+    "name": "Austin Peay State University",
+    "location": "United States, TN",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "April 5, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/austin-peay-state-university-tn/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/austin-peay-state-university-tn/report/2022-06-30/"
+  },
+  {
+    "name": "Babson College",
+    "location": "United States, MA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Jan. 16, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/babson-college-ma/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/babson-college-ma/report/2024-12-09/"
+  },
+  {
+    "name": "Ball State University",
+    "location": "United States, IN",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "July 7, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/ball-state-university-in/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/ball-state-university-in/report/2025-05-09/"
+  },
+  {
+    "name": "Bard College",
+    "location": "United States, NY",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "June 23, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/bard-college-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/bard-college-ny/report/2025-04-18/"
+  },
+  {
+    "name": "Barnard College",
+    "location": "United States, NY",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Feb. 1, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/barnard-college-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/barnard-college-ny/report/2023-12-11/"
+  },
+  {
+    "name": "Bates College",
+    "location": "United States, ME",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Jan. 17, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/bates-college-me/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/bates-college-me/report/2023-11-08/"
+  },
+  {
+    "name": "Bellarmine University",
+    "location": "United States, KY",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "Oct. 20, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/bellarmine-university-ky/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/bellarmine-university-ky/report/2025-07-30/"
+  },
+  {
+    "name": "Ben-Gurion University of the Negev",
+    "location": "Israel, Southern District",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Sept. 30, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/ben-gurion-university-of-the-negev/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/ben-gurion-university-of-the-negev/report/2025-08-05/"
+  },
+  {
+    "name": "Bentley University",
+    "location": "United States, MA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Nov. 15, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/bentley-university-ma/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/bentley-university-ma/report/2023-10-19/"
+  },
+  {
+    "name": "Binghamton University",
+    "location": "United States, NY",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 15, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/binghamton-university-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/binghamton-university-ny/report/2026-03-04/"
+  },
+  {
+    "name": "Black Hills State University",
+    "location": "United States, SD",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "July 9, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/black-hills-state-university-sd/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/black-hills-state-university-sd/report/2023-04-21/"
+  },
+  {
+    "name": "Boise State University",
+    "location": "United States, ID",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 7, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/boise-state-university-id/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/boise-state-university-id/report/2025-02-19/"
+  },
+  {
+    "name": "Boston University",
+    "location": "United States, MA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Dec. 17, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/boston-university-ma/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/boston-university-ma/report/2025-11-06/"
+  },
+  {
+    "name": "Bowdoin College",
+    "location": "United States, ME",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "July 17, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/bowdoin-college-me/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/bowdoin-college-me/report/2024-05-08/"
+  },
+  {
+    "name": "Bowling Green State University",
+    "location": "United States, OH",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 5, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/bowling-green-state-university-oh/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/bowling-green-state-university-oh/report/2026-03-06/"
+  },
+  {
+    "name": "Bridgewater State University",
+    "location": "United States, MA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 21, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/bridgewater-state-university-ma/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/bridgewater-state-university-ma/report/2026-01-30/"
+  },
+  {
+    "name": "Brigham Young University",
+    "location": "United States, UT",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Aug. 27, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/brigham-young-university-ut/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/brigham-young-university-ut/report/2024-07-10/"
+  },
+  {
+    "name": "British Columbia Institute of Technology",
+    "location": "Canada, BC",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Oct. 25, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/british-columbia-institute-of-technology-bc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/british-columbia-institute-of-technology-bc/report/2024-08-20/"
+  },
+  {
+    "name": "Brock University",
+    "location": "Canada, ON",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "June 5, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/brock-university-on/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/brock-university-on/report/2024-04-05/"
+  },
+  {
+    "name": "Bryant University",
+    "location": "United States, RI",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "March 11, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/bryant-university-ri/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/bryant-university-ri/report/2025-09-04/"
+  },
+  {
+    "name": "Bryn Mawr College",
+    "location": "United States, PA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Jan. 7, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/bryn-mawr-college-pa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/bryn-mawr-college-pa/report/2023-09-22/"
+  },
+  {
+    "name": "Bucknell University",
+    "location": "United States, PA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 17, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/bucknell-university-pa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/bucknell-university-pa/report/2022-11-18/"
+  },
+  {
+    "name": "Budapest Business University",
+    "location": "Hungary",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "Jan. 17, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/budapest-business-university-hu/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/budapest-business-university-hu/report/2024-01-03/"
+  },
+  {
+    "name": "Butler University",
+    "location": "United States, IN",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 6, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/butler-university-in/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/butler-university-in/report/2026-02-03/"
+  },
+  {
+    "name": "Cairo University",
+    "location": "Egypt",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Oct. 29, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/cairo-university-egypt/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/cairo-university-egypt/report/2024-09-10/"
+  },
+  {
+    "name": "California Polytechnic State University",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Nov. 5, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/california-polytechnic-state-university-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/california-polytechnic-state-university-ca/report/2023-07-10/"
+  },
+  {
+    "name": "California State Polytechnic University, Pomona",
+    "location": "United States, CA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Oct. 9, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/california-state-polytechnic-university-pomona-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/california-state-polytechnic-university-pomona-ca/report/2023-08-17/"
+  },
+  {
+    "name": "California State University, Channel Islands",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 4, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/california-state-university-channel-islands-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/california-state-university-channel-islands-ca/report/2023-03-03/"
+  },
+  {
+    "name": "California State University, Chico",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 14, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/california-state-university-chico-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/california-state-university-chico-ca/report/2025-04-01/"
+  },
+  {
+    "name": "California State University, Dominguez Hills",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "July 22, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/california-state-university-dominguez-hills-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/california-state-university-dominguez-hills-ca/report/2025-06-17/"
+  },
+  {
+    "name": "California State University, Fresno",
+    "location": "United States, CA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Feb. 21, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/california-state-university-fresno-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/california-state-university-fresno-ca/report/2023-12-04/"
+  },
+  {
+    "name": "California State University, Fullerton",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "June 9, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/california-state-university-fullerton-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/california-state-university-fullerton-ca/report/2025-04-28/"
+  },
+  {
+    "name": "California State University, Long Beach",
+    "location": "United States, CA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "June 5, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/california-state-university-long-beach-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/california-state-university-long-beach-ca/report/2024-05-09/"
+  },
+  {
+    "name": "California State University, Monterey Bay",
+    "location": "United States, CA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "June 3, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/california-state-university-monterey-bay-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/california-state-university-monterey-bay-ca/report/2026-03-25/"
+  },
+  {
+    "name": "California State University, Northridge",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Nov. 7, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/california-state-university-northridge-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/california-state-university-northridge-ca/report/2024-10-03/"
+  },
+  {
+    "name": "California State University, Sacramento",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "June 13, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/california-state-university-sacramento-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/california-state-university-sacramento-ca/report/2024-04-30/"
+  },
+  {
+    "name": "California State University, San Bernardino",
+    "location": "United States, CA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 30, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/california-state-university-san-bernardino-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/california-state-university-san-bernardino-ca/report/2022-08-26/"
+  },
+  {
+    "name": "California State University, San Marcos",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "March 11, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/california-state-university-san-marcos-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/california-state-university-san-marcos-ca/report/2024-02-06/"
+  },
+  {
+    "name": "California State University, Stanislaus",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "March 27, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/california-state-university-stanislaus-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/california-state-university-stanislaus-ca/report/2024-01-31/"
+  },
+  {
+    "name": "Cal Poly Humboldt",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 23, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/humboldt-state-university-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/humboldt-state-university-ca/report/2026-03-11/"
+  },
+  {
+    "name": "Canadore College",
+    "location": "Canada, ON",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Jan. 24, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/canadore-college-on/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/canadore-college-on/report/2024-12-30/"
+  },
+  {
+    "name": "Capilano University",
+    "location": "Canada, BC",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Aug. 8, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/capilano-university-bc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/capilano-university-bc/report/2024-07-02/"
+  },
+  {
+    "name": "Carleton University",
+    "location": "Canada, ON",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Jan. 21, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/carleton-university-on/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/carleton-university-on/report/2025-11-27/"
+  },
+  {
+    "name": "Carnegie Mellon University",
+    "location": "United States, PA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Jan. 16, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/carnegie-mellon-university-pa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/carnegie-mellon-university-pa/report/2024-12-17/"
+  },
+  {
+    "name": "Cascadia College",
+    "location": "United States, WA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 12, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/cascadia-community-college-wa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/cascadia-community-college-wa/report/2025-03-25/"
+  },
+  {
+    "name": "Case Western Reserve University",
+    "location": "United States, OH",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 15, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/case-western-reserve-university-oh/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/case-western-reserve-university-oh/report/2024-03-01/"
+  },
+  {
+    "name": "Catawba College",
+    "location": "United States, NC",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 2, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/catawba-college-nc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/catawba-college-nc/report/2024-03-01/"
+  },
+  {
+    "name": "Central Community College",
+    "location": "United States, NE",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 21, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/central-community-college-ne/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/central-community-college-ne/report/2026-03-06/"
+  },
+  {
+    "name": "Central Michigan University",
+    "location": "United States, MI",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "June 27, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/central-michigan-university-mi/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/central-michigan-university-mi/report/2024-05-13/"
+  },
+  {
+    "name": "Central Washington University",
+    "location": "United States, WA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Oct. 15, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/central-washington-university-wa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/central-washington-university-wa/report/2025-10-14/"
+  },
+  {
+    "name": "Christopher Newport University",
+    "location": "United States, VA",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "April 8, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/christopher-newport-university-va/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/christopher-newport-university-va/report/2025-03-01/"
+  },
+  {
+    "name": "City University of New York, Brooklyn College",
+    "location": "United States, NY",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 15, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/city-university-of-new-york-brooklyn-college-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/city-university-of-new-york-brooklyn-college-ny/report/2023-03-02/"
+  },
+  {
+    "name": "City University of New York, College of Staten Island",
+    "location": "United States, NY",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 5, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/city-university-of-new-york-college-of-staten-island-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/city-university-of-new-york-college-of-staten-island-ny/report/2026-03-06/"
+  },
+  {
+    "name": "Claremont McKenna College",
+    "location": "United States, CA",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "Nov. 16, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/claremont-mckenna-college-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/claremont-mckenna-college-ca/report/2025-08-28/"
+  },
+  {
+    "name": "Clarkson University",
+    "location": "United States, NY",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 7, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/clarkson-university-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/clarkson-university-ny/report/2024-04-10/"
+  },
+  {
+    "name": "Clemson University",
+    "location": "United States, SC",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "July 30, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/clemson-university-sc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/clemson-university-sc/report/2024-06-17/"
+  },
+  {
+    "name": "Coastal Carolina University",
+    "location": "United States, SC",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "March 3, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/coastal-carolina-university-sc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/coastal-carolina-university-sc/report/2026-01-23/"
+  },
+  {
+    "name": "Colby College",
+    "location": "United States, ME",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 3, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/colby-college-me/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/colby-college-me/report/2026-03-02/"
+  },
+  {
+    "name": "College of Charleston",
+    "location": "United States, SC",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "June 8, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/college-of-charleston-sc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/college-of-charleston-sc/report/2026-03-06/"
+  },
+  {
+    "name": "College of the Atlantic",
+    "location": "United States, ME",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "July 21, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/college-of-the-atlantic-me/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/college-of-the-atlantic-me/report/2025-05-15/"
+  },
+  {
+    "name": "College of the Holy Cross",
+    "location": "United States, MA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Nov. 25, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/college-of-the-holy-cross-ma/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/college-of-the-holy-cross-ma/report/2025-10-18/"
+  },
+  {
+    "name": "College of William & Mary",
+    "location": "United States, VA",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 5, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/college-of-william-mary-va/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/college-of-william-mary-va/report/2026-03-06/"
+  },
+  {
+    "name": "Colorado College",
+    "location": "United States, CO",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 3, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/colorado-college-co/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/colorado-college-co/report/2026-02-27/"
+  },
+  {
+    "name": "Colorado Mountain College",
+    "location": "United States, CO",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Oct. 9, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/colorado-mountain-college-co/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/colorado-mountain-college-co/report/2024-08-20/"
+  },
+  {
+    "name": "Colorado School of Mines",
+    "location": "United States, CO",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 16, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/colorado-school-of-mines-co/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/colorado-school-of-mines-co/report/2025-03-17/"
+  },
+  {
+    "name": "Colorado State University",
+    "location": "United States, CO",
+    "rating": "Platinum",
+    "score": 100,
+    "validThrough": "Jan. 19, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/colorado-state-university-co/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/colorado-state-university-co/report/2025-11-18/"
+  },
+  {
+    "name": "Concordia University",
+    "location": "Canada, QC",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Jan. 24, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/concordia-university-qc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/concordia-university-qc/report/2024-12-24/"
+  },
+  {
+    "name": "Connecticut College",
+    "location": "United States, CT",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "March 22, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/connecticut-college-ct/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/connecticut-college-ct/report/2024-03-01/"
+  },
+  {
+    "name": "Cornell University",
+    "location": "United States, NY",
+    "rating": "Platinum",
+    "score": 100,
+    "validThrough": "April 21, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/cornell-university-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/cornell-university-ny/report/2026-03-05/"
+  },
+  {
+    "name": "Creighton University",
+    "location": "United States, NE",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Oct. 26, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/creighton-university-ne/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/creighton-university-ne/report/2023-09-22/"
+  },
+  {
+    "name": "Dalhousie University",
+    "location": "Canada, NS",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "March 17, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/dalhousie-university-ns/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/dalhousie-university-ns/report/2025-02-05/"
+  },
+  {
+    "name": "Dawson College",
+    "location": "Canada, QC",
+    "rating": "Platinum",
+    "score": 100,
+    "validThrough": "March 30, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/dawson-college-qc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/dawson-college-qc/report/2024-12-30/"
+  },
+  {
+    "name": "De La Salle Lipa",
+    "location": "Philippines, BATANGAS",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Nov. 12, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/de-la-salle-lipa-batangas/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/de-la-salle-lipa-batangas/report/2024-08-12/"
+  },
+  {
+    "name": "Dickinson College",
+    "location": "United States, PA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 3, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/dickinson-college-pa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/dickinson-college-pa/report/2024-03-01/"
+  },
+  {
+    "name": "Drexel University",
+    "location": "United States, PA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 23, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/drexel-university-pa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/drexel-university-pa/report/2023-03-03/"
+  },
+  {
+    "name": "Duquesne University",
+    "location": "United States, PA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 28, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/duquesne-university-pa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/duquesne-university-pa/report/2026-03-04/"
+  },
+  {
+    "name": "Earlham College",
+    "location": "United States, IN",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 8, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/earlham-college-in/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/earlham-college-in/report/2026-03-02/"
+  },
+  {
+    "name": "East Carolina University",
+    "location": "United States, NC",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Feb. 22, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/east-carolina-university-nc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/east-carolina-university-nc/report/2026-02-18/"
+  },
+  {
+    "name": "Eastern Connecticut State University",
+    "location": "United States, CT",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "March 24, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/eastern-connecticut-state-university-ct/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/eastern-connecticut-state-university-ct/report/2026-02-17/"
+  },
+  {
+    "name": "Eastern Michigan University",
+    "location": "United States, MI",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 6, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/eastern-michigan-university-mi/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/eastern-michigan-university-mi/report/2026-02-26/"
+  },
+  {
+    "name": "École de Technologie Supérieure",
+    "location": "Canada, QC",
+    "rating": "Platinum",
+    "score": 100,
+    "validThrough": "Sept. 15, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/ecole-de-technologie-superieure-qc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/ecole-de-technologie-superieure-qc/report/2025-06-05/"
+  },
+  {
+    "name": "Elon University",
+    "location": "United States, NC",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "March 17, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/elon-university-nc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/elon-university-nc/report/2026-02-26/"
+  },
+  {
+    "name": "Emerson College",
+    "location": "United States, MA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Sept. 8, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/emerson-college-ma/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/emerson-college-ma/report/2025-07-07/"
+  },
+  {
+    "name": "Emory University",
+    "location": "United States, GA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Nov. 20, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/emory-university-ga/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/emory-university-ga/report/2024-10-09/"
+  },
+  {
+    "name": "Endicott College",
+    "location": "United States, MA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Oct. 23, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/endicott-college-ma/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/endicott-college-ma/report/2023-08-21/"
+  },
+  {
+    "name": "Evergreen State College, The",
+    "location": "United States, WA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Feb. 13, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/evergreen-state-college-wa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/evergreen-state-college-wa/report/2023-12-21/"
+  },
+  {
+    "name": "Fanshawe College",
+    "location": "Canada, ON",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Dec. 16, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/fanshawe-college-on/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/fanshawe-college-on/report/2024-10-22/"
+  },
+  {
+    "name": "Flinders University",
+    "location": "Australia, South Australia",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Aug. 19, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/flinders-university/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/flinders-university/report/2024-07-09/"
+  },
+  {
+    "name": "Florida Gulf Coast University",
+    "location": "United States, FL",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Sept. 6, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/florida-gulf-coast-university-fl/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/florida-gulf-coast-university-fl/report/2024-05-31/"
+  },
+  {
+    "name": "Florida Institute of Technology",
+    "location": "United States, FL",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 8, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/florida-institute-of-technology-fl/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/florida-institute-of-technology-fl/report/2026-03-06/"
+  },
+  {
+    "name": "Florida International University",
+    "location": "United States, FL",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Sept. 11, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/florida-international-university-fl/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/florida-international-university-fl/report/2024-07-01/"
+  },
+  {
+    "name": "Florida State University",
+    "location": "United States, FL",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "June 1, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/florida-state-university-fl/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/florida-state-university-fl/report/2023-03-15/"
+  },
+  {
+    "name": "Fordham University",
+    "location": "United States, NY",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "April 1, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/fordham-university-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/fordham-university-ny/report/2025-01-14/"
+  },
+  {
+    "name": "Franklin University Switzerland",
+    "location": "Switzerland, Ticino",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 9, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/franklin-college-switzerland/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/franklin-college-switzerland/report/2025-03-07/"
+  },
+  {
+    "name": "Fullerton College",
+    "location": "United States, CA",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "Jan. 20, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/fullerton-college-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/fullerton-college-ca/report/2025-11-24/"
+  },
+  {
+    "name": "Furman University",
+    "location": "United States, SC",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Dec. 10, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/furman-university-sc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/furman-university-sc/report/2024-10-09/"
+  },
+  {
+    "name": "George Mason University",
+    "location": "United States, VA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 26, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/george-mason-university-va/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/george-mason-university-va/report/2024-02-22/"
+  },
+  {
+    "name": "George Washington University",
+    "location": "United States, DC",
+    "rating": "Platinum",
+    "score": 100,
+    "validThrough": "Sept. 3, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/george-washington-university-dc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/george-washington-university-dc/report/2025-07-31/"
+  },
+  {
+    "name": "Georgia Institute of Technology",
+    "location": "United States, GA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 8, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/georgia-institute-of-technology-ga/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/georgia-institute-of-technology-ga/report/2024-02-29/"
+  },
+  {
+    "name": "Georgia Southern University",
+    "location": "United States, GA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 20, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/georgia-southern-university-ga/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/georgia-southern-university-ga/report/2026-02-06/"
+  },
+  {
+    "name": "Georgia State University",
+    "location": "United States, GA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 18, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/georgia-state-university-ga/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/georgia-state-university-ga/report/2025-03-07/"
+  },
+  {
+    "name": "Gonzaga University",
+    "location": "United States, WA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Aug. 11, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/gonzaga-university-wa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/gonzaga-university-wa/report/2025-05-21/"
+  },
+  {
+    "name": "Grand Valley State University",
+    "location": "United States, MI",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 21, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/grand-valley-state-university-mi/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/grand-valley-state-university-mi/report/2026-03-06/"
+  },
+  {
+    "name": "Gustavus Adolphus College",
+    "location": "United States, MN",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 30, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/gustavus-adolphus-college-mn/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/gustavus-adolphus-college-mn/report/2025-02-28/"
+  },
+  {
+    "name": "Haverford College",
+    "location": "United States, PA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Nov. 21, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/haverford-college-pa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/haverford-college-pa/report/2024-08-29/"
+  },
+  {
+    "name": "Higher Colleges of Technology",
+    "location": "United Arab Emirates, Abu Dhabi",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "June 9, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/higher-colleges-of-technology-abu-dhabi/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/higher-colleges-of-technology-abu-dhabi/report/2025-05-13/"
+  },
+  {
+    "name": "Hillsborough Community College",
+    "location": "United States, FL",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "July 26, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/hillsborough-community-college-fl/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/hillsborough-community-college-fl/report/2023-05-22/"
+  },
+  {
+    "name": "Hobart and William Smith Colleges",
+    "location": "United States, NY",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "March 3, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/hobart-and-william-smith-colleges-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/hobart-and-william-smith-colleges-ny/report/2025-12-05/"
+  },
+  {
+    "name": "Hope College",
+    "location": "United States, MI",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 17, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/hope-college-mi/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/hope-college-mi/report/2026-04-23/"
+  },
+  {
+    "name": "Idaho State University",
+    "location": "United States, ID",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "March 31, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/idaho-state-university-id/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/idaho-state-university-id/report/2025-01-10/"
+  },
+  {
+    "name": "IESE Business School - Barcelona",
+    "location": "Spain, Barcelona",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 10, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/iese-business-school/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/iese-business-school/report/2024-02-29/"
+  },
+  {
+    "name": "Illinois State University",
+    "location": "United States, IL",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Feb. 12, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/illinois-state-university-il/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/illinois-state-university-il/report/2025-01-24/"
+  },
+  {
+    "name": "Indiana University Bloomington",
+    "location": "United States, IN",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 24, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/indiana-university-bloomington-in/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/indiana-university-bloomington-in/report/2024-01-18/"
+  },
+  {
+    "name": "Indiana University Indianapolis",
+    "location": "United States, IN",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Oct. 17, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/indiana-university-indianapolis-in/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/indiana-university-indianapolis-in/report/2024-07-12/"
+  },
+  {
+    "name": "Institut National de la Recherche Scientifique (INRS)",
+    "location": "Canada, QC",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Jan. 10, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/institut-national-de-la-recherche-scientifique-inrs-qc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/institut-national-de-la-recherche-scientifique-inrs-qc/report/2023-11-10/"
+  },
+  {
+    "name": "Ithaca College",
+    "location": "United States, NY",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Dec. 17, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/ithaca-college-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/ithaca-college-ny/report/2025-10-07/"
+  },
+  {
+    "name": "James Madison University",
+    "location": "United States, VA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Oct. 8, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/james-madison-university-va/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/james-madison-university-va/report/2024-09-13/"
+  },
+  {
+    "name": "John Abbott College",
+    "location": "Canada, QC",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 22, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/john-abbott-college-qc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/john-abbott-college-qc/report/2023-04-25/"
+  },
+  {
+    "name": "John Carroll University",
+    "location": "United States, OH",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "Sept. 19, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/john-carroll-university-oh/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/john-carroll-university-oh/report/2024-07-02/"
+  },
+  {
+    "name": "Johnson County Community College",
+    "location": "United States, KS",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "June 17, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/johnson-county-community-college-ks/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/johnson-county-community-college-ks/report/2025-05-16/"
+  },
+  {
+    "name": "Juniata College",
+    "location": "United States, PA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 15, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/juniata-college-pa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/juniata-college-pa/report/2025-03-06/"
+  },
+  {
+    "name": "Justice Institute of British Columbia",
+    "location": "Canada, BC",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "Oct. 20, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/justice-institute-of-british-columbia-bc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/justice-institute-of-british-columbia-bc/report/2025-09-25/"
+  },
+  {
+    "name": "Kean University",
+    "location": "United States, NJ",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "March 6, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/kean-university-nj/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/kean-university-nj/report/2023-12-11/"
+  },
+  {
+    "name": "Kennesaw State University",
+    "location": "United States, GA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Nov. 11, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/kennesaw-state-university-ga/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/kennesaw-state-university-ga/report/2025-09-24/"
+  },
+  {
+    "name": "Kent State University",
+    "location": "United States, OH",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 13, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/kent-state-university-oh/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/kent-state-university-oh/report/2025-03-07/"
+  },
+  {
+    "name": "Knox College",
+    "location": "United States, IL",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 26, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/knox-college-il/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/knox-college-il/report/2024-02-02/"
+  },
+  {
+    "name": "Kwantlen Polytechnic University",
+    "location": "Canada, BC",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "July 18, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/kwantlen-polytechnic-university-bc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/kwantlen-polytechnic-university-bc/report/2024-06-18/"
+  },
+  {
+    "name": "Lafayette College",
+    "location": "United States, PA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Nov. 30, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/lafayette-college-pa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/lafayette-college-pa/report/2023-09-12/"
+  },
+  {
+    "name": "Lane Community College",
+    "location": "United States, OR",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Dec. 9, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/lane-community-college-or/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/lane-community-college-or/report/2024-10-23/"
+  },
+  {
+    "name": "Lehigh University",
+    "location": "United States, PA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 6, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/lehigh-university-pa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/lehigh-university-pa/report/2026-03-16/"
+  },
+  {
+    "name": "Lewis & Clark College",
+    "location": "United States, OR",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 9, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/lewis-clark-college-or/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/lewis-clark-college-or/report/2025-03-07/"
+  },
+  {
+    "name": "Lewis University",
+    "location": "United States, IL",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "Nov. 7, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/lewis-university-il/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/lewis-university-il/report/2024-10-02/"
+  },
+  {
+    "name": "Loyola Marymount University",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 26, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/loyola-marymount-university-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/loyola-marymount-university-ca/report/2025-03-07/"
+  },
+  {
+    "name": "Loyola University Chicago",
+    "location": "United States, IL",
+    "rating": "Platinum",
+    "score": 100,
+    "validThrough": "April 28, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/loyola-university-chicago-il/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/loyola-university-chicago-il/report/2026-03-02/"
+  },
+  {
+    "name": "Loyola University Maryland",
+    "location": "United States, MD",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "Feb. 15, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/loyola-university-maryland-md/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/loyola-university-maryland-md/report/2023-12-21/"
+  },
+  {
+    "name": "Luther College",
+    "location": "United States, IA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 21, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/luther-college-ia/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/luther-college-ia/report/2026-03-06/"
+  },
+  {
+    "name": "Macalester College",
+    "location": "United States, MN",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 2, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/macalester-college-mn/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/macalester-college-mn/report/2024-01-26/"
+  },
+  {
+    "name": "MacEwan University",
+    "location": "Canada, AB",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Dec. 17, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/macewan-university-ab/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/macewan-university-ab/report/2025-11-12/"
+  },
+  {
+    "name": "Massachusetts Institute of Technology",
+    "location": "United States, MA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Oct. 15, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/massachusetts-institute-of-technology-ma/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/massachusetts-institute-of-technology-ma/report/2025-07-23/"
+  },
+  {
+    "name": "McGill University",
+    "location": "Canada, QC",
+    "rating": "Platinum",
+    "score": 100,
+    "validThrough": "March 13, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/mcgill-university-qc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/mcgill-university-qc/report/2024-01-17/"
+  },
+  {
+    "name": "McMaster University",
+    "location": "Canada, ON",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "June 17, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/mcmaster-university-on/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/mcmaster-university-on/report/2025-03-14/"
+  },
+  {
+    "name": "Messiah University",
+    "location": "United States, PA",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "Aug. 12, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/messiah-college-pa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/messiah-college-pa/report/2024-05-16/"
+  },
+  {
+    "name": "MGH Institute of Health Professions",
+    "location": "United States, MA",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "May 7, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/mgh-institute-of-health-professions-ma/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/mgh-institute-of-health-professions-ma/report/2024-04-05/"
+  },
+  {
+    "name": "Miami University",
+    "location": "United States, OH",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "July 15, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/miami-university-oh/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/miami-university-oh/report/2025-06-03/"
+  },
+  {
+    "name": "Michigan Technological University",
+    "location": "United States, MI",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Oct. 2, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/michigan-technological-university-mi/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/michigan-technological-university-mi/report/2023-07-24/"
+  },
+  {
+    "name": "MiraCosta College",
+    "location": "United States, CA",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "July 8, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/miracosta-college-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/miracosta-college-ca/report/2026-07-07/"
+  },
+  {
+    "name": "Modern College of Business and Science",
+    "location": "Oman",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 14, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/modern-college-of-business-and-science/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/modern-college-of-business-and-science/report/2025-03-07/"
+  },
+  {
+    "name": "Modesto Junior College",
+    "location": "United States, CA",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "April 3, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/modesto-junior-college-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/modesto-junior-college-ca/report/2022-12-31/"
+  },
+  {
+    "name": "Montana State University",
+    "location": "United States, MT",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Nov. 29, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/montana-state-university-mt/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/montana-state-university-mt/report/2023-05-31/"
+  },
+  {
+    "name": "Montclair State University",
+    "location": "United States, NJ",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Oct. 1, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/montclair-state-university-nj/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/montclair-state-university-nj/report/2025-08-11/"
+  },
+  {
+    "name": "Mount Royal University",
+    "location": "Canada, AB",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "June 18, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/mount-royal-university-ab/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/mount-royal-university-ab/report/2024-03-18/"
+  },
+  {
+    "name": "Muhlenberg College",
+    "location": "United States, PA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "March 19, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/muhlenberg-college-pa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/muhlenberg-college-pa/report/2024-02-27/"
+  },
+  {
+    "name": "New Jersey Institute of Technology",
+    "location": "United States, NJ",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 21, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/new-jersey-institute-of-technology-nj/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/new-jersey-institute-of-technology-nj/report/2026-03-06/"
+  },
+  {
+    "name": "New York University",
+    "location": "United States, NY",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "March 17, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/new-york-university-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/new-york-university-ny/report/2025-02-14/"
+  },
+  {
+    "name": "North Carolina State University",
+    "location": "United States, NC",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Feb. 17, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/north-carolina-state-university-nc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/north-carolina-state-university-nc/report/2025-11-17/"
+  },
+  {
+    "name": "Northeastern University",
+    "location": "United States, MA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 21, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/northeastern-university-ma/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/northeastern-university-ma/report/2026-03-06/"
+  },
+  {
+    "name": "Northern Arizona University",
+    "location": "United States, AZ",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Dec. 14, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/northern-arizona-university-az/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/northern-arizona-university-az/report/2023-11-06/"
+  },
+  {
+    "name": "Northern Illinois University",
+    "location": "United States, IL",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "July 8, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/northern-illinois-university-il/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/northern-illinois-university-il/report/2024-06-04/"
+  },
+  {
+    "name": "Northern Michigan University",
+    "location": "United States, MI",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "July 17, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/northern-michigan-university-mi/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/northern-michigan-university-mi/report/2024-06-20/"
+  },
+  {
+    "name": "Nova Scotia Community College",
+    "location": "Canada, NS",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Nov. 5, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/nova-scotia-community-college-ns/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/nova-scotia-community-college-ns/report/2023-09-20/"
+  },
+  {
+    "name": "Nova Southeastern University",
+    "location": "United States, FL",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Jan. 27, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/nova-southeastern-university-fl/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/nova-southeastern-university-fl/report/2025-11-13/"
+  },
+  {
+    "name": "Oakton College",
+    "location": "United States, IL",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "Dec. 18, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/oakton-college-il/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/oakton-college-il/report/2024-10-10/"
+  },
+  {
+    "name": "Oberlin College",
+    "location": "United States, OH",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 7, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/oberlin-college-oh/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/oberlin-college-oh/report/2025-03-07/"
+  },
+  {
+    "name": "OCAD University",
+    "location": "Canada, ON",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 15, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/ocad-university-formerly-ontario-college-of-art-design-on/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/ocad-university-formerly-ontario-college-of-art-design-on/report/2024-02-08/"
+  },
+  {
+    "name": "Occidental College",
+    "location": "United States, CA",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 9, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/occidental-college-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/occidental-college-ca/report/2025-03-07/"
+  },
+  {
+    "name": "Ocean County College",
+    "location": "United States, NJ",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "Aug. 5, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/ocean-county-college-nj/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/ocean-county-college-nj/report/2025-07-01/"
+  },
+  {
+    "name": "Okanagan College",
+    "location": "Canada, BC",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "Feb. 19, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/okanagan-college-british-columbia/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/okanagan-college-british-columbia/report/2023-12-11/"
+  },
+  {
+    "name": "Oklahoma State University",
+    "location": "United States, OK",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Oct. 22, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/oklahoma-state-university-ok/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/oklahoma-state-university-ok/report/2025-09-22/"
+  },
+  {
+    "name": "Ollscoil na Gaillimhe - University of Galway",
+    "location": "Ireland, Co. Galway",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Dec. 1, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/ollscoil-na-gaillimhe-university-of-galway/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/ollscoil-na-gaillimhe-university-of-galway/report/2025-08-26/"
+  },
+  {
+    "name": "Ontario Tech University",
+    "location": "Canada, ON",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Jan. 29, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/ontario-tech-university-on/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/ontario-tech-university-on/report/2023-11-14/"
+  },
+  {
+    "name": "Oregon State University",
+    "location": "United States, OR",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Feb. 2, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/oregon-state-university-or/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/oregon-state-university-or/report/2025-12-15/"
+  },
+  {
+    "name": "Pace University",
+    "location": "United States, NY",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 9, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/pace-university-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/pace-university-ny/report/2025-03-07/"
+  },
+  {
+    "name": "Palomar College",
+    "location": "United States, CA",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "Sept. 26, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/palomar-college-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/palomar-college-ca/report/2024-08-20/"
+  },
+  {
+    "name": "Penn State Erie, The Behrend College",
+    "location": "United States, PA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "July 30, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/penn-state-erie-the-behrend-college-pa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/penn-state-erie-the-behrend-college-pa/report/2023-06-14/"
+  },
+  {
+    "name": "Pennsylvania State University",
+    "location": "United States, PA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Jan. 10, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/pennsylvania-state-university-pa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/pennsylvania-state-university-pa/report/2023-12-12/"
+  },
+  {
+    "name": "Pitzer College",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 29, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/pitzer-college-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/pitzer-college-ca/report/2023-03-03/"
+  },
+  {
+    "name": "Pomona College",
+    "location": "United States, CA",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 9, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/pomona-college-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/pomona-college-ca/report/2025-03-07/"
+  },
+  {
+    "name": "Portland Community College",
+    "location": "United States, OR",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 8, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/portland-community-college-or/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/portland-community-college-or/report/2025-03-05/"
+  },
+  {
+    "name": "Portland State University",
+    "location": "United States, OR",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "July 7, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/portland-state-university-or/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/portland-state-university-or/report/2025-04-09/"
+  },
+  {
+    "name": "Pratt Institute",
+    "location": "United States, NY",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Aug. 20, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/pratt-institute-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/pratt-institute-ny/report/2025-04-15/"
+  },
+  {
+    "name": "Prescott College",
+    "location": "United States, AZ",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Feb. 18, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/prescott-college-az/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/prescott-college-az/report/2025-01-21/"
+  },
+  {
+    "name": "Princeton University",
+    "location": "United States, NJ",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Dec. 17, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/princeton-university-nj/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/princeton-university-nj/report/2024-11-13/"
+  },
+  {
+    "name": "Purchase College - State University of New York",
+    "location": "United States, NY",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 19, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/state-university-of-new-york-at-purchase-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/state-university-of-new-york-at-purchase-ny/report/2024-03-08/"
+  },
+  {
+    "name": "Purdue University",
+    "location": "United States, IN",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 23, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/purdue-university-in/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/purdue-university-in/report/2023-03-23/"
+  },
+  {
+    "name": "Queen&#x27;s University Belfast",
+    "location": "United Kingdom",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "July 7, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/queens-university-belfast/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/queens-university-belfast/report/2025-05-26/"
+  },
+  {
+    "name": "Quinnipiac University",
+    "location": "United States, CT",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "March 27, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/quinnipiac-university-ct/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/quinnipiac-university-ct/report/2025-03-01/"
+  },
+  {
+    "name": "Radford University",
+    "location": "United States, VA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 14, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/radford-university-va/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/radford-university-va/report/2025-02-23/"
+  },
+  {
+    "name": "Raritan Valley Community College",
+    "location": "United States, NJ",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 11, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/raritan-valley-community-college-nj/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/raritan-valley-community-college-nj/report/2026-03-06/"
+  },
+  {
+    "name": "Red River College Polytechnic",
+    "location": "Canada, MB",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Oct. 26, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/red-river-college-mb/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/red-river-college-mb/report/2025-09-05/"
+  },
+  {
+    "name": "Rollins College",
+    "location": "United States, FL",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 8, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/rollins-college-fl/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/rollins-college-fl/report/2026-03-04/"
+  },
+  {
+    "name": "Rowan University",
+    "location": "United States, NJ",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 31, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/rowan-university-nj/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/rowan-university-nj/report/2025-03-07/"
+  },
+  {
+    "name": "Rutgers, the State University of New Jersey, New Brunswick Campus",
+    "location": "United States, NJ",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "July 8, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/rutgers-the-state-university-of-new-jersey-new-brunswick-campus-nj/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/rutgers-the-state-university-of-new-jersey-new-brunswick-campus-nj/report/2026-05-26/"
+  },
+  {
+    "name": "Saint Mary&#x27;s College of California",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 16, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/saint-marys-college-of-california-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/saint-marys-college-of-california-ca/report/2023-02-16/"
+  },
+  {
+    "name": "Saint Mary&#x27;s University",
+    "location": "Canada, NS",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Sept. 30, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/saint-marys-university-ns/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/saint-marys-university-ns/report/2025-09-26/"
+  },
+  {
+    "name": "Saint Peter&#x27;s University",
+    "location": "United States, NJ",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 9, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/saint-peters-university-nj/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/saint-peters-university-nj/report/2025-03-07/"
+  },
+  {
+    "name": "Salisbury University",
+    "location": "United States, MD",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "Feb. 15, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/salisbury-university-md/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/salisbury-university-md/report/2023-10-30/"
+  },
+  {
+    "name": "Salve Regina University",
+    "location": "United States, RI",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "Oct. 1, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/salve-regina-university-ri/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/salve-regina-university-ri/report/2023-06-29/"
+  },
+  {
+    "name": "San Diego State University",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Jan. 17, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/san-diego-state-university-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/san-diego-state-university-ca/report/2023-10-23/"
+  },
+  {
+    "name": "San Francisco State University",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Sept. 12, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/san-francisco-state-university-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/san-francisco-state-university-ca/report/2023-07-21/"
+  },
+  {
+    "name": "San Jose State University",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 24, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/san-jose-state-university-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/san-jose-state-university-ca/report/2024-01-19/"
+  },
+  {
+    "name": "Santa Clara University",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 11, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/santa-clara-university-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/santa-clara-university-ca/report/2026-03-04/"
+  },
+  {
+    "name": "Santa Rosa Junior College",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Nov. 24, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/santa-rosa-junior-college-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/santa-rosa-junior-college-ca/report/2025-11-21/"
+  },
+  {
+    "name": "Seattle University",
+    "location": "United States, WA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 26, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/seattle-university-wa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/seattle-university-wa/report/2024-03-01/"
+  },
+  {
+    "name": "Selkirk College",
+    "location": "Canada, BC",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "July 23, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/selkirk-college-bc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/selkirk-college-bc/report/2023-04-27/"
+  },
+  {
+    "name": "Seneca Polytechnic",
+    "location": "Canada, ON",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "March 11, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/seneca-polytechnic-on/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/seneca-polytechnic-on/report/2024-02-01/"
+  },
+  {
+    "name": "Sewanee - The University of the South",
+    "location": "United States, TN",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "June 15, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/sewanee-the-university-of-the-south-tn/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/sewanee-the-university-of-the-south-tn/report/2026-03-06/"
+  },
+  {
+    "name": "Skidmore College",
+    "location": "United States, NY",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "June 26, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/skidmore-college-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/skidmore-college-ny/report/2025-05-01/"
+  },
+  {
+    "name": "Slippery Rock University",
+    "location": "United States, PA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "June 12, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/slippery-rock-university-pa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/slippery-rock-university-pa/report/2025-05-12/"
+  },
+  {
+    "name": "Smith College",
+    "location": "United States, MA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 21, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/smith-college-ma/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/smith-college-ma/report/2025-11-18/"
+  },
+  {
+    "name": "Soka University of America",
+    "location": "United States, CA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 13, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/soka-university-of-america-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/soka-university-of-america-ca/report/2025-03-07/"
+  },
+  {
+    "name": "South Dakota School of Mines and Technology",
+    "location": "United States, SD",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "Aug. 13, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/south-dakota-school-of-mines-and-technology-sd/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/south-dakota-school-of-mines-and-technology-sd/report/2024-06-21/"
+  },
+  {
+    "name": "South Dakota State University",
+    "location": "United States, SD",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "July 17, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/south-dakota-state-university-sd/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/south-dakota-state-university-sd/report/2023-05-26/"
+  },
+  {
+    "name": "Southern New Hampshire University",
+    "location": "United States, NH",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 8, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/southern-new-hampshire-university-nh/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/southern-new-hampshire-university-nh/report/2026-02-26/"
+  },
+  {
+    "name": "Southern Oregon University",
+    "location": "United States, OR",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "June 10, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/southern-oregon-university-or/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/southern-oregon-university-or/report/2025-04-18/"
+  },
+  {
+    "name": "Sri Sivasubramaniya Nadar College of Engineering",
+    "location": "India, Tamilnadu",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Jan. 29, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/sri-sivasubramaniya-nadar-college-of-engineering-tamilnadu/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/sri-sivasubramaniya-nadar-college-of-engineering-tamilnadu/report/2024-11-21/"
+  },
+  {
+    "name": "Stanford University",
+    "location": "United States, CA",
+    "rating": "Platinum",
+    "score": 100,
+    "validThrough": "Feb. 16, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/stanford-university-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/stanford-university-ca/report/2025-12-11/"
+  },
+  {
+    "name": "State University of New York at Brockport",
+    "location": "United States, NY",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 9, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/state-university-of-new-york-at-brockport-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/state-university-of-new-york-at-brockport-ny/report/2024-02-29/"
+  },
+  {
+    "name": "State University of New York at Cortland",
+    "location": "United States, NY",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Feb. 25, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/state-university-of-new-york-at-cortland-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/state-university-of-new-york-at-cortland-ny/report/2025-02-05/"
+  },
+  {
+    "name": "State University of New York at Morrisville",
+    "location": "United States, NY",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 28, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/state-university-of-new-york-at-morrisville-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/state-university-of-new-york-at-morrisville-ny/report/2024-04-18/"
+  },
+  {
+    "name": "State University of New York at New Paltz",
+    "location": "United States, NY",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 9, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/state-university-of-new-york-at-new-paltz-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/state-university-of-new-york-at-new-paltz-ny/report/2023-03-02/"
+  },
+  {
+    "name": "State University of New York at Oneonta",
+    "location": "United States, NY",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 3, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/state-university-of-new-york-at-oneonta-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/state-university-of-new-york-at-oneonta-ny/report/2023-02-17/"
+  },
+  {
+    "name": "State University of New York at Oswego",
+    "location": "United States, NY",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 4, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/state-university-of-new-york-at-oswego-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/state-university-of-new-york-at-oswego-ny/report/2023-03-03/"
+  },
+  {
+    "name": "State University of New York College of Environmental Science and Forestry",
+    "location": "United States, NY",
+    "rating": "Platinum",
+    "score": 100,
+    "validThrough": "May 4, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/state-university-of-new-york-college-of-environmental-science-and-forestry-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/state-university-of-new-york-college-of-environmental-science-and-forestry-ny/report/2026-03-03/"
+  },
+  {
+    "name": "Stetson University",
+    "location": "United States, FL",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Aug. 14, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/stetson-university-fl/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/stetson-university-fl/report/2023-07-14/"
+  },
+  {
+    "name": "Stevens Institute of Technology",
+    "location": "United States, NJ",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Dec. 11, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/stevens-institute-of-technology-nj/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/stevens-institute-of-technology-nj/report/2023-08-31/"
+  },
+  {
+    "name": "St. John&#x27;s University, New York",
+    "location": "United States, NY",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "April 12, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/st-johns-university-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/st-johns-university-ny/report/2026-03-05/"
+  },
+  {
+    "name": "St. Lawrence College",
+    "location": "Canada, ON",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "July 17, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/st-lawrence-college-on/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/st-lawrence-college-on/report/2024-05-06/"
+  },
+  {
+    "name": "Stonehill College",
+    "location": "United States, MA",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 9, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/stonehill-college-ma/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/stonehill-college-ma/report/2025-03-07/"
+  },
+  {
+    "name": "Stony Brook University",
+    "location": "United States, NY",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 7, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/stony-brook-university-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/stony-brook-university-ny/report/2025-03-06/"
+  },
+  {
+    "name": "St. Thomas University (NB)",
+    "location": "Canada, NB",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "April 6, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/st-thomas-unversity-nb/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/st-thomas-unversity-nb/report/2025-12-23/"
+  },
+  {
+    "name": "SUNY Buffalo State",
+    "location": "United States, NY",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "March 27, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/suny-buffalo-state-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/suny-buffalo-state-ny/report/2025-01-24/"
+  },
+  {
+    "name": "Swarthmore College",
+    "location": "United States, PA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 21, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/swarthmore-college-pa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/swarthmore-college-pa/report/2026-03-06/"
+  },
+  {
+    "name": "Syracuse University",
+    "location": "United States, NY",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Feb. 20, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/syracuse-university-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/syracuse-university-ny/report/2025-01-23/"
+  },
+  {
+    "name": "TAFE Queensland Robina Campus",
+    "location": "Australia, QLD",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Jan. 9, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/tafe-queensland-robina/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/tafe-queensland-robina/report/2023-11-28/"
+  },
+  {
+    "name": "Technological University Dublin",
+    "location": "Ireland, Dublin",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 8, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/technological-university-dublin-dublin/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/technological-university-dublin-dublin/report/2024-12-02/"
+  },
+  {
+    "name": "Tecnológico de Monterrey – Campus Aguascalientes",
+    "location": "Mexico",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 28, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-aguascalientes/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-aguascalientes/report/2026-03-02/"
+  },
+  {
+    "name": "Tecnológico de Monterrey – Campus Chihuahua",
+    "location": "Mexico, Chihuahua",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 28, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-chihuahua/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-chihuahua/report/2026-02-05/"
+  },
+  {
+    "name": "Tecnológico de Monterrey – Campus Ciudad de México",
+    "location": "Mexico",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 28, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-ciudad-de-mexico/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-ciudad-de-mexico/report/2026-03-06/"
+  },
+  {
+    "name": "Tecnológico de Monterrey – Campus Ciudad Juárez",
+    "location": "Mexico",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 28, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-ciudad-juarez/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-ciudad-juarez/report/2026-02-05/"
+  },
+  {
+    "name": "Tecnológico de Monterrey – Campus Estado de México",
+    "location": "Mexico",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 28, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-estado-de-mexico/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-estado-de-mexico/report/2026-03-06/"
+  },
+  {
+    "name": "Tecnológico de Monterrey – Campus Guadalajara",
+    "location": "Mexico",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 28, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-guadalajara/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-guadalajara/report/2026-02-05/"
+  },
+  {
+    "name": "Tecnológico de Monterrey – Campus Laguna",
+    "location": "Mexico",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 28, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-laguna/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-laguna/report/2026-02-05/"
+  },
+  {
+    "name": "Tecnológico de Monterrey – Campus León",
+    "location": "Mexico",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 28, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-leon/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-leon/report/2026-03-06/"
+  },
+  {
+    "name": "Tecnológico de Monterrey – Campus Monterrey",
+    "location": "Mexico, Nuevo Leon",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 28, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-monterrey/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-monterrey/report/2026-02-05/"
+  },
+  {
+    "name": "Tecnológico de Monterrey – Campus Puebla",
+    "location": "Mexico",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 28, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-puebla/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-puebla/report/2026-01-29/"
+  },
+  {
+    "name": "Tecnológico de Monterrey – Campus Querétaro",
+    "location": "Mexico",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 28, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-queretaro/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-queretaro/report/2026-01-29/"
+  },
+  {
+    "name": "Tecnológico de Monterrey – Campus San Luis Potosi",
+    "location": "Mexico",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 28, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-san-luis-potosi/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-san-luis-potosi/report/2026-02-22/"
+  },
+  {
+    "name": "Tecnológico de Monterrey – Campus Santa Fe",
+    "location": "Mexico",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 28, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-santa-fe/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-santa-fe/report/2026-02-24/"
+  },
+  {
+    "name": "Tecnológico de Monterrey – Campus Sinaloa",
+    "location": "Mexico",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 28, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-sinaloa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-sinaloa/report/2026-02-21/"
+  },
+  {
+    "name": "Tecnológico de Monterrey – Campus Sonora Norte",
+    "location": "Mexico",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 28, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-sonora-norte/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-sonora-norte/report/2026-03-06/"
+  },
+  {
+    "name": "Tecnológico de Monterrey – Campus Toluca",
+    "location": "Mexico",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 28, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-toluca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/tecnologico-de-monterrey-campus-toluca/report/2026-02-05/"
+  },
+  {
+    "name": "Temple University",
+    "location": "United States, PA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Feb. 4, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/temple-university-pa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/temple-university-pa/report/2023-12-14/"
+  },
+  {
+    "name": "Tennessee Technological University",
+    "location": "United States, TN",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 21, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/tennessee-technological-university-tn/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/tennessee-technological-university-tn/report/2026-03-06/"
+  },
+  {
+    "name": "Texas A&M University",
+    "location": "United States, TX",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "March 23, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/texas-am-university-tx/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/texas-am-university-tx/report/2026-02-19/"
+  },
+  {
+    "name": "Texas Tech University",
+    "location": "United States, TX",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "March 31, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/texas-tech-university-tx/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/texas-tech-university-tx/report/2025-03-07/"
+  },
+  {
+    "name": "The American College of Greece",
+    "location": "Greece, Aghia Paraskevi",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 21, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/the-american-college-of-greece-deree-aghia-paraskevi/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/the-american-college-of-greece-deree-aghia-paraskevi/report/2026-02-11/"
+  },
+  {
+    "name": "The Catholic University of America",
+    "location": "United States, DC",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Jan. 29, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/the-catholic-university-of-america-dc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/the-catholic-university-of-america-dc/report/2026-01-28/"
+  },
+  {
+    "name": "The City College of New York",
+    "location": "United States, NY",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 12, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/the-city-college-of-the-city-university-of-new-york-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/the-city-college-of-the-city-university-of-new-york-ny/report/2025-03-07/"
+  },
+  {
+    "name": "The College of Wooster",
+    "location": "United States, OH",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 16, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/the-college-of-wooster-oh/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/the-college-of-wooster-oh/report/2026-03-06/"
+  },
+  {
+    "name": "The New School",
+    "location": "United States, NY",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 28, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/the-new-school-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/the-new-school-ny/report/2025-03-24/"
+  },
+  {
+    "name": "The Ohio State University",
+    "location": "United States, OH",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Oct. 1, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/the-ohio-state-university-oh/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/the-ohio-state-university-oh/report/2023-06-30/"
+  },
+  {
+    "name": "The University of Arizona",
+    "location": "United States, AZ",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "March 10, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-arizona-az/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-arizona-az/report/2025-01-06/"
+  },
+  {
+    "name": "The University of New Mexico",
+    "location": "United States, NM",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Dec. 9, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/the-university-of-new-mexico-nm/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/the-university-of-new-mexico-nm/report/2024-10-18/"
+  },
+  {
+    "name": "The University of North Carolina at Charlotte",
+    "location": "United States, NC",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Nov. 16, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-north-carolina-charlotte-nc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-north-carolina-charlotte-nc/report/2025-10-09/"
+  },
+  {
+    "name": "The University of Texas at Dallas",
+    "location": "United States, TX",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Aug. 1, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-texas-at-dallas-tx/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-texas-at-dallas-tx/report/2023-05-11/"
+  },
+  {
+    "name": "Toronto Metropolitan University",
+    "location": "Canada, ON",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "June 25, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/toronto-metropolitan-university-on/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/toronto-metropolitan-university-on/report/2024-05-06/"
+  },
+  {
+    "name": "Towson University",
+    "location": "United States, MD",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "July 23, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/towson-university-md/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/towson-university-md/report/2025-05-21/"
+  },
+  {
+    "name": "Trinity College (CT)",
+    "location": "United States, CT",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Dec. 20, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/trinity-college-ct/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/trinity-college-ct/report/2024-10-23/"
+  },
+  {
+    "name": "Tulane University",
+    "location": "United States, LA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 15, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/tulane-university-la/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/tulane-university-la/report/2025-03-07/"
+  },
+  {
+    "name": "UMass Chan Medical School",
+    "location": "United States, MA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Oct. 4, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/umass-chan-medical-school-ma/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/umass-chan-medical-school-ma/report/2023-08-16/"
+  },
+  {
+    "name": "Union College - NY",
+    "location": "United States, NY",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 4, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/union-college-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/union-college-ny/report/2026-03-05/"
+  },
+  {
+    "name": "Universidad Científica del Sur",
+    "location": "Peru, Lima",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "April 2, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/universidad-cientifica-del-sur-lima/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/universidad-cientifica-del-sur-lima/report/2024-01-02/"
+  },
+  {
+    "name": "Universidad de Las Américas (UDLA) - Ecuador",
+    "location": "Ecuador",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "July 2, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/universidad-de-las-americas-ecuador/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/universidad-de-las-americas-ecuador/report/2025-07-03/"
+  },
+  {
+    "name": "Universidad de Monterrey",
+    "location": "Mexico",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Jan. 13, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/universidad-de-monterrey/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/universidad-de-monterrey/report/2025-11-05/"
+  },
+  {
+    "name": "Universidad Tecnológica del Uruguay",
+    "location": "Uruguay",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Jan. 15, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/universidad-tecnologica-del-uruguay-uy/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/universidad-tecnologica-del-uruguay-uy/report/2024-10-10/"
+  },
+  {
+    "name": "Université de Montréal",
+    "location": "Canada, QC",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Aug. 25, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-montreal-qc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-montreal-qc/report/2025-08-22/"
+  },
+  {
+    "name": "Université de Sherbrooke",
+    "location": "Canada, QC",
+    "rating": "Platinum",
+    "score": 100,
+    "validThrough": "May 19, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/universite-de-sherbrooke-qc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/universite-de-sherbrooke-qc/report/2025-04-02/"
+  },
+  {
+    "name": "Université du Québec à Montréal",
+    "location": "Canada, Québec",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 28, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/universite-du-quebec-a-montreal-quebec/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/universite-du-quebec-a-montreal-quebec/report/2026-02-17/"
+  },
+  {
+    "name": "Université Laval",
+    "location": "Canada, QC",
+    "rating": "Platinum",
+    "score": 100,
+    "validThrough": "Nov. 17, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/universite-laval-qc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/universite-laval-qc/report/2025-11-14/"
+  },
+  {
+    "name": "Université Téluq",
+    "location": "Canada, QC",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Aug. 23, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/universite-teluq-qc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/universite-teluq-qc/report/2023-07-19/"
+  },
+  {
+    "name": "University at Albany",
+    "location": "United States, NY",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 19, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/university-at-albany-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-at-albany-ny/report/2023-02-27/"
+  },
+  {
+    "name": "University at Buffalo",
+    "location": "United States, NY",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 6, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/university-at-buffalo-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-at-buffalo-ny/report/2026-03-05/"
+  },
+  {
+    "name": "University College Cork - National University of Ireland, Cork",
+    "location": "Ireland, Co. Cork",
+    "rating": "Platinum",
+    "score": 100,
+    "validThrough": "June 14, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/university-college-cork-national-university-of-ireland-cork-co-corcaigh/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-college-cork-national-university-of-ireland-cork-co-corcaigh/report/2026-03-05/"
+  },
+  {
+    "name": "University Mohammed VI Polytechnic",
+    "location": "Morocco",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Nov. 15, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/mohammed-vi-polytechnic-university-no-state/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/mohammed-vi-polytechnic-university-no-state/report/2023-10-13/"
+  },
+  {
+    "name": "University of Alabama",
+    "location": "United States, AL",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "Dec. 4, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-alabama-al/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-alabama-al/report/2024-05-01/"
+  },
+  {
+    "name": "University of Alberta",
+    "location": "Canada, AB",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "March 11, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-alberta-ab/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-alberta-ab/report/2025-11-06/"
+  },
+  {
+    "name": "University of California, Berkeley",
+    "location": "United States, CA",
+    "rating": "Platinum",
+    "score": 100,
+    "validThrough": "April 20, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-california-berkeley-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-california-berkeley-ca/report/2025-02-19/"
+  },
+  {
+    "name": "University of California, Davis",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "July 30, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-california-davis-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-california-davis-ca/report/2023-06-20/"
+  },
+  {
+    "name": "University of California, Irvine",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 29, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-california-irvine-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-california-irvine-ca/report/2025-03-07/"
+  },
+  {
+    "name": "University of California, Los Angeles",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Dec. 14, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-california-los-angeles-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-california-los-angeles-ca/report/2023-09-08/"
+  },
+  {
+    "name": "University of California, Riverside",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 14, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-california-riverside-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-california-riverside-ca/report/2025-03-07/"
+  },
+  {
+    "name": "University of California San Diego",
+    "location": "United States, CA",
+    "rating": "Platinum",
+    "score": 100,
+    "validThrough": "Dec. 17, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-california-san-diego-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-california-san-diego-ca/report/2024-11-05/"
+  },
+  {
+    "name": "University of California, Santa Barbara",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 7, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-california-santa-barbara-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-california-santa-barbara-ca/report/2024-02-29/"
+  },
+  {
+    "name": "University of California, Santa Cruz",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Aug. 18, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-california-santa-cruz-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-california-santa-cruz-ca/report/2025-05-27/"
+  },
+  {
+    "name": "University of Central Florida",
+    "location": "United States, FL",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 22, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-central-florida-fl/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-central-florida-fl/report/2024-04-23/"
+  },
+  {
+    "name": "University of Cincinnati",
+    "location": "United States, OH",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 5, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-cincinnati-oh/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-cincinnati-oh/report/2023-03-03/"
+  },
+  {
+    "name": "University of Colorado Boulder",
+    "location": "United States, CO",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Feb. 11, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-colorado-at-boulder-co/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-colorado-at-boulder-co/report/2024-12-03/"
+  },
+  {
+    "name": "University of Colorado Colorado Springs",
+    "location": "United States, CO",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 15, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-colorado-at-colorado-springs-co/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-colorado-at-colorado-springs-co/report/2024-03-01/"
+  },
+  {
+    "name": "University of Connecticut",
+    "location": "United States, CT",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "March 10, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-connecticut-ct/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-connecticut-ct/report/2024-12-30/"
+  },
+  {
+    "name": "University of Dayton",
+    "location": "United States, OH",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 12, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-dayton-oh/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-dayton-oh/report/2025-03-07/"
+  },
+  {
+    "name": "University of Delaware",
+    "location": "United States, DE",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Nov. 24, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-delaware-de/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-delaware-de/report/2025-11-14/"
+  },
+  {
+    "name": "University of Denver",
+    "location": "United States, CO",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Feb. 14, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-denver-co/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-denver-co/report/2024-12-06/"
+  },
+  {
+    "name": "University of Hawaii at Manoa",
+    "location": "United States, HI",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 16, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-hawaii-at-manoa-hi/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-hawaii-at-manoa-hi/report/2026-03-06/"
+  },
+  {
+    "name": "University of Hawaii Honolulu Community College",
+    "location": "United States, HI",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "April 20, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-hawaii-honolulu-community-college-hi/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-hawaii-honolulu-community-college-hi/report/2023-02-28/"
+  },
+  {
+    "name": "University of Houston",
+    "location": "United States, TX",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 12, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-houston-university-park-tx/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-houston-university-park-tx/report/2025-02-23/"
+  },
+  {
+    "name": "University of Idaho",
+    "location": "United States, ID",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "March 3, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-idaho-id/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-idaho-id/report/2026-01-20/"
+  },
+  {
+    "name": "University of Illinois Chicago",
+    "location": "United States, IL",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Jan. 14, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-illinois-chicago-il/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-illinois-chicago-il/report/2025-08-29/"
+  },
+  {
+    "name": "University of Illinois, Urbana-Champaign",
+    "location": "United States, IL",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "June 10, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-illinois-urbana-champaign-il/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-illinois-urbana-champaign-il/report/2025-04-29/"
+  },
+  {
+    "name": "University of Iowa",
+    "location": "United States, IA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Oct. 4, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-iowa-ia/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-iowa-ia/report/2024-06-25/"
+  },
+  {
+    "name": "University of Kentucky",
+    "location": "United States, KY",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Dec. 2, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-kentucky-ky/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-kentucky-ky/report/2025-10-31/"
+  },
+  {
+    "name": "University of Louisville",
+    "location": "United States, KY",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 15, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-louisville-ky/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-louisville-ky/report/2026-03-05/"
+  },
+  {
+    "name": "University of Manitoba",
+    "location": "Canada, MB",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 5, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-manitoba-mb/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-manitoba-mb/report/2026-02-06/"
+  },
+  {
+    "name": "University of Maryland, Baltimore",
+    "location": "United States, MD",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 30, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-maryland-baltimore-md/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-maryland-baltimore-md/report/2025-03-18/"
+  },
+  {
+    "name": "University of Maryland, Baltimore County",
+    "location": "United States, MD",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Dec. 17, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-maryland-baltimore-county-md/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-maryland-baltimore-county-md/report/2025-12-17/"
+  },
+  {
+    "name": "University of Maryland, College Park",
+    "location": "United States, MD",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 15, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-maryland-college-park-md/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-maryland-college-park-md/report/2025-03-07/"
+  },
+  {
+    "name": "University of Mary Washington",
+    "location": "United States, VA",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 9, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-mary-washington-va/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-mary-washington-va/report/2025-03-07/"
+  },
+  {
+    "name": "University of Massachusetts Amherst",
+    "location": "United States, MA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 21, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-massachusetts-amherst-ma/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-massachusetts-amherst-ma/report/2026-02-11/"
+  },
+  {
+    "name": "University of Massachusetts Boston",
+    "location": "United States, MA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Nov. 30, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-massachusetts-boston-ma/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-massachusetts-boston-ma/report/2023-07-03/"
+  },
+  {
+    "name": "University of Massachusetts Lowell",
+    "location": "United States, MA",
+    "rating": "Platinum",
+    "score": 100,
+    "validThrough": "May 14, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-massachusetts-lowell-ma/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-massachusetts-lowell-ma/report/2025-04-04/"
+  },
+  {
+    "name": "University of Miami",
+    "location": "United States, FL",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "June 15, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-miami-fl/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-miami-fl/report/2025-03-28/"
+  },
+  {
+    "name": "University of Michigan",
+    "location": "United States, MI",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 6, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-michigan-mi/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-michigan-mi/report/2026-03-05/"
+  },
+  {
+    "name": "University of Minnesota, Crookston",
+    "location": "United States, MN",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "June 30, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-minnesota-crookston-mn/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-minnesota-crookston-mn/report/2025-06-02/"
+  },
+  {
+    "name": "University of Minnesota, Duluth",
+    "location": "United States, MN",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Oct. 29, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-minnesota-duluth-mn/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-minnesota-duluth-mn/report/2024-09-11/"
+  },
+  {
+    "name": "University of Minnesota, Morris",
+    "location": "United States, MN",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "March 11, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-minnesota-morris-mn/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-minnesota-morris-mn/report/2025-12-19/"
+  },
+  {
+    "name": "University of Minnesota, Rochester",
+    "location": "United States, MN",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Sept. 22, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-minnesota-rochester-mn/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-minnesota-rochester-mn/report/2025-07-07/"
+  },
+  {
+    "name": "University of Minnesota, Twin Cities",
+    "location": "United States, MN",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 21, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-minnesota-mn/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-minnesota-mn/report/2026-03-23/"
+  },
+  {
+    "name": "University of Montana",
+    "location": "United States, MT",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Dec. 17, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-montana-mt/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-montana-mt/report/2024-10-18/"
+  },
+  {
+    "name": "University of Nebraska at Omaha",
+    "location": "United States, NE",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Oct. 23, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-nebraska-at-omaha-ne/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-nebraska-at-omaha-ne/report/2024-05-06/"
+  },
+  {
+    "name": "University of Nebraska - Lincoln",
+    "location": "United States, NE",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 21, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-nebraska-lincoln-ne/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-nebraska-lincoln-ne/report/2025-12-22/"
+  },
+  {
+    "name": "University of New Brunswick",
+    "location": "Canada, NB",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "June 12, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-new-brunswick-nb/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-new-brunswick-nb/report/2025-05-16/"
+  },
+  {
+    "name": "University of New England",
+    "location": "United States, ME",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 19, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-new-england-me/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-new-england-me/report/2026-03-03/"
+  },
+  {
+    "name": "University of New Hampshire",
+    "location": "United States, NH",
+    "rating": "Platinum",
+    "score": 100,
+    "validThrough": "Dec. 9, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-new-hampshire-nh/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-new-hampshire-nh/report/2024-10-24/"
+  },
+  {
+    "name": "University of North Carolina at Chapel Hill",
+    "location": "United States, NC",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Jan. 17, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-north-carolina-chapel-hill-nc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-north-carolina-chapel-hill-nc/report/2024-11-13/"
+  },
+  {
+    "name": "University of North Carolina, Greensboro",
+    "location": "United States, NC",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "July 7, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-north-carolina-greensboro-nc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-north-carolina-greensboro-nc/report/2025-05-13/"
+  },
+  {
+    "name": "University of North Carolina Pembroke",
+    "location": "United States, NC",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 15, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-north-carolina-pembroke-nc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-north-carolina-pembroke-nc/report/2024-02-26/"
+  },
+  {
+    "name": "University of North Carolina, Wilmington",
+    "location": "United States, NC",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Aug. 13, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-north-carolina-wilmington-nc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-north-carolina-wilmington-nc/report/2024-06-28/"
+  },
+  {
+    "name": "University of Northern British Columbia",
+    "location": "Canada, BC",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 9, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-northern-british-columbia-bc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-northern-british-columbia-bc/report/2026-03-04/"
+  },
+  {
+    "name": "University of North Florida",
+    "location": "United States, FL",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "May 6, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-north-florida-fl/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-north-florida-fl/report/2026-02-26/"
+  },
+  {
+    "name": "University of North Georgia",
+    "location": "United States, GA",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "Jan. 29, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-north-georgia-ga/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-north-georgia-ga/report/2023-09-18/"
+  },
+  {
+    "name": "University of Notre Dame",
+    "location": "United States, IN",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 28, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-notre-dame-in/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-notre-dame-in/report/2025-02-28/"
+  },
+  {
+    "name": "University of Oklahoma",
+    "location": "United States, OK",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 9, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-oklahoma-ok/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-oklahoma-ok/report/2025-03-07/"
+  },
+  {
+    "name": "University of Oregon",
+    "location": "United States, OR",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "March 4, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-oregon-or/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-oregon-or/report/2023-08-01/"
+  },
+  {
+    "name": "University of Pennsylvania",
+    "location": "United States, PA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "March 6, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-pennsylvania-pa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-pennsylvania-pa/report/2025-02-18/"
+  },
+  {
+    "name": "University of Pittsburgh",
+    "location": "United States, PA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "March 27, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-pittsburgh-pa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-pittsburgh-pa/report/2024-02-13/"
+  },
+  {
+    "name": "University of Puget Sound",
+    "location": "United States, WA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 29, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-puget-sound-wa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-puget-sound-wa/report/2025-03-07/"
+  },
+  {
+    "name": "University of Richmond",
+    "location": "United States, VA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Feb. 3, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-richmond-va/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-richmond-va/report/2024-12-23/"
+  },
+  {
+    "name": "University of Rochester",
+    "location": "United States, NY",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "March 6, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-rochester-ny/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-rochester-ny/report/2025-01-21/"
+  },
+  {
+    "name": "University of San Diego",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Jan. 10, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-san-diego-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-san-diego-ca/report/2024-10-22/"
+  },
+  {
+    "name": "University of Saskatchewan",
+    "location": "Canada, SK",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 21, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-saskatchewan-sk/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-saskatchewan-sk/report/2026-03-04/"
+  },
+  {
+    "name": "University of Sharjah",
+    "location": "United Arab Emirates, Sharjah",
+    "rating": "Platinum",
+    "score": 100,
+    "validThrough": "May 28, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-sharjah-/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-sharjah-/report/2025-04-20/"
+  },
+  {
+    "name": "University of South Dakota",
+    "location": "United States, SD",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "April 26, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-south-dakota-sd/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-south-dakota-sd/report/2023-01-30/"
+  },
+  {
+    "name": "University of Southern California",
+    "location": "United States, CA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Feb. 22, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-southern-california-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-southern-california-ca/report/2023-12-20/"
+  },
+  {
+    "name": "University of St. Thomas",
+    "location": "United States, MN",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Jan. 17, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-st-thomas-mn/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-st-thomas-mn/report/2023-11-30/"
+  },
+  {
+    "name": "University of Tennessee at Knoxville",
+    "location": "United States, TN",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 18, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-tennessee-at-knoxville-tn/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-tennessee-at-knoxville-tn/report/2023-03-03/"
+  },
+  {
+    "name": "University of Texas at Arlington",
+    "location": "United States, TX",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "July 10, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-texas-at-arlington-tx/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-texas-at-arlington-tx/report/2025-05-13/"
+  },
+  {
+    "name": "University of Texas at Austin",
+    "location": "United States, TX",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Jan. 8, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-texas-at-austin-tx/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-texas-at-austin-tx/report/2024-11-04/"
+  },
+  {
+    "name": "University of Texas at San Antonio",
+    "location": "United States, TX",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "March 11, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-texas-at-san-antonio-tx/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-texas-at-san-antonio-tx/report/2023-11-22/"
+  },
+  {
+    "name": "University of Texas Rio Grande Valley",
+    "location": "United States, TX",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 18, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-texas-rio-grande-valley-tx/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-texas-rio-grande-valley-tx/report/2023-01-10/"
+  },
+  {
+    "name": "University of the Fraser Valley",
+    "location": "Canada, BC",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "June 14, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-the-fraser-valley-bc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-the-fraser-valley-bc/report/2026-04-21/"
+  },
+  {
+    "name": "University of the Incarnate Word",
+    "location": "United States, TX",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Dec. 19, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-the-incarnate-word-tx/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-the-incarnate-word-tx/report/2024-10-21/"
+  },
+  {
+    "name": "University of the Pacific",
+    "location": "United States, CA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 21, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-the-pacific-ca/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-the-pacific-ca/report/2024-03-14/"
+  },
+  {
+    "name": "University of Toronto Mississauga",
+    "location": "Canada, ON",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 15, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-toronto-at-mississauga-on/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-toronto-at-mississauga-on/report/2024-03-01/"
+  },
+  {
+    "name": "University of Utah",
+    "location": "United States, UT",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Oct. 19, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-utah-ut/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-utah-ut/report/2023-09-12/"
+  },
+  {
+    "name": "University of Vermont",
+    "location": "United States, VT",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "March 23, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-vermont-vt/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-vermont-vt/report/2026-02-12/"
+  },
+  {
+    "name": "University of Victoria",
+    "location": "Canada, BC",
+    "rating": "Platinum",
+    "score": 100,
+    "validThrough": "March 11, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-victoria-bc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-victoria-bc/report/2023-12-13/"
+  },
+  {
+    "name": "University of Virginia",
+    "location": "United States, VA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 2, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-virginia-va/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-virginia-va/report/2024-02-08/"
+  },
+  {
+    "name": "University of Washington, Bothell",
+    "location": "United States, WA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "June 4, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-washington-bothell-wa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-washington-bothell-wa/report/2025-04-01/"
+  },
+  {
+    "name": "University of Washington, Seattle",
+    "location": "United States, WA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Jan. 14, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-washington-seattle-wa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-washington-seattle-wa/report/2025-12-22/"
+  },
+  {
+    "name": "University of Waterloo",
+    "location": "Canada, ON",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Jan. 16, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-waterloo-on/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-waterloo-on/report/2024-12-10/"
+  },
+  {
+    "name": "University of Western Australia",
+    "location": "Australia",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Jan. 8, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-western-australia/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-western-australia/report/2025-12-03/"
+  },
+  {
+    "name": "University of Winnipeg",
+    "location": "Canada, MB",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Dec. 2, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-winnipeg-mb/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-winnipeg-mb/report/2025-10-06/"
+  },
+  {
+    "name": "University of Wisconsin-Eau Claire",
+    "location": "United States, WI",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 4, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-wisconsin-eau-claire-wi/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-wisconsin-eau-claire-wi/report/2024-02-02/"
+  },
+  {
+    "name": "University of Wisconsin-Green Bay",
+    "location": "United States, WI",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Dec. 15, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-wisconsin-green-bay-wi/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-wisconsin-green-bay-wi/report/2025-12-01/"
+  },
+  {
+    "name": "University of Wisconsin-Madison",
+    "location": "United States, WI",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Aug. 11, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-wisconsin-madison-wi/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-wisconsin-madison-wi/report/2025-07-11/"
+  },
+  {
+    "name": "University of Wisconsin-Milwaukee",
+    "location": "United States, WI",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "March 24, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-wisconsin-milwaukee-wi/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-wisconsin-milwaukee-wi/report/2026-02-16/"
+  },
+  {
+    "name": "University of Wisconsin-Oshkosh",
+    "location": "United States, WI",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 17, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-wisconsin-oshkosh-wi/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-wisconsin-oshkosh-wi/report/2026-01-09/"
+  },
+  {
+    "name": "University of Wisconsin-Platteville",
+    "location": "United States, WI",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Aug. 28, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-wisconsin-platteville-wi/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-wisconsin-platteville-wi/report/2023-07-05/"
+  },
+  {
+    "name": "University of Wisconsin-River Falls",
+    "location": "United States, WI",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 19, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-wisconsin-river-falls-wi/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-wisconsin-river-falls-wi/report/2024-02-29/"
+  },
+  {
+    "name": "University of Wisconsin-Stevens Point",
+    "location": "United States, WI",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 7, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-wisconsin-stevens-point-wi/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-wisconsin-stevens-point-wi/report/2024-03-22/"
+  },
+  {
+    "name": "University of Wisconsin-Whitewater",
+    "location": "United States, WI",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "May 13, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-wisconsin-whitewater-wi/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-wisconsin-whitewater-wi/report/2025-02-25/"
+  },
+  {
+    "name": "Ursinus College",
+    "location": "United States, PA",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 9, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/ursinus-college-pa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/ursinus-college-pa/report/2025-03-07/"
+  },
+  {
+    "name": "Utah State University",
+    "location": "United States, UT",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "March 1, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/utah-state-university-ut/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/utah-state-university-ut/report/2025-10-25/"
+  },
+  {
+    "name": "Valparaiso University",
+    "location": "United States, IN",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 21, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/valparaiso-university-in/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/valparaiso-university-in/report/2024-02-27/"
+  },
+  {
+    "name": "Vanderbilt University",
+    "location": "United States, TN",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 15, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/vanderbilt-university-tn/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/vanderbilt-university-tn/report/2024-02-29/"
+  },
+  {
+    "name": "Vanier College",
+    "location": "Canada, QC",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 21, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/vanier-college-qc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/vanier-college-qc/report/2026-03-06/"
+  },
+  {
+    "name": "Victoria University of Wellington",
+    "location": "New Zealand",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Oct. 8, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/victoria-university-of-wellington/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/victoria-university-of-wellington/report/2025-08-18/"
+  },
+  {
+    "name": "Virginia Commonwealth University",
+    "location": "United States, VA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Nov. 1, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/virginia-commonwealth-university-va/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/virginia-commonwealth-university-va/report/2024-09-03/"
+  },
+  {
+    "name": "Virginia Tech",
+    "location": "United States, VA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "July 2, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/virginia-tech-va/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/virginia-tech-va/report/2024-05-16/"
+  },
+  {
+    "name": "Warren Wilson College",
+    "location": "United States, NC",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 9, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/warren-wilson-college-nc/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/warren-wilson-college-nc/report/2026-03-05/"
+  },
+  {
+    "name": "Washington and Lee University",
+    "location": "United States, VA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 29, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/washington-and-lee-university-va/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/washington-and-lee-university-va/report/2024-03-01/"
+  },
+  {
+    "name": "Washington University in St. Louis",
+    "location": "United States, MO",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "April 20, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/washington-university-in-st-louis-mo/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/washington-university-in-st-louis-mo/report/2025-03-07/"
+  },
+  {
+    "name": "Weber State University",
+    "location": "United States, UT",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Aug. 26, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/weber-state-university-ut/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/weber-state-university-ut/report/2024-07-22/"
+  },
+  {
+    "name": "Wentworth Institute of Technology",
+    "location": "United States, MA",
+    "rating": "Bronze",
+    "score": 55,
+    "validThrough": "March 5, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/wentworth-institute-of-technology-ma/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/wentworth-institute-of-technology-ma/report/2026-03-06/"
+  },
+  {
+    "name": "Wenzhou-Kean University",
+    "location": "China, Zhejiang",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Jan. 19, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/wenzhou-kean-university-zhejiang/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/wenzhou-kean-university-zhejiang/report/2025-10-30/"
+  },
+  {
+    "name": "Wesleyan University",
+    "location": "United States, CT",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "March 11, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/wesleyan-university-ct/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/wesleyan-university-ct/report/2026-01-26/"
+  },
+  {
+    "name": "West Chester University",
+    "location": "United States, PA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "May 12, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/west-chester-university-of-pennsylvania-pa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/west-chester-university-of-pennsylvania-pa/report/2025-03-07/"
+  },
+  {
+    "name": "Western Kentucky University",
+    "location": "United States, KY",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "April 3, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/western-kentucky-university-ky/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/western-kentucky-university-ky/report/2024-03-01/"
+  },
+  {
+    "name": "Western University",
+    "location": "Canada, ON",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Feb. 28, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/university-of-western-ontario-on/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/university-of-western-ontario-on/report/2025-01-16/"
+  },
+  {
+    "name": "Western Washington University",
+    "location": "United States, WA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Dec. 18, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/western-washington-university-wa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/western-washington-university-wa/report/2025-09-15/"
+  },
+  {
+    "name": "Whitman College",
+    "location": "United States, WA",
+    "rating": "Silver",
+    "score": 70,
+    "validThrough": "Aug. 23, 2026",
+    "profileUrl": "https://reports.aashe.org/institutions/whitman-college-wa/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/whitman-college-wa/report/2023-07-24/"
+  },
+  {
+    "name": "Wilfrid Laurier University",
+    "location": "Canada, ON",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "Nov. 25, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/wilfrid-laurier-university-on/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/wilfrid-laurier-university-on/report/2025-10-15/"
+  },
+  {
+    "name": "Williams College",
+    "location": "United States, MA",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 20, 2028",
+    "profileUrl": "https://reports.aashe.org/institutions/williams-college-ma/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/williams-college-ma/report/2025-04-10/"
+  },
+  {
+    "name": "Worcester State University",
+    "location": "United States, MA",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "Feb. 26, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/worcester-state-university-ma/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/worcester-state-university-ma/report/2026-02-17/"
+  },
+  {
+    "name": "Xavier University",
+    "location": "United States, OH",
+    "rating": "Reporter",
+    "score": 40,
+    "validThrough": "March 5, 2029",
+    "profileUrl": "https://reports.aashe.org/institutions/xavier-university-oh/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/xavier-university-oh/report/2026-03-06/"
+  },
+  {
+    "name": "York University",
+    "location": "Canada, ON",
+    "rating": "Gold",
+    "score": 85,
+    "validThrough": "May 23, 2027",
+    "profileUrl": "https://reports.aashe.org/institutions/york-university-on/report/",
+    "reportUrl": "https://reports.aashe.org/institutions/york-university-on/report/2024-04-03/"
+  }
+]
