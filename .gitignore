@@ -1,0 +1,15 @@
+# Office temporary files
+~$*.xlsx
+~$*.docx
+
+# Local caches and collection intermediates
+*.html
+*.partial.json
+*.inspect.ndjson
+inspection.ndjson
+previews/
+node_modules/
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
