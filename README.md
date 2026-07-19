@@ -2,7 +2,7 @@
 
 Transparent, student-centered data collection for comparing global sustainability-related master's programs.
 
-This repository supports the BUSA 649 community project described in [Project_Proposal.pdf](proposal/Project_Proposal.pdf). The current corrected candidate universe contains 97 institutions selected from the QS Sustainability Rankings 2026 and THE Sustainability Impact Ratings 2026.
+This repository supports the BUSA 649 community project described in [Project_Proposal.pdf](proposal/Project_Proposal.pdf). The sustainability-specific ranking cutoffs produced 97 source candidates; 96 institutions remain after manual review excluded ID 75, Al-Ahliyya Amman University, because no relevant master's program was confirmed.
 
 ## Project purpose
 
@@ -13,21 +13,28 @@ University rankings describe institutions, not the day-to-day experience or outc
 | Path | Description |
 | --- | --- |
 | `proposal/Project_Proposal.pdf` | Original project proposal and planned analysis framework |
-| `outputs/program_source_data_corrected_sustainability_impact_aashe.xlsx` | Corrected 97-institution candidate universe, verified program links, 2026 QS/THE sustainability results, overlap analysis, AASHE matches, and URL audit |
-| `outputs/qs_the_5_year_sustainability_and_school_rankings_97_programs.xlsx` | Five-year institutional sustainability and overall school ranking histories linked to all 97 selected programs |
+| `outputs/program_source_data_corrected_96_with_aashe_prme_openalex_details.xlsx` | Current 96-program master workbook with QS/THE source rankings, program verification, AASHE, UN PRME, OpenAlex 2021-2025 signals, official program details, source URLs, and audit notes |
+| `outputs/qs_the_5_year_sustainability_and_school_rankings_96_programs.xlsx` | Five-year institutional sustainability and overall school ranking histories linked to the 96 retained programs |
 | `docs/MANUAL_VERIFICATION_GUIDE.md` | Checklist for reviewing official program websites |
 | `data/README.md` | Provenance and limitations for collected source files |
 
-Files that refer to 62 institutions are earlier working snapshots. They should not be combined with the corrected 97-institution workbooks without rematching institution IDs.
+Files that refer to 62 or 97 programs are earlier working snapshots. They should not be combined with the corrected 96-program workbooks without rematching institution IDs.
 
 ## Corrected ranking coverage
 
-- 97 sustainability-related master's routes at 97 institutions.
-- QS Sustainability editions 2023-2026: 372 ranked institution-year cells and 16 explicit `NR` cells. The ranking did not exist in 2022, which is shown as `N/P`.
+- 96 retained sustainability-related master's routes at 96 institutions; original IDs are preserved with ID 75 intentionally absent.
+- QS Sustainability editions 2023-2026: 373 ranked institution-year cells and 15 explicit `NR` cells. The ranking did not exist in 2022, which is shown as `N/P`.
 - THE Impact Rankings 2022-2025 plus THE Sustainability Impact Ratings 2026: 333 ranked institution-year cells and 152 explicit `NR` cells.
-- QS World University Rankings editions 2023-2027: 325 cells retain an exact rank from 1-200; 160 are coded `200+`.
-- THE World University Rankings editions 2022-2026: 269 cells retain an exact rank from 1-200; 210 are coded `200+`; 6 are `NR`.
+- QS World University Rankings editions 2023-2027: 330 cells retain an exact rank from 1-200; 155 are coded `200+`.
+- THE World University Rankings editions 2022-2026: 274 cells retain an exact rank from 1-200; 205 are coded `200+`; 6 are `NR`.
 - Current 2026 candidate ranks were cross-checked against the corrected source workbook with zero mismatches.
+
+## Institutional and program evidence
+
+- 48 verified UN PRME signatory matches and 87 SIP reports with report years 2022-2026.
+- 45 OpenAlex institution/research-signal rows collected for 2021-2025. Another 47 rows are explicitly marked `API quota reached`, and four have `No reliable match`; missing values are not coded as zero.
+- 96 English program-detail rows cover tuition/fees, duration, delivery, language, curriculum focus, internship/fieldwork, capstone/project, thesis, class size, placement, and official source URLs.
+- AASHE STARS matches remain institution/campus scoped and are not inherited across related entities.
 
 ## Ranking interpretation
 
@@ -50,7 +57,7 @@ Neither is a direct ranking of the selected master's program. Overall school ran
 
 ## Suggested workflow
 
-1. Start with the corrected 97-institution source workbook.
+1. Start with the corrected 96-program source workbook.
 2. Open each official program URL and verify curriculum, duration, delivery mode, tuition, experiential learning, career evidence, and the verification date.
 3. Use the ranking history workbook only as institutional context.
 4. Preserve `NR`, `N/P`, and missing program facts rather than estimating them.
