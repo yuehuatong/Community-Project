@@ -2,75 +2,58 @@
 
 Transparent, student-centered data collection for comparing global sustainability-related master's programs.
 
-This repository supports the BUSA 649 community project described in [Project_Proposal.pdf](proposal/Project_Proposal.pdf). It brings together program links, institutional sustainability signals, research indicators, and five-year QS/THE ranking histories for 62 selected institutions.
+This repository supports the BUSA 649 community project described in [Project_Proposal.pdf](proposal/Project_Proposal.pdf). The current corrected candidate universe contains 97 institutions selected from the QS Sustainability Rankings 2026 and THE Sustainability Impact Ratings 2026.
 
 ## Project purpose
 
-Traditional university rankings describe institutions, not the day-to-day student experience of a specific master's program. This project prepares a transparent evidence base for a later program-level comparison using curriculum relevance, affordability, experiential learning, institutional sustainability, research, careers, and student sentiment.
+University rankings describe institutions, not the day-to-day experience or outcomes of a specific master's program. This project links institutional sustainability evidence and overall school rankings to one sustainability-related master's route at each university, while preserving the official program URL for manual validation.
 
-The repository contains collected source data and working Excel files. Program facts should be manually verified against official school websites before final analysis or publication.
-
-## Repository contents
+## Current corrected files
 
 | Path | Description |
 | --- | --- |
-| `proposal/Project_Proposal.pdf` | Original project proposal and planned ranking framework |
-| `data/processed/programs_62.json` | The 62 selected institutions, candidate programs, and official program URLs |
-| `data/processed/aashe_stars_records.json` | AASHE STARS participant/report directory records |
-| `data/processed/unprme_signatories.json` | UN Principles for Responsible Management Education signatory records |
-| `data/processed/unprme_sip_reports.json` | UNPRME Sharing Information on Progress report records |
-| `data/processed/unprme_sip_reports_for_selected_institutions.json` | SIP records matched to selected institutions |
-| `data/processed/openalex_institution_signals.json` | OpenAlex institution matches and research indicators |
-| `data/processed/qs_the_university_ranking_history.json` | Five-year institution-level QS and THE ranking history |
-| `data/processed/qs_the_subject_ranking_proxies.json` | Five-year subject-ranking proxies linked to the selected programs |
-| `outputs/program_source_data_collection_with_institutional_signals.xlsx` | Main source-data collection workbook with institutional signals |
-| `outputs/qs_the_5_year_university_and_program_subject_rankings_62_programs.xlsx` | University and program-related subject ranking workbook |
-| `data/README.md` | Data dictionary, provenance, and limitations |
+| `proposal/Project_Proposal.pdf` | Original project proposal and planned analysis framework |
+| `outputs/program_source_data_corrected_sustainability_impact_aashe.xlsx` | Corrected 97-institution candidate universe, verified program links, 2026 QS/THE sustainability results, overlap analysis, AASHE matches, and URL audit |
+| `outputs/qs_the_5_year_sustainability_and_school_rankings_97_programs.xlsx` | Five-year institutional sustainability and overall school ranking histories linked to all 97 selected programs |
 | `docs/MANUAL_VERIFICATION_GUIDE.md` | Checklist for reviewing official program websites |
+| `data/README.md` | Provenance and limitations for collected source files |
 
-## Data coverage
+Files that refer to 62 institutions are earlier working snapshots. They should not be combined with the corrected 97-institution workbooks without rematching institution IDs.
 
-- 62 sustainability-related master's programs at 62 institutions.
-- QS World University Rankings editions 2023-2027: 310 of 310 institution-year cells matched.
-- THE World University Rankings editions 2022-2026: 310 of 310 institution-year cells matched.
-- QS subject proxies, 2022-2026: 288 ranked cells and 22 explicit non-rank/out-of-range cells.
-- THE subject proxies, 2022-2026: 296 ranked cells and 14 explicit non-ranked cells.
-- 414 AASHE STARS directory records.
-- 858 UNPRME signatories and 3,830 SIP report records.
-- OpenAlex research signals for all 62 selected institutions.
+## Corrected ranking coverage
+
+- 97 sustainability-related master's routes at 97 institutions.
+- QS Sustainability editions 2023-2026: 372 ranked institution-year cells and 16 explicit `NR` cells. The ranking did not exist in 2022, which is shown as `N/P`.
+- THE Impact Rankings 2022-2025 plus THE Sustainability Impact Ratings 2026: 333 ranked institution-year cells and 152 explicit `NR` cells.
+- QS World University Rankings editions 2023-2027: 325 cells retain an exact rank from 1-200; 160 are coded `200+`.
+- THE World University Rankings editions 2022-2026: 269 cells retain an exact rank from 1-200; 210 are coded `200+`; 6 are `NR`.
+- Current 2026 candidate ranks were cross-checked against the corrected source workbook with zero mismatches.
 
 ## Ranking interpretation
 
-QS and THE generally do not publish rankings for individual sustainability master's programs. The repository therefore separates two concepts:
+The ranking workbook separates two concepts:
 
-1. **University rankings** are the institution's published overall QS/THE rank.
-2. **Program-related subject rankings** map a program to the closest available subject category. They are transparent proxies, not direct program rankings.
+1. **Sustainability rankings** are QS Sustainability and THE Impact / Sustainability Impact results for the institution.
+2. **School rankings** are the institution's overall QS and THE World University Rankings.
 
-Published ties and rank bands are retained as text. `NR` means that an institution was not ranked in a complete subject table, or was not found within the QS collection range stated in the record's status field.
+Neither is a direct ranking of the selected master's program. Overall school ranks 1-200 retain the published value, including ties. Published ranks after 200 are intentionally reported as `200+`. `NR` means not ranked in a complete official table; `N/P` means that the edition was not published.
 
 ## Primary sources
 
+- [QS Sustainability Rankings](https://www.topuniversities.com/sustainability-rankings)
+- [THE Sustainability Impact Ratings](https://www.timeshighereducation.com/impactrankings)
+- [QS World University Rankings](https://www.topuniversities.com/world-university-rankings)
+- [THE World University Rankings](https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking)
 - [AASHE STARS participants and reports](https://reports.aashe.org/institutions/participants-and-reports/)
 - [UN Principles for Responsible Management Education](https://www.unprme.org/search/)
 - [OpenAlex](https://openalex.org/)
-- [QS World University Rankings](https://www.topuniversities.com/world-university-rankings)
-- [QS World University Rankings by Subject](https://www.topuniversities.com/university-subject-rankings)
-- [Times Higher Education World University Rankings](https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking)
-- [Times Higher Education World University Rankings by Subject](https://www.timeshighereducation.com/world-university-rankings/by-subject)
 
 ## Suggested workflow
 
-1. Open the main source-data workbook and review one program at a time.
-2. Visit the official program URL and confirm program name, curriculum, duration, delivery mode, tuition, experiential learning, and career information.
-3. Record the verification date and source URL for every manually confirmed value.
-4. Treat institutional and subject rankings as context rather than a substitute for program-level evidence.
-5. Preserve missing values instead of estimating facts that are not published.
+1. Start with the corrected 97-institution source workbook.
+2. Open each official program URL and verify curriculum, duration, delivery mode, tuition, experiential learning, career evidence, and the verification date.
+3. Use the ranking history workbook only as institutional context.
+4. Preserve `NR`, `N/P`, and missing program facts rather than estimating them.
+5. Refresh time-sensitive values before final analysis or publication.
 
-See [the manual verification guide](docs/MANUAL_VERIFICATION_GUIDE.md) for a field-by-field checklist.
-
-## Data status and limitations
-
-The data were collected in July 2026 and represent a research snapshot. University websites, tuition, curricula, rankings, signatory status, and report availability can change. Automated name matching was reviewed for the selected institutions, but final program facts still require manual verification.
-
-The source organizations retain ownership of their published content. This repository provides transformed research records with source URLs for academic use; users should consult each source's current terms before redistribution or commercial use.
-
+The data were collected in July 2026 and represent a point-in-time research snapshot. Source organizations retain ownership of their published content.
