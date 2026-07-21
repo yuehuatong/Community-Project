@@ -39,7 +39,8 @@ The temporary Reddit workbook was generated from user-downloaded Arctic Shift po
 
 - `r/gradadmissions` covers 2025-07-01 through 2026-06-29.
 - `r/GradSchool`, `r/sustainability`, and `r/sustainableFinance` cover 2024-07-01 through 2026-06-29.
-- `r/EnvironmentalScience` was requested but had not yet been downloaded when this temporary workbook was created.
+- `r/EnvironmentalScience` is intentionally excluded from the current collection because no usable posts were available; it is not treated as a zero-observation source.
+- School-specific subreddit archives for the first 15 institutions are a planned manual extension and are not included in this temporary workbook.
 - Reddit usernames and author IDs are excluded.
 - High, Medium, and Low relevance tiers are retained for manual screening; matches are candidate evidence, not confirmed program reviews.
 
