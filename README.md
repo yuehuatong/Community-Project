@@ -16,6 +16,8 @@ University rankings describe institutions, not the day-to-day experience or outc
 | `outputs/program_source_data_top60_qs30_the30.xlsx` | Synchronized 60-program source workbook with QS/THE selection, program details, AASHE, UN PRME, OpenAlex, source URLs, and audit fields | Current |
 | `outputs/qs_the_5_year_sustainability_and_school_rankings_60_programs.xlsx` | Five-year sustainability and overall school ranking histories aligned to the same 60 programs | Current |
 | `outputs/reddit_top60_program_matches.xlsx` | Candidate Reddit post matches for the 60 programs, with authors excluded and relevance tiers retained for manual review | Temporary working version |
+| `docs/HTML_DESIGN_GUIDE.md` | Website structure, filters, missing-data rules, warning states, and Reddit component handoff | Current design handoff |
+| `docs/CUSTOM_RANKING_METHODOLOGY.md` | Separate Research-oriented and Taught/Professional project ranking methods | Draft methodology |
 | `docs/MANUAL_VERIFICATION_GUIDE.md` | Checklist for reviewing official program websites | Reference |
 | `data/README.md` | Provenance and limitations for collected source files | Reference |
 
@@ -31,7 +33,9 @@ Workbooks referring to 62, 96, or 97 programs are superseded working snapshots a
 
 ## Institutional and program evidence
 
-The source workbook preserves program-level fields for tuition and fees, duration, delivery mode, language requirements, curriculum focus, internship or fieldwork, capstone or project, thesis options, class size, placement evidence, and official URLs. It also contains institution-level AASHE STARS, UN PRME, and OpenAlex evidence where a reliable match was available. Missing information is retained as missing or explicitly audited rather than estimated.
+The source workbook preserves program-level fields for tuition and fees, duration, delivery mode, language requirements, curriculum focus, internship or fieldwork, capstone or project, thesis options, class size, placement evidence, and official URLs. It also contains institution-level AASHE STARS, UN PRME, and OpenAlex evidence where a reliable match was available.
+
+Missing information is normally retained as missing or explicitly audited rather than estimated. One project-specific exception is the website thesis field: a thesis option is coded `No` unless an explicit thesis option was found. Pages with user notes may use clearly labeled illustrative values for prototype layout only; those values must be excluded from filters, charts, aggregates, comparisons, and project ranking scores.
 
 ## Reddit working data
 
@@ -53,6 +57,8 @@ The ranking workbook separates two concepts:
 
 Neither is a direct ranking of the selected master's program.
 
+The proposed project ranking adds a transparent, subjective comparison layer and must be labeled as a project method rather than an official QS or THE ranking. Research-oriented and Taught/Professional programs are evaluated separately. Scores must display component weights, data coverage, confidence, and source links. Illustrative or eligibility-unverified records do not participate.
+
 ## Primary sources
 
 - [QS Sustainability Rankings](https://www.topuniversities.com/sustainability-rankings)
@@ -63,14 +69,16 @@ Neither is a direct ranking of the selected master's program.
 - [UN Principles for Responsible Management Education](https://www.unprme.org/search/)
 - [OpenAlex](https://openalex.org/)
 - [Arctic Shift Reddit download tool](https://arctic-shift.photon-reddit.com/download-tool)
+- [SUSANhub](https://susanhub.com/)
 
 ## Suggested workflow
 
 1. Start with the synchronized 60-program source workbook.
 2. Open each official program URL and verify curriculum, duration, delivery mode, tuition, experiential learning, career evidence, and the verification date.
-3. Use the ranking history workbook only as institutional context.
-4. Manually screen Reddit matches, beginning with the High relevance tier.
-5. Preserve `NR`, `N/P`, and missing facts rather than estimating them.
-6. Refresh time-sensitive values before final analysis or publication.
+3. Normalize program type, admissions requirements, and English thresholds before calculating the project ranking.
+4. Use the ranking history workbook as institutional context and follow the documented project methodology for subjective scores.
+5. Manually screen Reddit matches, beginning with the High relevance tier.
+6. Preserve `NR`, `N/P`, missing, not-collected, and illustrative states as distinct values.
+7. Refresh time-sensitive values before final analysis or publication.
 
 The data were collected in July 2026 and represent a point-in-time research snapshot. Source organizations retain ownership of their published content.
