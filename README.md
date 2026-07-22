@@ -15,7 +15,9 @@ University rankings describe institutions, not the day-to-day experience or outc
 | `proposal/Project_Proposal.pdf` | Original project proposal and planned analysis framework | Reference |
 | `outputs/program_source_data_top60_qs30_the30.xlsx` | Synchronized 60-program source workbook with QS/THE selection, program details, AASHE, UN PRME, OpenAlex, source URLs, and audit fields | Current |
 | `outputs/qs_the_5_year_sustainability_and_school_rankings_60_programs.xlsx` | Five-year sustainability and overall school ranking histories aligned to the same 60 programs | Current |
-| `outputs/reddit_top60_program_matches.xlsx` | Candidate Reddit post matches for the 60 programs, with authors excluded and relevance tiers retained for manual review | Temporary working version |
+| `outputs/reddit_top60_program_matches.xlsx` | Candidate Reddit post matches for the 60 programs, with authors excluded and relevance tiers retained for manual review | Superseded working version |
+| `outputs/reddit_sentiment_analysis/reddit_sentiment_analysis_top60_public.xlsx` | De-identified aggregate sentiment workbook with dashboard, institution summaries, trends, topics, outcomes, and concerns | Current public analysis |
+| `outputs/reddit_sentiment_analysis/README_REDDIT_ANALYSIS.md` | Reddit analysis scope, interpretation limits, raw-file policy, and reproducibility notes | Reference |
 | `docs/HTML_DESIGN_GUIDE.md` | Website structure, filters, missing-data rules, warning states, and Reddit component handoff | Current design handoff |
 | `docs/CUSTOM_RANKING_METHODOLOGY.md` | Separate Research-oriented and Taught/Professional project ranking methods | Draft methodology |
 | `docs/MANUAL_VERIFICATION_GUIDE.md` | Checklist for reviewing official program websites | Reference |
@@ -37,16 +39,18 @@ The source workbook preserves program-level fields for tuition and fees, duratio
 
 Missing information is normally retained as missing or explicitly audited rather than estimated. One project-specific exception is the website thesis field: a thesis option is coded `No` unless an explicit thesis option was found. Pages with user notes may use clearly labeled illustrative values for prototype layout only; those values must be excluded from filters, charts, aggregates, comparisons, and project ranking scores.
 
-## Reddit working data
+## Reddit sentiment analysis
 
-The temporary Reddit workbook was generated from user-downloaded Arctic Shift post archives. It scanned 84,246 posts and retained 4,985 unique candidate posts, producing 5,940 institution-post match records across 53 of the 60 selected institutions.
+The final Reddit analysis scanned 325,528 posts from 19 downloaded JSONL files. After relevance, language, NSFW, and empty-content filters, it retained 4,713 unique eligible posts and 5,538 institution-post records across 52 of the 60 selected programs.
 
-- `r/gradadmissions` covers 2025-07-01 through 2026-06-29.
-- `r/GradSchool`, `r/sustainability`, and `r/sustainableFinance` cover 2024-07-01 through 2026-06-29.
-- `r/EnvironmentalScience` is intentionally excluded from the current collection because no usable posts were available; it is not treated as a zero-observation source.
-- School-specific subreddit archives for the first 15 institutions are a planned manual extension and are not included in this temporary workbook.
-- Reddit usernames and author IDs are excluded.
-- High, Medium, and Low relevance tiers are retained for manual screening; matches are candidate evidence, not confirmed program reviews.
+- The overall observation window is 2024-07-01 through 2026-06-29; `r/gradadmissions` begins 2025-07-01.
+- Sources include `r/gradadmissions`, `r/GradSchool`, `r/sustainability`, `r/sustainableFinance`, and 15 school subreddits.
+- Primary sentiment uses VADER 3.3.2 on post titles to reduce long-body score inflation. The unique-post distribution is 31.7% Positive, 57.0% Neutral, and 11.3% Negative.
+- Admission outcomes, primary topics, and concern flags are modeled separately from sentiment.
+- Institution summaries include sample-coverage labels and must not be used as a school or program quality ranking.
+- The public workbook is aggregate and de-identified. It contains no Reddit usernames, author IDs, post IDs, post titles, excerpts, or post URLs.
+- Raw JSONL files remain local because they contain user identifiers and full user content. The repository includes a SHA-256 manifest and recollection instructions instead of redistributing the raw archive.
+- A 120-row stratified calibration sample is available only in the local full workbook for manual validation before final presentation.
 
 ## Ranking interpretation
 
@@ -77,7 +81,7 @@ The proposed project ranking adds a transparent, subjective comparison layer and
 2. Open each official program URL and verify curriculum, duration, delivery mode, tuition, experiential learning, career evidence, and the verification date.
 3. Normalize program type, admissions requirements, and English thresholds before calculating the project ranking.
 4. Use the ranking history workbook as institutional context and follow the documented project methodology for subjective scores.
-5. Manually screen Reddit matches, beginning with the High relevance tier.
+5. Complete the local Reddit calibration sample, report agreement, and use the de-identified aggregate workbook for public presentation.
 6. Preserve `NR`, `N/P`, missing, not-collected, and illustrative states as distinct values.
 7. Refresh time-sensitive values before final analysis or publication.
 
