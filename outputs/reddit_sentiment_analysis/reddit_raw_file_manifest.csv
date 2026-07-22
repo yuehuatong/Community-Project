@@ -1,0 +1,20 @@
+file_name,subreddit,source_type,size_bytes,sha256,raw_posts,earliest,latest,analyzed_records,public_distribution
+r_Edinburgh_University_posts.jsonl,Edinburgh_University,School forum,8207979,15ab103b58c5351833fe566580d3ca9f6fcb2dd532cc1acb9229e090f068b301,2641,2024-07-01,2026-06-29,24,No - recollect from source under applicable platform terms
+r_gradadmissions_posts.jsonl,gradadmissions,General forum,144617727,904ccbf36944e61164827f095bdfe1ae2164d5444477347ec31790b0f8678ca9,38531,2025-07-01,2026-06-29,3833,No - recollect from source under applicable platform terms
+r_GradSchool_posts.jsonl,GradSchool,General forum,117563668,92f0cb6b62eceaddcfb062904c61425aca01aa81a9d020a6b180055a9bcb3101,33731,2024-07-01,2026-06-29,675,No - recollect from source under applicable platform terms
+r_Imperial_posts.jsonl,Imperial,School forum,17565798,3288f5ae2d92c76e20444a6615d84a1bda296f527cc38b5211979e68ae153970,5567,2024-07-01,2026-06-29,111,No - recollect from source under applicable platform terms
+r_LundUni_posts.jsonl,LundUni,School forum,686502,795f488e0881fe9aca0cb0eac57d8ea1ada549a48c85786b172af1135dc0aa23,189,2024-07-25,2026-06-29,5,No - recollect from source under applicable platform terms
+r_mcgill_posts.jsonl,mcgill,School forum,52757982,7abf9977a9046329854a35416be5ab2049b6f25520238371b2779100b8ef5aca,18663,2024-07-01,2026-06-29,35,No - recollect from source under applicable platform terms
+r_r_berkeley_posts.jsonl,r_berkeley,School forum,138274606,21e2ce2a69145e6f1d371ba044f0188c19546bf39ac2d55aab45609dbf35aa00,44025,2024-07-01,2026-06-29,126,No - recollect from source under applicable platform terms
+r_r_ethz_posts.jsonl,r_ethz,School forum,13957283,93ecb61274622712b0f77a2c0e0019101ed7e027a0b3f563d2abfa51cbba6f71,4253,2024-07-01,2026-06-29,47,No - recollect from source under applicable platform terms
+r_r_LSE_posts.jsonl,r_LSE,School forum,26157475,4b7b44f16c968f85293ee944337546df60ff2654bdc55329cba006c3927dcaf5,8652,2024-07-01,2026-06-29,108,No - recollect from source under applicable platform terms
+r_r_manchester_uni_posts.jsonl,r_manchester_uni,School forum,6918846,81167db128e82ed7f1e1a2e022c634b0a8e5b28a5bd70dd0c4548c5396f11bf4,1921,2024-07-01,2026-06-29,21,No - recollect from source under applicable platform terms
+r_r_oxforduni_posts.jsonl,r_oxforduni,School forum,14734009,da300638ab1baa4aa8b135bd38bbaa9f14410bfcc19e005b7f81574cf62da79c,4904,2024-07-01,2026-06-29,13,No - recollect from source under applicable platform terms
+r_r_stanford_posts.jsonl,r_stanford,School forum,22180024,6f3453cc6b393f299ab55d4d8bb24481f4cb39a7e141d0da93a9a56751f78ea9,6911,2024-07-01,2026-06-29,27,No - recollect from source under applicable platform terms
+r_r_UBC_posts.jsonl,r_UBC,School forum,133156103,bfb99a6ec578f8b180c814f047093e3c4d4903e90322eaa55ab2fb8898c26fc4,44027,2024-07-01,2026-06-29,107,No - recollect from source under applicable platform terms
+r_r_UCL_posts.jsonl,r_UCL,School forum,26531334,5a27bc28fb5036cf8fe95ba53e9f2af68bc7241a6f21c16ba3567474e95e6f61,8510,2024-07-01,2026-06-29,51,No - recollect from source under applicable platform terms
+r_r_unimelb_posts.jsonl,r_unimelb,School forum,77618993,8ff81ce31006edd4680358e833f498f0221ec8578c592629fcdf73a11ce2a134,24546,2024-07-01,2026-06-29,116,No - recollect from source under applicable platform terms
+r_r_unsw_posts.jsonl,r_unsw,School forum,68425625,a7982483148f89d9c64535869275f44520d6e97c89e50961718683afd29b1770,22936,2024-07-01,2026-06-29,64,No - recollect from source under applicable platform terms
+r_sustainability_posts.jsonl,sustainability,General forum,44048034,cd94667be126ebf76c5621e69dd81f626fd451c194cd1972ff1a8188e1b3ced2,11409,2024-07-01,2026-06-29,9,No - recollect from source under applicable platform terms
+r_sustainableFinance_posts.jsonl,sustainableFinance,General forum,2115597,e9fb4f09bb2c9420996b1285d3227e05a9f2d5a86fbbc5034d35da0bd8949a26,575,2024-07-01,2026-06-29,6,No - recollect from source under applicable platform terms
+r_UofT_posts.jsonl,UofT,School forum,134371148,01cbad0ead6ddbc8ee4bedb27b4b98d0ec99218b47d363cde416ddde1702c773,43537,2024-07-01,2026-06-29,160,No - recollect from source under applicable platform terms
