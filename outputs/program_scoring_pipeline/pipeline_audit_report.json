@@ -1,0 +1,38 @@
+{
+  "methodVersion": "1.1-provisional-ranking",
+  "generatedAt": "2026-07-27T16:20:58.395Z",
+  "inputs": {
+    "sourcePath": "C:\\Users\\gzh_l\\Documents\\community project\\work\\github-upload\\outputs\\program_source_data_top60_qs30_the30.xlsx",
+    "rankingPath": "C:\\Users\\gzh_l\\Documents\\community project\\work\\github-upload\\outputs\\qs_the_5_year_sustainability_and_school_rankings_60_programs.xlsx",
+    "manualPath": "C:\\Users\\gzh_l\\Documents\\community project\\work\\github-upload\\outputs\\program_scoring_pipeline\\program_scoring_manual_inputs.xlsx"
+  },
+  "counts": {
+    "programs": 60,
+    "research": 9,
+    "taught": 51,
+    "provisionalEligible": 57,
+    "provisionalRanked": 57,
+    "excludedFromProvisionalRanking": 3,
+    "gateEligible": 0,
+    "strictFinalRanked": 0,
+    "openAlexVerifiedCollected": 28,
+    "criticalOverridesOpen": 2
+  },
+  "publicationStatusCounts": {
+    "Published provisional ranking - limited evidence coverage": 57,
+    "Excluded - programme eligibility issue": 3
+  },
+  "validation": {
+    "uniqueProgramIds": true,
+    "weightsSumTo100ForClassified": true,
+    "provisionalRanksIgnoreCoverage": true,
+    "noProvisionalRankWhenEligibilityBlocked": true,
+    "strictRankStillRequires70Coverage": true,
+    "strictRankStillRequiresGate": true,
+    "redditExcluded": true,
+    "researchWeightsSumTo100": true,
+    "taughtWeightsSumTo100": true,
+    "completeResearchFixtureHas100Coverage": true,
+    "completeTaughtFixtureHas100Coverage": true
+  }
+}

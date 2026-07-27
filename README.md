@@ -18,6 +18,10 @@ University rankings describe institutions, not the day-to-day experience or outc
 | `outputs/reddit_top60_program_matches.xlsx` | Candidate Reddit post matches for the 60 programs, with authors excluded and relevance tiers retained for manual review | Superseded working version |
 | `outputs/reddit_sentiment_analysis/reddit_sentiment_analysis_top60_public.xlsx` | De-identified aggregate sentiment workbook with dashboard, institution summaries, trends, topics, outcomes, and concerns | Current public analysis |
 | `outputs/reddit_sentiment_analysis/README_REDDIT_ANALYSIS.md` | Reddit analysis scope, interpretation limits, raw-file policy, and reproducibility notes | Reference |
+| `outputs/program_scoring_pipeline/program_scoring_results.xlsx` | Component evidence, coverage-adjusted provisional scores, separate Research/Taught ranks, and score audit | Current provisional ranking |
+| `outputs/program_scoring_pipeline/program_scores.json` | Machine-readable programme scores and display-ready provisional ranks for the website | Current frontend data |
+| `outputs/frontend_scoring_handoff/` | Frontend adapter, replacement instructions, coverage-panel copy, and synchronized score JSON | Current design handoff |
+| `PROGRAM_SCORING_PIPELINE.md` | Scoring formula, route classification, eligibility rules, confidence treatment, and limitations | Current methodology |
 | `docs/HTML_DESIGN_GUIDE.md` | Website structure, filters, missing-data rules, warning states, and Reddit component handoff | Current design handoff |
 | `docs/CUSTOM_RANKING_METHODOLOGY.md` | Separate Research-oriented and Taught/Professional project ranking methods | Draft methodology |
 | `docs/MANUAL_VERIFICATION_GUIDE.md` | Checklist for reviewing official program websites | Reference |
@@ -61,7 +65,9 @@ The ranking workbook separates two concepts:
 
 Neither is a direct ranking of the selected master's program.
 
-The proposed project ranking adds a transparent, subjective comparison layer and must be labeled as a project method rather than an official QS or THE ranking. Research-oriented and Taught/Professional programs are evaluated separately. Scores must display component weights, data coverage, confidence, and source links. Illustrative or eligibility-unverified records do not participate.
+The project ranking adds a transparent, subjective comparison layer and must be labeled as a provisional project method rather than an official QS or THE ranking. Research-oriented and Taught/Professional programs are evaluated separately. The current pipeline publishes 57 eligible provisional ranks (9 Research and 48 Taught) without using evidence coverage as a publication threshold. IDs 61, 66, and 73 remain excluded because a qualifying current program record was not confirmed.
+
+Evidence coverage is displayed as confidence and is used to shrink incomplete observed scores toward a neutral value of 50; missing components are not converted to zero. Strict final scores and ranks remain separate and unpublished until their original validation gates are met. Illustrative records do not participate, and Reddit sentiment is excluded from scoring.
 
 ## Primary sources
 
@@ -79,8 +85,8 @@ The proposed project ranking adds a transparent, subjective comparison layer and
 
 1. Start with the synchronized 60-program source workbook.
 2. Open each official program URL and verify curriculum, duration, delivery mode, tuition, experiential learning, career evidence, and the verification date.
-3. Normalize program type, admissions requirements, and English thresholds before calculating the project ranking.
-4. Use the ranking history workbook as institutional context and follow the documented project methodology for subjective scores.
+3. Normalize program type, admissions requirements, and English thresholds before refreshing the project ranking.
+4. Run `build_program_scoring_pipeline.mjs`, review the generated audit report, and use `outputs/frontend_scoring_handoff/` for website integration.
 5. Complete the local Reddit calibration sample, report agreement, and use the de-identified aggregate workbook for public presentation.
 6. Preserve `NR`, `N/P`, missing, not-collected, and illustrative states as distinct values.
 7. Refresh time-sensitive values before final analysis or publication.
