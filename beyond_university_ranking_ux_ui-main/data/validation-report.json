@@ -1,0 +1,196 @@
+{
+  "generatedAt": "2026-07-27T20:57:50.623005+00:00",
+  "inputs": {
+    "programmeWorkbook": "/workspace/scratch/55866d482901/ranking-source.gzTIxK/Community-Project-main/outputs/program_source_data_top60_qs30_the30.xlsx",
+    "rankingsWorkbook": "/workspace/scratch/55866d482901/ranking-source.gzTIxK/Community-Project-main/outputs/qs_the_5_year_sustainability_and_school_rankings_60_programs.xlsx",
+    "scoringFile": "/workspace/sites/beyond-university-rankings/data/scoring/program_scores.json",
+    "redditDirectory": "/workspace/scratch/55866d482901/ranking-source.gzTIxK/Community-Project-main/outputs/reddit_sentiment_analysis"
+  },
+  "recordCounts": {
+    "programmes": 60,
+    "countries": 21,
+    "qsCohort": 30,
+    "theCohort": 30,
+    "thesisYes": 19,
+    "thesisNo": 41
+  },
+  "duplicateIdentifiers": [],
+  "missingRequiredFields": [],
+  "unknownCategoricalValues": {},
+  "unresolvedProgrammeRecords": [
+    {
+      "programmeId": "university-of-melbourne--master-of-environment",
+      "institution": "The University of Melbourne",
+      "state": "manual-review",
+      "eligibility": "included",
+      "note": "Carried forward and included for URL recheck."
+    },
+    {
+      "programmeId": "australian-national-university--master-of-climate-change",
+      "institution": "Australian National University (ANU)",
+      "state": "manual-review",
+      "eligibility": "included",
+      "note": "page not found"
+    },
+    {
+      "programmeId": "new-york-university--ms-in-environmental-policy-and-sustainability-management",
+      "institution": "New York University (NYU)",
+      "state": "manual-review",
+      "eligibility": "included",
+      "note": "page not found"
+    },
+    {
+      "programmeId": "pennsylvania-state-university--master-of-professional-studies-in-renewable-energy-and-sustainability-systems",
+      "institution": "Pennsylvania State University",
+      "state": "manual-review",
+      "eligibility": "included",
+      "note": "Main page not found"
+    },
+    {
+      "programmeId": "griffith-university--master-of-global-development-sustainable-development-major",
+      "institution": "Griffith University",
+      "state": "manual-review",
+      "eligibility": "included",
+      "note": "Sustainability is a named major within the degree."
+    },
+    {
+      "programmeId": "queen-s-university--master-of-environmental-studies",
+      "institution": "Queen's University",
+      "state": "manual-review",
+      "eligibility": "included",
+      "note": "Main page not found"
+    },
+    {
+      "programmeId": "university-of-alberta--master-of-sustainability",
+      "institution": "University of Alberta",
+      "state": "unverified",
+      "eligibility": "unverified",
+      "note": "It is not a program"
+    },
+    {
+      "programmeId": "universitas-airlangga--master-of-environmental-health",
+      "institution": "Universitas Airlangga",
+      "state": "manual-review",
+      "eligibility": "included",
+      "note": "webpage not found"
+    },
+    {
+      "programmeId": "pusan-national-university--master-s-programs-graduate-school-of-environment",
+      "institution": "Pusan National University",
+      "state": "manual-review",
+      "eligibility": "included",
+      "note": "no data on website"
+    },
+    {
+      "programmeId": "university-of-tasmania--master-of-environmental-geospatial-science",
+      "institution": "University of Tasmania",
+      "state": "manual-review",
+      "eligibility": "included",
+      "note": "Current official degree page."
+    },
+    {
+      "programmeId": "mcmaster-university--no-directly-qualifying-sustainability-environment-master-s-confirmed",
+      "institution": "McMaster University",
+      "state": "manual-review",
+      "eligibility": "included",
+      "note": "The official page found is a continuing-education sustainability certificate/diploma, not a master's degree."
+    },
+    {
+      "programmeId": "chulalongkorn-university--ma-environment-development-and-sustainability",
+      "institution": "Chulalongkorn University",
+      "state": "manual-review",
+      "eligibility": "included",
+      "note": "webpage cannot open"
+    },
+    {
+      "programmeId": "hong-kong-university-of-science-and-technology--msc-in-environmental-engineering-and-management",
+      "institution": "The Hong Kong University of Science and Technology",
+      "state": "manual-review",
+      "eligibility": "included",
+      "note": "webpage cannot open"
+    },
+    {
+      "programmeId": "kyung-hee-university--graduate-pathway-in-environmental-science-and-engineering",
+      "institution": "Kyung Hee University",
+      "state": "unverified",
+      "eligibility": "unverified",
+      "note": "it is an undergraduate program"
+    },
+    {
+      "programmeId": "university-of-newcastle--master-of-environmental-management-and-sustainability",
+      "institution": "University of Newcastle",
+      "state": "manual-review",
+      "eligibility": "included",
+      "note": "Current official degree page."
+    }
+  ],
+  "normalizationReview": {
+    "durationManualReview": 14,
+    "durationNotStated": 12,
+    "studyModeManualReview": 6,
+    "studyModeNotStated": 13,
+    "englishRequirementNotCollected": 29,
+    "rankingIdentityFallbacks": [],
+    "redditIdentityFallbacks": []
+  },
+  "scoringReconciliation": {
+    "recordCount": 60,
+    "matchedProgrammes": 60,
+    "duplicateIdentities": [],
+    "programmesWithoutScores": [],
+    "unmatchedScoreRecords": [],
+    "sourceRecordIdAuditMismatches": [],
+    "institutionStrengthAvailable": 60,
+    "institutionStrengthUpdates": 10,
+    "maximumInstitutionStrengthDelta": 0.1,
+    "provisionalRoutes": 60,
+    "confirmedRoutes": 0,
+    "provisionalRanked": 57,
+    "researchProvisionalRanked": 9,
+    "taughtProvisionalRanked": 48,
+    "provisionalExcluded": 3,
+    "strictEligible": 0,
+    "finalScoresPublished": 0,
+    "ordinalRanksPublished": 0,
+    "criticalWarnings": 2,
+    "duplicateWarningValuesRemoved": 60,
+    "rankGroupMismatches": [],
+    "publicationIntegrityIssues": [],
+    "statusCounts": {
+      "provisional-ranking": 57,
+      "eligibility-excluded": 3
+    },
+    "routeStatusCounts": {
+      "rule-based-provisional": 60
+    },
+    "routeConfidenceCounts": {
+      "medium": 6,
+      "low": 51,
+      "high": 3
+    },
+    "criticalChecksPassed": true
+  },
+  "redditAggregateReconciliation": {
+    "uniqueEligiblePosts": {
+      "expected": 4713,
+      "outcomeSummary": 4713,
+      "topicSummary": 4713,
+      "subredditSummary": 4713,
+      "matches": true
+    },
+    "institutionPostRecords": {
+      "expected": 5538,
+      "institutionSummary": 5538,
+      "manifestAnalyzedRecords": 5538,
+      "matches": true
+    },
+    "institutionsCovered": {
+      "expected": 52,
+      "actual": 52
+    },
+    "institutionRows": 60,
+    "unmatchedInstitutions": []
+  },
+  "status": "passed-with-warnings",
+  "criticalChecksPassed": true
+}

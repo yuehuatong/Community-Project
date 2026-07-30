@@ -1,0 +1,2066 @@
+{
+  "metadata": {
+    "label": "Institution-associated Reddit discussions",
+    "collectionStart": "2024-07-01",
+    "collectionEnd": "2026-06-29",
+    "gradAdmissionsStart": "2025-07-01",
+    "rawFiles": 19,
+    "rawPostsParsed": 325528,
+    "uniqueEligiblePosts": 4713,
+    "institutionPostRecords": 5538,
+    "institutionsCovered": 52,
+    "method": "VADER 3.3.2 on post titles; Positive ≥ 0.05, Negative ≤ −0.05, otherwise Neutral.",
+    "manualCalibration": "Not complete",
+    "privacy": "Aggregate and de-identified. No usernames, IDs, titles, excerpts, or direct post URLs are included.",
+    "trendWarning": "The combined monthly series changes source composition in July 2025 when r/gradadmissions begins. Interpret the trend descriptively; source-type monthly aggregates were not included in the public package."
+  },
+  "overallHeadlineTone": {
+    "positive": 1493,
+    "neutral": 2687,
+    "negative": 533
+  },
+  "sourceComposition": [
+    {
+      "sourceType": "General forum",
+      "uniquePosts": 3698
+    },
+    {
+      "sourceType": "School forum",
+      "uniquePosts": 1015
+    }
+  ],
+  "subreddits": [
+    {
+      "subreddit": "gradadmissions",
+      "sourceType": "General forum",
+      "uniquePosts": 3104,
+      "positive": 952,
+      "neutral": 1783,
+      "negative": 369
+    },
+    {
+      "subreddit": "GradSchool",
+      "sourceType": "General forum",
+      "uniquePosts": 584,
+      "positive": 191,
+      "neutral": 313,
+      "negative": 80
+    },
+    {
+      "subreddit": "UofT",
+      "sourceType": "School forum",
+      "uniquePosts": 160,
+      "positive": 75,
+      "neutral": 64,
+      "negative": 21
+    },
+    {
+      "subreddit": "berkeley",
+      "sourceType": "School forum",
+      "uniquePosts": 126,
+      "positive": 33,
+      "neutral": 76,
+      "negative": 17
+    },
+    {
+      "subreddit": "unimelb",
+      "sourceType": "School forum",
+      "uniquePosts": 116,
+      "positive": 22,
+      "neutral": 87,
+      "negative": 7
+    },
+    {
+      "subreddit": "Imperial",
+      "sourceType": "School forum",
+      "uniquePosts": 111,
+      "positive": 38,
+      "neutral": 66,
+      "negative": 7
+    },
+    {
+      "subreddit": "LSE",
+      "sourceType": "School forum",
+      "uniquePosts": 108,
+      "positive": 42,
+      "neutral": 56,
+      "negative": 10
+    },
+    {
+      "subreddit": "UBC",
+      "sourceType": "School forum",
+      "uniquePosts": 107,
+      "positive": 42,
+      "neutral": 59,
+      "negative": 6
+    },
+    {
+      "subreddit": "unsw",
+      "sourceType": "School forum",
+      "uniquePosts": 64,
+      "positive": 19,
+      "neutral": 41,
+      "negative": 4
+    },
+    {
+      "subreddit": "UCL",
+      "sourceType": "School forum",
+      "uniquePosts": 51,
+      "positive": 24,
+      "neutral": 24,
+      "negative": 3
+    },
+    {
+      "subreddit": "ethz",
+      "sourceType": "School forum",
+      "uniquePosts": 47,
+      "positive": 18,
+      "neutral": 27,
+      "negative": 2
+    },
+    {
+      "subreddit": "mcgill",
+      "sourceType": "School forum",
+      "uniquePosts": 35,
+      "positive": 9,
+      "neutral": 22,
+      "negative": 4
+    },
+    {
+      "subreddit": "stanford",
+      "sourceType": "School forum",
+      "uniquePosts": 27,
+      "positive": 6,
+      "neutral": 19,
+      "negative": 2
+    },
+    {
+      "subreddit": "Edinburgh_University",
+      "sourceType": "School forum",
+      "uniquePosts": 24,
+      "positive": 7,
+      "neutral": 16,
+      "negative": 1
+    },
+    {
+      "subreddit": "manchester_uni",
+      "sourceType": "School forum",
+      "uniquePosts": 21,
+      "positive": 5,
+      "neutral": 16,
+      "negative": 0
+    },
+    {
+      "subreddit": "oxforduni",
+      "sourceType": "School forum",
+      "uniquePosts": 13,
+      "positive": 6,
+      "neutral": 7,
+      "negative": 0
+    },
+    {
+      "subreddit": "sustainability",
+      "sourceType": "General forum",
+      "uniquePosts": 6,
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    {
+      "subreddit": "LundUni",
+      "sourceType": "School forum",
+      "uniquePosts": 5,
+      "positive": 2,
+      "neutral": 3,
+      "negative": 0
+    },
+    {
+      "subreddit": "sustainableFinance",
+      "sourceType": "General forum",
+      "uniquePosts": 4,
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2024-07",
+      "uniquePosts": 65,
+      "meanHeadlineCompound": 0.12620307692307697,
+      "positive": 25,
+      "neutral": 32,
+      "negative": 8
+    },
+    {
+      "month": "2024-08",
+      "uniquePosts": 54,
+      "meanHeadlineCompound": 0.1376037037037037,
+      "positive": 18,
+      "neutral": 30,
+      "negative": 6
+    },
+    {
+      "month": "2024-09",
+      "uniquePosts": 63,
+      "meanHeadlineCompound": 0.043844444444444436,
+      "positive": 15,
+      "neutral": 40,
+      "negative": 8
+    },
+    {
+      "month": "2024-10",
+      "uniquePosts": 38,
+      "meanHeadlineCompound": 0.10079210526315789,
+      "positive": 13,
+      "neutral": 21,
+      "negative": 4
+    },
+    {
+      "month": "2024-11",
+      "uniquePosts": 60,
+      "meanHeadlineCompound": 0.12802333333333332,
+      "positive": 22,
+      "neutral": 34,
+      "negative": 4
+    },
+    {
+      "month": "2024-12",
+      "uniquePosts": 45,
+      "meanHeadlineCompound": 0.1105622222222222,
+      "positive": 17,
+      "neutral": 21,
+      "negative": 7
+    },
+    {
+      "month": "2025-01",
+      "uniquePosts": 85,
+      "meanHeadlineCompound": 0.14067176470588233,
+      "positive": 31,
+      "neutral": 44,
+      "negative": 10
+    },
+    {
+      "month": "2025-02",
+      "uniquePosts": 63,
+      "meanHeadlineCompound": 0.10040952380952382,
+      "positive": 19,
+      "neutral": 39,
+      "negative": 5
+    },
+    {
+      "month": "2025-03",
+      "uniquePosts": 126,
+      "meanHeadlineCompound": 0.15437857142857145,
+      "positive": 49,
+      "neutral": 68,
+      "negative": 9
+    },
+    {
+      "month": "2025-04",
+      "uniquePosts": 113,
+      "meanHeadlineCompound": 0.1552725663716814,
+      "positive": 45,
+      "neutral": 62,
+      "negative": 6
+    },
+    {
+      "month": "2025-05",
+      "uniquePosts": 109,
+      "meanHeadlineCompound": 0.0891926605504587,
+      "positive": 37,
+      "neutral": 59,
+      "negative": 13
+    },
+    {
+      "month": "2025-06",
+      "uniquePosts": 59,
+      "meanHeadlineCompound": 0.09018305084745763,
+      "positive": 17,
+      "neutral": 36,
+      "negative": 6
+    },
+    {
+      "month": "2025-07",
+      "uniquePosts": 210,
+      "meanHeadlineCompound": 0.12822428571428574,
+      "positive": 79,
+      "neutral": 115,
+      "negative": 16
+    },
+    {
+      "month": "2025-08",
+      "uniquePosts": 183,
+      "meanHeadlineCompound": 0.129368306010929,
+      "positive": 67,
+      "neutral": 104,
+      "negative": 12
+    },
+    {
+      "month": "2025-09",
+      "uniquePosts": 206,
+      "meanHeadlineCompound": 0.14801456310679617,
+      "positive": 86,
+      "neutral": 106,
+      "negative": 14
+    },
+    {
+      "month": "2025-10",
+      "uniquePosts": 202,
+      "meanHeadlineCompound": 0.06719158415841583,
+      "positive": 56,
+      "neutral": 128,
+      "negative": 18
+    },
+    {
+      "month": "2025-11",
+      "uniquePosts": 229,
+      "meanHeadlineCompound": 0.09970480349344979,
+      "positive": 78,
+      "neutral": 135,
+      "negative": 16
+    },
+    {
+      "month": "2025-12",
+      "uniquePosts": 253,
+      "meanHeadlineCompound": 0.06851027667984191,
+      "positive": 67,
+      "neutral": 156,
+      "negative": 30
+    },
+    {
+      "month": "2026-01",
+      "uniquePosts": 414,
+      "meanHeadlineCompound": 0.041157487922705314,
+      "positive": 98,
+      "neutral": 255,
+      "negative": 61
+    },
+    {
+      "month": "2026-02",
+      "uniquePosts": 564,
+      "meanHeadlineCompound": 0.04994326241134759,
+      "positive": 148,
+      "neutral": 323,
+      "negative": 93
+    },
+    {
+      "month": "2026-03",
+      "uniquePosts": 717,
+      "meanHeadlineCompound": 0.10114909344490924,
+      "positive": 229,
+      "neutral": 404,
+      "negative": 84
+    },
+    {
+      "month": "2026-04",
+      "uniquePosts": 449,
+      "meanHeadlineCompound": 0.07776703786191534,
+      "positive": 128,
+      "neutral": 266,
+      "negative": 55
+    },
+    {
+      "month": "2026-05",
+      "uniquePosts": 254,
+      "meanHeadlineCompound": 0.12748700787401585,
+      "positive": 96,
+      "neutral": 128,
+      "negative": 30
+    },
+    {
+      "month": "2026-06",
+      "uniquePosts": 152,
+      "meanHeadlineCompound": 0.0990848684210526,
+      "positive": 53,
+      "neutral": 81,
+      "negative": 18
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Admissions",
+      "uniquePosts": 3208,
+      "positive": 1089,
+      "neutral": 1679,
+      "negative": 440
+    },
+    {
+      "topic": "Other",
+      "uniquePosts": 434,
+      "positive": 91,
+      "neutral": 321,
+      "negative": 22
+    },
+    {
+      "topic": "Career and Placement",
+      "uniquePosts": 272,
+      "positive": 94,
+      "neutral": 164,
+      "negative": 14
+    },
+    {
+      "topic": "Cost and Funding",
+      "uniquePosts": 272,
+      "positive": 102,
+      "neutral": 146,
+      "negative": 24
+    },
+    {
+      "topic": "Research and Thesis",
+      "uniquePosts": 200,
+      "positive": 57,
+      "neutral": 128,
+      "negative": 15
+    },
+    {
+      "topic": "Sustainability Content",
+      "uniquePosts": 145,
+      "positive": 23,
+      "neutral": 115,
+      "negative": 7
+    },
+    {
+      "topic": "Curriculum",
+      "uniquePosts": 92,
+      "positive": 19,
+      "neutral": 67,
+      "negative": 6
+    },
+    {
+      "topic": "Student Experience",
+      "uniquePosts": 90,
+      "positive": 18,
+      "neutral": 67,
+      "negative": 5
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome": "Not an explicit outcome",
+      "uniquePosts": 3047,
+      "positive": 959,
+      "neutral": 1850,
+      "negative": 238
+    },
+    {
+      "outcome": "Accepted or Offer",
+      "uniquePosts": 873,
+      "positive": 359,
+      "neutral": 454,
+      "negative": 60
+    },
+    {
+      "outcome": "Mixed or multiple outcomes",
+      "uniquePosts": 313,
+      "positive": 80,
+      "neutral": 147,
+      "negative": 86
+    },
+    {
+      "outcome": "Rejected",
+      "uniquePosts": 291,
+      "positive": 53,
+      "neutral": 132,
+      "negative": 106
+    },
+    {
+      "outcome": "Pending or Waiting",
+      "uniquePosts": 110,
+      "positive": 25,
+      "neutral": 75,
+      "negative": 10
+    },
+    {
+      "outcome": "Waitlisted",
+      "uniquePosts": 79,
+      "positive": 17,
+      "neutral": 29,
+      "negative": 33
+    }
+  ],
+  "concerns": [
+    {
+      "concern": "Cost Concern",
+      "uniquePosts": 682,
+      "share": 0.14470613197538723
+    },
+    {
+      "concern": "Anxiety or Uncertainty",
+      "uniquePosts": 586,
+      "share": 0.12433694037767876
+    },
+    {
+      "concern": "Dissatisfaction",
+      "uniquePosts": 161,
+      "share": 0.03416083174199024
+    },
+    {
+      "concern": "Stress or Burnout",
+      "uniquePosts": 127,
+      "share": 0.026946743051135157
+    }
+  ],
+  "programmes": [
+    {
+      "programmeId": "lund-university--msc-environmental-studies-and-sustainability-science",
+      "eligibleRecords": 21,
+      "highRelevance": 4,
+      "mediumRelevance": 17,
+      "generalForum": 16,
+      "schoolForum": 5,
+      "generalForumOnly": false,
+      "coverageLevel": "Low Volume",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 11,
+        "neutral": 8,
+        "negative": 2,
+        "meanCompound": 0.14404285714285714
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 7,
+        "rejected": 0,
+        "waitlisted": 1,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Admissions",
+      "warning": "Coverage is insufficient for institution-to-institution comparison.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "university-of-toronto--master-of-environment-and-sustainability",
+      "eligibleRecords": 408,
+      "highRelevance": 10,
+      "mediumRelevance": 398,
+      "generalForum": 248,
+      "schoolForum": 160,
+      "generalForumOnly": false,
+      "coverageLevel": "High Volume",
+      "comparable": true,
+      "headlineTone": {
+        "positive": 134,
+        "neutral": 219,
+        "negative": 55,
+        "meanCompound": 0.09283651960784313
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 87,
+        "rejected": 19,
+        "waitlisted": 6,
+        "pendingOrWaiting": 9
+      },
+      "topTopic": "Admissions",
+      "warning": null,
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "ucl--sustainable-resources-economics-policy-and-transitions-msc",
+      "eligibleRecords": 268,
+      "highRelevance": 19,
+      "mediumRelevance": 249,
+      "generalForum": 217,
+      "schoolForum": 51,
+      "generalForumOnly": false,
+      "coverageLevel": "High Volume",
+      "comparable": true,
+      "headlineTone": {
+        "positive": 95,
+        "neutral": 151,
+        "negative": 22,
+        "meanCompound": 0.13139962686567164
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 46,
+        "rejected": 14,
+        "waitlisted": 2,
+        "pendingOrWaiting": 10
+      },
+      "topTopic": "Admissions",
+      "warning": null,
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "university-of-edinburgh--msc-global-strategy-and-sustainability",
+      "eligibleRecords": 92,
+      "highRelevance": 3,
+      "mediumRelevance": 89,
+      "generalForum": 68,
+      "schoolForum": 24,
+      "generalForumOnly": false,
+      "coverageLevel": "Medium Volume",
+      "comparable": true,
+      "headlineTone": {
+        "positive": 27,
+        "neutral": 52,
+        "negative": 13,
+        "meanCompound": 0.07218260869565217
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 32,
+        "rejected": 1,
+        "waitlisted": 0,
+        "pendingOrWaiting": 2
+      },
+      "topTopic": "Admissions",
+      "warning": null,
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "university-of-british-columbia--master-of-engineering-leadership-in-clean-energy-engineering",
+      "eligibleRecords": 283,
+      "highRelevance": 7,
+      "mediumRelevance": 276,
+      "generalForum": 176,
+      "schoolForum": 107,
+      "generalForumOnly": false,
+      "coverageLevel": "High Volume",
+      "comparable": true,
+      "headlineTone": {
+        "positive": 86,
+        "neutral": 167,
+        "negative": 30,
+        "meanCompound": 0.090073851590106
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 44,
+        "rejected": 16,
+        "waitlisted": 5,
+        "pendingOrWaiting": 5
+      },
+      "topTopic": "Admissions",
+      "warning": null,
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "london-school-of-economics-and-political-science--msc-environmental-policy-and-regulation",
+      "eligibleRecords": 352,
+      "highRelevance": 20,
+      "mediumRelevance": 332,
+      "generalForum": 244,
+      "schoolForum": 108,
+      "generalForumOnly": false,
+      "coverageLevel": "High Volume",
+      "comparable": true,
+      "headlineTone": {
+        "positive": 130,
+        "neutral": 188,
+        "negative": 34,
+        "meanCompound": 0.14353664772727273
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 50,
+        "rejected": 15,
+        "waitlisted": 3,
+        "pendingOrWaiting": 6
+      },
+      "topTopic": "Admissions",
+      "warning": null,
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "imperial-college-london--msc-climate-change-management-and-finance",
+      "eligibleRecords": 199,
+      "highRelevance": 24,
+      "mediumRelevance": 175,
+      "generalForum": 88,
+      "schoolForum": 111,
+      "generalForumOnly": false,
+      "coverageLevel": "High Volume",
+      "comparable": true,
+      "headlineTone": {
+        "positive": 76,
+        "neutral": 108,
+        "negative": 15,
+        "meanCompound": 0.13650653266331658
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 35,
+        "rejected": 12,
+        "waitlisted": 3,
+        "pendingOrWaiting": 8
+      },
+      "topTopic": "Admissions",
+      "warning": null,
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "university-of-new-south-wales--master-of-environmental-management",
+      "eligibleRecords": 85,
+      "highRelevance": 6,
+      "mediumRelevance": 79,
+      "generalForum": 21,
+      "schoolForum": 64,
+      "generalForumOnly": false,
+      "coverageLevel": "Medium Volume",
+      "comparable": true,
+      "headlineTone": {
+        "positive": 29,
+        "neutral": 50,
+        "negative": 6,
+        "meanCompound": 0.12810470588235293
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 11,
+        "rejected": 1,
+        "waitlisted": 1,
+        "pendingOrWaiting": 1
+      },
+      "topTopic": "Admissions",
+      "warning": null,
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "mcgill-university--msc-geography-sustainability-science-and-environmental-management-research-theme",
+      "eligibleRecords": 185,
+      "highRelevance": 8,
+      "mediumRelevance": 177,
+      "generalForum": 150,
+      "schoolForum": 35,
+      "generalForumOnly": false,
+      "coverageLevel": "High Volume",
+      "comparable": true,
+      "headlineTone": {
+        "positive": 49,
+        "neutral": 112,
+        "negative": 24,
+        "meanCompound": 0.04971351351351352
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 27,
+        "rejected": 10,
+        "waitlisted": 3,
+        "pendingOrWaiting": 3
+      },
+      "topTopic": "Admissions",
+      "warning": null,
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "university-of-manchester--msc-environmental-governance",
+      "eligibleRecords": 51,
+      "highRelevance": 2,
+      "mediumRelevance": 49,
+      "generalForum": 30,
+      "schoolForum": 21,
+      "generalForumOnly": false,
+      "coverageLevel": "Medium Volume",
+      "comparable": true,
+      "headlineTone": {
+        "positive": 20,
+        "neutral": 27,
+        "negative": 4,
+        "meanCompound": 0.14090196078431372
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 7,
+        "rejected": 1,
+        "waitlisted": 0,
+        "pendingOrWaiting": 3
+      },
+      "topTopic": "Admissions",
+      "warning": null,
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "eth-zurich--msc-environmental-sciences",
+      "eligibleRecords": 122,
+      "highRelevance": 2,
+      "mediumRelevance": 120,
+      "generalForum": 75,
+      "schoolForum": 47,
+      "generalForumOnly": false,
+      "coverageLevel": "High Volume",
+      "comparable": true,
+      "headlineTone": {
+        "positive": 55,
+        "neutral": 57,
+        "negative": 10,
+        "meanCompound": 0.1357844262295082
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 24,
+        "rejected": 1,
+        "waitlisted": 1,
+        "pendingOrWaiting": 1
+      },
+      "topTopic": "Admissions",
+      "warning": null,
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "university-of-melbourne--master-of-environment",
+      "eligibleRecords": 145,
+      "highRelevance": 16,
+      "mediumRelevance": 129,
+      "generalForum": 29,
+      "schoolForum": 116,
+      "generalForumOnly": false,
+      "coverageLevel": "High Volume",
+      "comparable": true,
+      "headlineTone": {
+        "positive": 35,
+        "neutral": 98,
+        "negative": 12,
+        "meanCompound": 0.08189310344827586
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 25,
+        "rejected": 4,
+        "waitlisted": 1,
+        "pendingOrWaiting": 2
+      },
+      "topTopic": "Admissions",
+      "warning": null,
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "university-of-california-berkeley--master-of-climate-solutions",
+      "eligibleRecords": 486,
+      "highRelevance": 34,
+      "mediumRelevance": 452,
+      "generalForum": 360,
+      "schoolForum": 126,
+      "generalForumOnly": false,
+      "coverageLevel": "High Volume",
+      "comparable": true,
+      "headlineTone": {
+        "positive": 143,
+        "neutral": 282,
+        "negative": 61,
+        "meanCompound": 0.07368415637860082
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 111,
+        "rejected": 29,
+        "waitlisted": 22,
+        "pendingOrWaiting": 16
+      },
+      "topTopic": "Admissions",
+      "warning": null,
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "stanford-university--ms-sustainability-science-and-practice",
+      "eligibleRecords": 806,
+      "highRelevance": 40,
+      "mediumRelevance": 766,
+      "generalForum": 779,
+      "schoolForum": 27,
+      "generalForumOnly": false,
+      "coverageLevel": "High Volume",
+      "comparable": true,
+      "headlineTone": {
+        "positive": 276,
+        "neutral": 418,
+        "negative": 112,
+        "meanCompound": 0.08415533498759305
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 137,
+        "rejected": 71,
+        "waitlisted": 13,
+        "pendingOrWaiting": 14
+      },
+      "topTopic": "Admissions",
+      "warning": null,
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "university-of-oxford--msc-in-sustainability-enterprise-and-environment",
+      "eligibleRecords": 57,
+      "highRelevance": 5,
+      "mediumRelevance": 52,
+      "generalForum": 44,
+      "schoolForum": 13,
+      "generalForumOnly": false,
+      "coverageLevel": "Medium Volume",
+      "comparable": true,
+      "headlineTone": {
+        "positive": 24,
+        "neutral": 26,
+        "negative": 7,
+        "meanCompound": 0.14496140350877193
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 4,
+        "rejected": 5,
+        "waitlisted": 0,
+        "pendingOrWaiting": 1
+      },
+      "topTopic": "Admissions",
+      "warning": null,
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "university-of-sydney--master-of-sustainability",
+      "eligibleRecords": 24,
+      "highRelevance": 6,
+      "mediumRelevance": 18,
+      "generalForum": 24,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Low Volume",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 9,
+        "neutral": 14,
+        "negative": 1,
+        "meanCompound": 0.12232916666666666
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 3,
+        "rejected": 1,
+        "waitlisted": 0,
+        "pendingOrWaiting": 1
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "australian-national-university--master-of-climate-change",
+      "eligibleRecords": 14,
+      "highRelevance": 1,
+      "mediumRelevance": 13,
+      "generalForum": 14,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Low Volume",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 6,
+        "neutral": 6,
+        "negative": 2,
+        "meanCompound": 0.09947857142857143
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 1,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "king-s-college-london--environment-politics-and-development-msc",
+      "eligibleRecords": 58,
+      "highRelevance": 3,
+      "mediumRelevance": 55,
+      "generalForum": 58,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Medium Volume",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 20,
+        "neutral": 32,
+        "negative": 6,
+        "meanCompound": 0.11271896551724138
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 12,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 4
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "university-of-bristol--msc-environmental-policy-and-management",
+      "eligibleRecords": 15,
+      "highRelevance": 1,
+      "mediumRelevance": 14,
+      "generalForum": 15,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Low Volume",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 7,
+        "neutral": 7,
+        "negative": 1,
+        "meanCompound": 0.24069333333333334
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "new-york-university--ms-in-environmental-policy-and-sustainability-management",
+      "eligibleRecords": 843,
+      "highRelevance": 47,
+      "mediumRelevance": 796,
+      "generalForum": 843,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "High Volume",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 251,
+        "neutral": 489,
+        "negative": 103,
+        "meanCompound": 0.08351328588374853
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 172,
+        "rejected": 70,
+        "waitlisted": 16,
+        "pendingOrWaiting": 27
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "pennsylvania-state-university--master-of-professional-studies-in-renewable-energy-and-sustainability-systems",
+      "eligibleRecords": 139,
+      "highRelevance": 11,
+      "mediumRelevance": 128,
+      "generalForum": 139,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "High Volume",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 39,
+        "neutral": 87,
+        "negative": 13,
+        "meanCompound": 0.07815827338129497
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 19,
+        "rejected": 12,
+        "waitlisted": 2,
+        "pendingOrWaiting": 3
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "ku-leuven--master-of-sustainable-development",
+      "eligibleRecords": 49,
+      "highRelevance": 4,
+      "mediumRelevance": 45,
+      "generalForum": 49,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Medium Volume",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 14,
+        "neutral": 29,
+        "negative": 6,
+        "meanCompound": 0.08809999999999998
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 12,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "university-of-helsinki--master-s-programme-in-environmental-change-and-global-sustainability",
+      "eligibleRecords": 5,
+      "highRelevance": 3,
+      "mediumRelevance": 2,
+      "generalForum": 5,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Insufficient For Comparison",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 2,
+        "neutral": 2,
+        "negative": 1,
+        "meanCompound": 0.06808
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 2,
+        "waitlisted": 0,
+        "pendingOrWaiting": 1
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "durham-university--msc-climate-change-environmental-processes-and-sustainable-futures",
+      "eligibleRecords": 10,
+      "highRelevance": 2,
+      "mediumRelevance": 8,
+      "generalForum": 10,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Low Volume",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 3,
+        "neutral": 4,
+        "negative": 3,
+        "meanCompound": 0.040360000000000014
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 2,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "university-of-leeds--msc-sustainability-environment-and-development",
+      "eligibleRecords": 9,
+      "highRelevance": 0,
+      "mediumRelevance": 9,
+      "generalForum": 9,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Insufficient For Comparison",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 4,
+        "neutral": 3,
+        "negative": 2,
+        "meanCompound": 0.14845555555555556
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 1,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "western-university--master-of-environment-and-sustainability",
+      "eligibleRecords": 21,
+      "highRelevance": 0,
+      "mediumRelevance": 21,
+      "generalForum": 21,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Low Volume",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 4,
+        "neutral": 14,
+        "negative": 3,
+        "meanCompound": -0.0007190476190476151
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 3,
+        "rejected": 1,
+        "waitlisted": 1,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "university-of-glasgow--msc-environment-and-sustainable-development",
+      "eligibleRecords": 19,
+      "highRelevance": 1,
+      "mediumRelevance": 18,
+      "generalForum": 19,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Low Volume",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 6,
+        "neutral": 13,
+        "negative": 0,
+        "meanCompound": 0.12234210526315789
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 3,
+        "rejected": 1,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "university-of-auckland--master-of-environmental-science",
+      "eligibleRecords": 8,
+      "highRelevance": 1,
+      "mediumRelevance": 7,
+      "generalForum": 8,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Insufficient For Comparison",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 1,
+        "neutral": 5,
+        "negative": 2,
+        "meanCompound": -0.031225000000000003
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 1,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "trinity-college-dublin-university-of-dublin--msc-environmental-sciences",
+      "eligibleRecords": 14,
+      "highRelevance": 1,
+      "mediumRelevance": 13,
+      "generalForum": 14,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Low Volume",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 4,
+        "neutral": 6,
+        "negative": 4,
+        "meanCompound": 0.003249999999999997
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 4,
+        "rejected": 1,
+        "waitlisted": 0,
+        "pendingOrWaiting": 1
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "university-of-pennsylvania--master-of-environmental-studies",
+      "eligibleRecords": 391,
+      "highRelevance": 24,
+      "mediumRelevance": 367,
+      "generalForum": 391,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "High Volume",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 118,
+        "neutral": 221,
+        "negative": 52,
+        "meanCompound": 0.07384015345268542
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 68,
+        "rejected": 39,
+        "waitlisted": 6,
+        "pendingOrWaiting": 12
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "griffith-university--master-of-global-development-sustainable-development-major",
+      "eligibleRecords": 1,
+      "highRelevance": 0,
+      "mediumRelevance": 1,
+      "generalForum": 1,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Insufficient For Comparison",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0,
+        "meanCompound": 0.5994
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "western-sydney-university--master-of-sustainable-tourism-hospitality-and-event-management",
+      "eligibleRecords": 3,
+      "highRelevance": 1,
+      "mediumRelevance": 2,
+      "generalForum": 3,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Insufficient For Comparison",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 2,
+        "neutral": 1,
+        "negative": 0,
+        "meanCompound": 0.25223333333333336
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 1,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "queen-s-university--master-of-environmental-studies",
+      "eligibleRecords": 21,
+      "highRelevance": 3,
+      "mediumRelevance": 18,
+      "generalForum": 21,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Low Volume",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 8,
+        "neutral": 12,
+        "negative": 1,
+        "meanCompound": 0.12281904761904763
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 4,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 1
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "universiti-sains-malaysia--master-in-sustainable-development-practice",
+      "eligibleRecords": 0,
+      "highRelevance": 0,
+      "mediumRelevance": 0,
+      "generalForum": 0,
+      "schoolForum": 0,
+      "generalForumOnly": false,
+      "coverageLevel": "No Analyzed Posts",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0,
+        "meanCompound": null
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": null,
+      "warning": "No eligible institution-associated discussions were found in the aggregate package.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "hanyang-university--master-s-majors-in-global-climate-and-environmental-studies",
+      "eligibleRecords": 1,
+      "highRelevance": 1,
+      "mediumRelevance": 0,
+      "generalForum": 1,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Insufficient For Comparison",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0,
+        "meanCompound": 0.5106
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "hokkaido-university--master-s-program-graduate-school-of-environmental-science",
+      "eligibleRecords": 3,
+      "highRelevance": 1,
+      "mediumRelevance": 2,
+      "generalForum": 3,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Insufficient For Comparison",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 0,
+        "neutral": 2,
+        "negative": 1,
+        "meanCompound": -0.13396666666666665
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "universiti-kebangsaan-malaysia--master-of-science-master-of-arts-in-environment-and-development",
+      "eligibleRecords": 1,
+      "highRelevance": 0,
+      "mediumRelevance": 1,
+      "generalForum": 1,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Insufficient For Comparison",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 0,
+        "neutral": 1,
+        "negative": 0,
+        "meanCompound": 0.0
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Curriculum",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "institut-agro--master-s-pathway-transitions-in-environmental-and-agrifood-systems-management",
+      "eligibleRecords": 0,
+      "highRelevance": 0,
+      "mediumRelevance": 0,
+      "generalForum": 0,
+      "schoolForum": 0,
+      "generalForumOnly": false,
+      "coverageLevel": "No Analyzed Posts",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0,
+        "meanCompound": null
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": null,
+      "warning": "No eligible institution-associated discussions were found in the aggregate package.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "national-taiwan-university--master-s-program-in-biodiversity",
+      "eligibleRecords": 8,
+      "highRelevance": 0,
+      "mediumRelevance": 8,
+      "generalForum": 8,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Insufficient For Comparison",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 6,
+        "neutral": 2,
+        "negative": 0,
+        "meanCompound": 0.3418
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "university-of-alberta--master-of-sustainability",
+      "eligibleRecords": 37,
+      "highRelevance": 6,
+      "mediumRelevance": 31,
+      "generalForum": 37,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Medium Volume",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 12,
+        "neutral": 24,
+        "negative": 1,
+        "meanCompound": 0.12434864864864865
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 4,
+        "rejected": 1,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "korea-university--master-s-in-climatic-environment",
+      "eligibleRecords": 2,
+      "highRelevance": 0,
+      "mediumRelevance": 2,
+      "generalForum": 2,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Insufficient For Comparison",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 0,
+        "meanCompound": 0.6306
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Cost and Funding",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "universitas-airlangga--master-of-environmental-health",
+      "eligibleRecords": 0,
+      "highRelevance": 0,
+      "mediumRelevance": 0,
+      "generalForum": 0,
+      "schoolForum": 0,
+      "generalForumOnly": false,
+      "coverageLevel": "No Analyzed Posts",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0,
+        "meanCompound": null
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": null,
+      "warning": "No eligible institution-associated discussions were found in the aggregate package.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "pusan-national-university--master-s-programs-graduate-school-of-environment",
+      "eligibleRecords": 10,
+      "highRelevance": 5,
+      "mediumRelevance": 5,
+      "generalForum": 10,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Low Volume",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 8,
+        "neutral": 2,
+        "negative": 0,
+        "meanCompound": 0.45648
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Cost and Funding",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "university-of-tasmania--master-of-environmental-geospatial-science",
+      "eligibleRecords": 0,
+      "highRelevance": 0,
+      "mediumRelevance": 0,
+      "generalForum": 0,
+      "schoolForum": 0,
+      "generalForumOnly": false,
+      "coverageLevel": "No Analyzed Posts",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0,
+        "meanCompound": null
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": null,
+      "warning": "No eligible institution-associated discussions were found in the aggregate package.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "mcmaster-university--no-directly-qualifying-sustainability-environment-master-s-confirmed",
+      "eligibleRecords": 33,
+      "highRelevance": 0,
+      "mediumRelevance": 33,
+      "generalForum": 33,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Medium Volume",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 11,
+        "neutral": 20,
+        "negative": 2,
+        "meanCompound": 0.1449878787878788
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 4,
+        "rejected": 2,
+        "waitlisted": 0,
+        "pendingOrWaiting": 2
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "chulalongkorn-university--ma-environment-development-and-sustainability",
+      "eligibleRecords": 2,
+      "highRelevance": 0,
+      "mediumRelevance": 2,
+      "generalForum": 2,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Insufficient For Comparison",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 1,
+        "neutral": 1,
+        "negative": 0,
+        "meanCompound": 0.2787
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "university-of-exeter--msc-global-sustainability-solutions",
+      "eligibleRecords": 2,
+      "highRelevance": 0,
+      "mediumRelevance": 2,
+      "generalForum": 2,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Insufficient For Comparison",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 0,
+        "meanCompound": 0.43035
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 1,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Cost and Funding",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "kyungpook-national-university--graduate-major-in-environmental-and-energy-engineering",
+      "eligibleRecords": 1,
+      "highRelevance": 0,
+      "mediumRelevance": 1,
+      "generalForum": 1,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Insufficient For Comparison",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0,
+        "meanCompound": 0.7506
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Cost and Funding",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "hong-kong-university-of-science-and-technology--msc-in-environmental-engineering-and-management",
+      "eligibleRecords": 20,
+      "highRelevance": 11,
+      "mediumRelevance": 9,
+      "generalForum": 20,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Low Volume",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 6,
+        "neutral": 12,
+        "negative": 2,
+        "meanCompound": 0.08576500000000001
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 1,
+        "rejected": 2,
+        "waitlisted": 0,
+        "pendingOrWaiting": 3
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "lovely-professional-university--msc-environmental-sciences",
+      "eligibleRecords": 0,
+      "highRelevance": 0,
+      "mediumRelevance": 0,
+      "generalForum": 0,
+      "schoolForum": 0,
+      "generalForumOnly": false,
+      "coverageLevel": "No Analyzed Posts",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0,
+        "meanCompound": null
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": null,
+      "warning": "No eligible institution-associated discussions were found in the aggregate package.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "university-of-malaya--master-of-sustainability-science",
+      "eligibleRecords": 2,
+      "highRelevance": 0,
+      "mediumRelevance": 2,
+      "generalForum": 2,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Insufficient For Comparison",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 1,
+        "neutral": 1,
+        "negative": 0,
+        "meanCompound": 0.2553
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 1,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "aalborg-university--msc-engineering-in-sustainable-cities",
+      "eligibleRecords": 3,
+      "highRelevance": 1,
+      "mediumRelevance": 2,
+      "generalForum": 3,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Insufficient For Comparison",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 1,
+        "neutral": 2,
+        "negative": 0,
+        "meanCompound": 0.09106666666666667
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Other",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "kyung-hee-university--graduate-pathway-in-environmental-science-and-engineering",
+      "eligibleRecords": 2,
+      "highRelevance": 0,
+      "mediumRelevance": 2,
+      "generalForum": 2,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Insufficient For Comparison",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 1,
+        "neutral": 1,
+        "negative": 0,
+        "meanCompound": 0.2553
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Research and Thesis",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "university-of-victoria--ma-msc-environmental-studies",
+      "eligibleRecords": 17,
+      "highRelevance": 0,
+      "mediumRelevance": 17,
+      "generalForum": 17,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Low Volume",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 3,
+        "neutral": 12,
+        "negative": 2,
+        "meanCompound": 0.001417647058823535
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 2,
+        "rejected": 2,
+        "waitlisted": 0,
+        "pendingOrWaiting": 1
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "central-queensland-university--master-of-sustainable-development",
+      "eligibleRecords": 1,
+      "highRelevance": 0,
+      "mediumRelevance": 1,
+      "generalForum": 1,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Insufficient For Comparison",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0,
+        "meanCompound": 0.5994
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "university-of-newcastle--master-of-environmental-management-and-sustainability",
+      "eligibleRecords": 0,
+      "highRelevance": 0,
+      "mediumRelevance": 0,
+      "generalForum": 0,
+      "schoolForum": 0,
+      "generalForumOnly": false,
+      "coverageLevel": "No Analyzed Posts",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0,
+        "meanCompound": null
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": null,
+      "warning": "No eligible institution-associated discussions were found in the aggregate package.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "northumbria-university--msc-disaster-management-and-sustainable-development",
+      "eligibleRecords": 1,
+      "highRelevance": 0,
+      "mediumRelevance": 1,
+      "generalForum": 1,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "Insufficient For Comparison",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0,
+        "meanCompound": 0.34
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "university-of-indonesia--master-of-environmental-science",
+      "eligibleRecords": 0,
+      "highRelevance": 0,
+      "mediumRelevance": 0,
+      "generalForum": 0,
+      "schoolForum": 0,
+      "generalForumOnly": false,
+      "coverageLevel": "No Analyzed Posts",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0,
+        "meanCompound": null
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": null,
+      "warning": "No eligible institution-associated discussions were found in the aggregate package.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "an-najah-national-university--msc-environmental-sciences",
+      "eligibleRecords": 0,
+      "highRelevance": 0,
+      "mediumRelevance": 0,
+      "generalForum": 0,
+      "schoolForum": 0,
+      "generalForumOnly": false,
+      "coverageLevel": "No Analyzed Posts",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0,
+        "meanCompound": null
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 0,
+        "rejected": 0,
+        "waitlisted": 0,
+        "pendingOrWaiting": 0
+      },
+      "topTopic": null,
+      "warning": "No eligible institution-associated discussions were found in the aggregate package.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    },
+    {
+      "programmeId": "arizona-state-university--master-of-sustainability-solutions",
+      "eligibleRecords": 188,
+      "highRelevance": 8,
+      "mediumRelevance": 180,
+      "generalForum": 188,
+      "schoolForum": 0,
+      "generalForumOnly": true,
+      "coverageLevel": "High Volume",
+      "comparable": false,
+      "headlineTone": {
+        "positive": 65,
+        "neutral": 102,
+        "negative": 21,
+        "meanCompound": 0.1081654255319149
+      },
+      "admissionsOutcomes": {
+        "acceptedOrOffer": 35,
+        "rejected": 20,
+        "waitlisted": 0,
+        "pendingOrWaiting": 4
+      },
+      "topTopic": "Admissions",
+      "warning": "Only general-forum evidence is available; do not treat this as school-forum evidence.",
+      "interpretation": "Institution-associated Reddit discussions; exploratory community evidence, not programme-quality evidence."
+    }
+  ]
+}

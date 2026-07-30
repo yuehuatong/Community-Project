@@ -1,0 +1,125 @@
+{
+  "title": "Beyond University Rankings",
+  "generatedAt": "2026-07-27T20:57:50.623005+00:00",
+  "sourceSnapshot": "July 2026",
+  "programmeCount": 60,
+  "countryCount": 21,
+  "countries": [
+    "Australia",
+    "Belgium",
+    "Canada",
+    "Denmark",
+    "Finland",
+    "France",
+    "Hong Kong",
+    "India",
+    "Indonesia",
+    "Ireland",
+    "Japan",
+    "Malaysia",
+    "New Zealand",
+    "Palestine",
+    "South Korea",
+    "Sweden",
+    "Switzerland",
+    "Taiwan",
+    "Thailand",
+    "United Kingdom",
+    "United States"
+  ],
+  "cohortCounts": {
+    "QS": 30,
+    "THE": 30
+  },
+  "thesisCounts": {
+    "Yes": 19,
+    "No": 41
+  },
+  "methodVersion": "1.1-provisional-ranking",
+  "scoring": {
+    "file": "program_scores.json",
+    "methodVersion": "1.1-provisional-ranking",
+    "generatedAt": "2026-07-27T16:15:09.717Z",
+    "publicLabel": "Provisional project ranking - not an official QS or THE ranking",
+    "rankingType": "provisional-coverage-adjusted",
+    "redditIncludedInAcademicScore": false,
+    "programmes": 60,
+    "matchedProgrammes": 60,
+    "institutionStrengthAvailable": 60,
+    "provisionalRoutes": 60,
+    "confirmedRoutes": 0,
+    "provisionalRanked": 57,
+    "researchProvisionalRanked": 9,
+    "taughtProvisionalRanked": 48,
+    "provisionalExcluded": 3,
+    "strictEligible": 0,
+    "finalScoresPublished": 0,
+    "ordinalRanksPublished": 0,
+    "criticalWarnings": 2,
+    "statusCounts": {
+      "provisional-ranking": 57,
+      "eligibility-excluded": 3
+    },
+    "routeStatusCounts": {
+      "rule-based-provisional": 60
+    },
+    "routeConfidenceCounts": {
+      "medium": 6,
+      "low": 51,
+      "high": 3
+    },
+    "provisionalPolicy": {
+      "coverageBlocksInclusion": false,
+      "missingWeightTreatment": "neutral-shrinkage",
+      "strictResultsSeparate": true
+    }
+  },
+  "coverageRules": [
+    {
+      "minimum": 85,
+      "label": "High confidence",
+      "treatment": "Strict validated rank may be published."
+    },
+    {
+      "minimum": 70,
+      "label": "Medium confidence",
+      "treatment": "Strict result may be published with a confidence label."
+    },
+    {
+      "minimum": 55,
+      "label": "Provisional strict result",
+      "treatment": "Strict provisional score without an ordinal rank."
+    },
+    {
+      "minimum": 0,
+      "label": "Below strict threshold",
+      "treatment": "No strict score or rank; method 1.1 may still show a coverage-adjusted provisional rank."
+    }
+  ],
+  "statusDefinitions": {
+    "verified": "Current official source directly supports the displayed value.",
+    "manual-review": "Source evidence exists, but value or scope still requires review.",
+    "unverified": "The programme identity or eligibility is unresolved.",
+    "not-stated": "The reviewed source did not state a usable value.",
+    "not-applicable": "The field does not apply.",
+    "not-ranked": "Not ranked in the collected complete official table (NR).",
+    "not-published": "The ranking edition was not published (N/P).",
+    "not-collected": "The source was not collected or a usable value was not captured.",
+    "insufficient-evidence": "Coverage is below the documented publication threshold.",
+    "provisional-ranking": "Coverage-adjusted method 1.1 output. It is not a strict validated final result.",
+    "eligibility-excluded": "The record is excluded from the provisional ranking because programme eligibility is unresolved or invalid."
+  },
+  "sourceFiles": {
+    "programmes": "program_source_data_top60_qs30_the30.xlsx",
+    "rankingHistories": "qs_the_5_year_sustainability_and_school_rankings_60_programs.xlsx",
+    "scoring": "program_scores.json",
+    "community": [
+      "reddit_concern_summary.csv",
+      "reddit_institution_summary.csv",
+      "reddit_monthly_summary.csv",
+      "reddit_outcome_summary.csv",
+      "reddit_subreddit_summary.csv",
+      "reddit_topic_summary.csv"
+    ]
+  }
+}

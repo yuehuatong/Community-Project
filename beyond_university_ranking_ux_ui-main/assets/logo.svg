@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Beyond University Rankings">
+  <rect x="2" y="2" width="44" height="44" rx="7" fill="#123f3a"/>
+  <path d="M12 33V16h6.2c4.5 0 7.1 2.1 7.1 5.7 0 1.7-.8 3.2-2.2 4.1 2.4.8 3.8 2.5 3.8 5 0 .8-.1 1.5-.4 2.2H12Zm4.7-10h1.6c1.5 0 2.3-.6 2.3-1.8 0-1.1-.8-1.7-2.3-1.7h-1.6V23Zm0 6.6h2.1c2.1 0 3.1-.7 3.1-2.1 0-1.3-1-2-3-2h-2.2v4.1Z" fill="#fff"/>
+  <path d="M29 15h7v18h-4.8V19.4H29V15Z" fill="#9ed8c7"/>
+</svg>

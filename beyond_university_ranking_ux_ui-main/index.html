@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta
+      name="description"
+      content="A transparent, evidence-aware explorer for 60 sustainability-related master's programmes."
+    >
+    <meta name="theme-color" content="#123f3a">
+    <title>Beyond University Rankings</title>
+    <link rel="icon" href="./assets/logo.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="./assets/css/styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content" id="skip-link">Skip to main content</a>
+
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="#/" aria-label="Beyond University Rankings homepage">
+          <img src="./assets/logo.svg" width="40" height="40" alt="">
+          <span>
+            <strong>Beyond</strong>
+            <small>University Rankings</small>
+          </span>
+        </a>
+
+        <button
+          class="nav-toggle"
+          id="nav-toggle"
+          type="button"
+          aria-expanded="false"
+          aria-controls="primary-nav"
+        >
+          <span aria-hidden="true">☰</span>
+          <span>Menu</span>
+        </button>
+
+        <nav class="primary-nav" id="primary-nav" aria-label="Primary navigation">
+          <a href="#/" data-nav="home">Home</a>
+          <a href="#/explore" data-nav="explore">Explore</a>
+          <a href="#/rankings/research" data-nav="rankings">Rankings</a>
+          <a href="#/compare" data-nav="compare">
+            Compare <span class="nav-count" id="compare-count" hidden>0</span>
+          </a>
+          <a href="#/community" data-nav="community">Community</a>
+          <a href="#/methodology" data-nav="methodology">Methodology</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main-content" tabindex="-1">
+      <div class="loading-state" role="status" aria-live="polite">
+        <div class="loading-mark" aria-hidden="true"></div>
+        <p>Loading the programme evidence…</p>
+      </div>
+    </main>
+
+    <aside class="compare-tray" id="compare-tray" aria-label="Selected comparison programmes" hidden></aside>
+    <div class="toast-region" id="toast-region" role="status" aria-live="polite"></div>
+
+    <script src="./assets/js/frontend_scoring_adapter.js"></script>
+    <script type="module" src="./assets/js/app.js"></script>
+  </body>
+</html>
